@@ -1,0 +1,84 @@
+________________________________________________________________
+Tempo inicio:2020-02-11 14:59:08
+k-FOLD:1
+Best silhouette0.4578 for k=525
+k-Teste:525
+O(s) grupo(s) mais frequente:
+Grupo  1 abrange 23.76421697287839% do teste
+Nome Ocorrencia:  NULO || Quantidade de Ocorrência 8690 :  Porcentagem da ocorrência: 99.953991 
+Nome Ocorrencia:  DIABETES MELLITUS || Quantidade de Ocorrência 1 :  Porcentagem da ocorrência: 0.011502 
+Nome Ocorrencia:  Hipertensao essencial (primaria) || Quantidade de Ocorrência 1 :  Porcentagem da ocorrência: 0.011502 
+Nome Ocorrencia:  Embolia e trombose de outras veias especificadas || Quantidade de Ocorrência 1 :  Porcentagem da ocorrência: 0.011502 
+Nome Ocorrencia:  Neoplasia de comportamento incerto ou desconhecido da traqueia, bronquios e pulmao || Quantidade de Ocorrência 1 :  Porcentagem da ocorrência: 0.011502 
+________________________________________________________________
+Tempo inicio:2020-02-11 15:17:06
+k-FOLD:2
+Best silhouette0.6732 for k=750
+k-Teste:750
+O(s) grupo(s) mais frequente:
+Grupo  542 abrange 18.214129483814524% do teste
+Nome Ocorrencia:  NULO || Quantidade de Ocorrência 6662 :  Porcentagem da ocorrência: 100.000000 
+________________________________________________________________
+Tempo inicio:2020-02-11 15:34:31
+k-FOLD:3
+Best silhouette0.7446 for k=750
+k-Teste:750
+O(s) grupo(s) mais frequente:
+Grupo  534 abrange 17.39938757655293% do teste
+Nome Ocorrencia:  NULO || Quantidade de Ocorrência 6364 :  Porcentagem da ocorrência: 100.000000 
+________________________________________________________________
+Tempo inicio:2020-02-11 15:51:31
+k-FOLD:4
+Best silhouette0.7384 for k=750
+k-Teste:750
+O(s) grupo(s) mais frequente:
+Grupo  568 abrange 17.549759405074365% do teste
+Nome Ocorrencia:  NULO || Quantidade de Ocorrência 6419 :  Porcentagem da ocorrência: 100.000000 
+________________________________________________________________
+Tempo inicio:2020-02-11 16:07:52
+k-FOLD:5
+Best silhouette0.7446 for k=750
+k-Teste:750
+O(s) grupo(s) mais frequente:
+Grupo  633 abrange 17.57709973753281% do teste
+Nome Ocorrencia:  NULO || Quantidade de Ocorrência 6429 :  Porcentagem da ocorrência: 100.000000 
+________________________________________________________________
+Tempo inicio:2020-02-11 16:24:06
+k-FOLD:6
+Best silhouette0.7436 for k=750
+k-Teste:750
+O(s) grupo(s) mais frequente:
+Grupo  262 abrange 17.314632545931758% do teste
+Nome Ocorrencia:  NULO || Quantidade de Ocorrência 6333 :  Porcentagem da ocorrência: 100.000000 
+________________________________________________________________
+Tempo inicio:2020-02-11 16:40:13
+k-FOLD:7
+Best silhouette0.7401 for k=750
+k-Teste:750
+O(s) grupo(s) mais frequente:
+Grupo  454 abrange 17.287292213473314% do teste
+Nome Ocorrencia:  NULO || Quantidade de Ocorrência 6323 :  Porcentagem da ocorrência: 100.000000 
+________________________________________________________________
+Tempo inicio:2020-02-11 17:00:05
+k-FOLD:8
+Best silhouette0.744 for k=750
+k-Teste:750
+O(s) grupo(s) mais frequente:
+Grupo  206 abrange 17.582567804024496% do teste
+Nome Ocorrencia:  NULO || Quantidade de Ocorrência 6431 :  Porcentagem da ocorrência: 100.000000 
+________________________________________________________________
+Tempo inicio:2020-02-11 17:21:36
+k-FOLD:9
+Best silhouette0.738 for k=750
+k-Teste:750
+O(s) grupo(s) mais frequente:
+Grupo  669 abrange 17.798556430446194% do teste
+Nome Ocorrencia:  NULO || Quantidade de Ocorrência 6510 :  Porcentagem da ocorrência: 100.000000 
+________________________________________________________________
+Tempo inicio:2020-02-11 17:43:05
+k-FOLD:10
+Best silhouette0.5192 for k=600
+k-Teste:600
+O(s) grupo(s) mais frequente:
+Grupo  244 abrange 20.294728783902013% do teste
+Nome Ocorrencia:  NULO || Quantidade de Ocorrência 7423 :  Porcentagem da ocorrência: 100.000000 
