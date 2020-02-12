@@ -1,0 +1,107 @@
+,nome_ocorrencia,qnt_ocorrencia,freq_ocorrencia
+11,Hipertensao essencial (primaria),160,15.267175572519085
+6,Insuficiencia cardiaca congestiva,107,10.209923664122138
+9,"Hipertensao secundaria, nao especificada",64,6.106870229007633
+7,"Dor toracica, nao especificada",57,5.438931297709924
+2,Transtorno ansioso nao especificado,41,3.9122137404580157
+4,"""Flutter"" e fibrilacao atrial",39,3.7213740458015265
+50,Broncopneumonia nao especificada,37,3.5305343511450387
+1,Palpitacoes,33,3.1488549618320607
+23,Mialgia,28,2.6717557251908395
+29,Diabetes mellitus nao especificado,25,2.385496183206107
+28,Outros disturbios do metabolismo de lipoproteinas,25,2.385496183206107
+13,Cefaleia,19,1.8129770992366412
+14,Doenca de Chagas,18,1.717557251908397
+31,Presenca de marca-passo cardiaco,18,1.717557251908397
+32,Diabetes mellitus nao especificado sem complicacoes,18,1.717557251908397
+77,Doenca pulmonar obstrutiva cronica nao especificada,17,1.6221374045801527
+25,Arritmia cardiaca nao especificada,16,1.5267175572519083
+15,Infarto agudo do miocardio nao especificado,16,1.5267175572519083
+8,Dispneia,15,1.4312977099236641
+10,Outros transtornos ansiosos,13,1.2404580152671756
+26,Angina instavel,12,1.1450381679389312
+36,Tosse,11,1.049618320610687
+46,Sincope e colapso,11,1.049618320610687
+19,Angina pectoris,10,0.9541984732824428
+57,Tontura e instabilidade,10,0.9541984732824428
+61,Bronquite nao especificada como aguda ou cronica,10,0.9541984732824428
+60,Outras formas de doenca isquemica cronica do coracao,10,0.9541984732824428
+59,Doenca isquemica cronica do coracao nao especificada,9,0.8587786259541985
+43,Disturbio nao especificado do metabolismo de lipoproteinas,9,0.8587786259541985
+0,"Mal estar, fadiga",9,0.8587786259541985
+18,Sindrome de dependencia de sedativos e hipnoticos,9,0.8587786259541985
+16,Miosite nao especificada,9,0.8587786259541985
+5,Dor precordial,8,0.7633587786259541
+48,Dispepsia,8,0.7633587786259541
+12,Dor em membro,7,0.6679389312977099
+41,Taquicardia supraventricular,7,0.6679389312977099
+71,hipotensão ortostática,6,0.5725190839694656
+24,Exame medico geral,6,0.5725190839694656
+33,"Angina pectoris, nao especificada",6,0.5725190839694656
+17,"Gastroduodenite, sem outra especificacao",5,0.4770992366412214
+55,Outras arritmias cardiacas especificadas,5,0.4770992366412214
+3,Outras formas de despolarizacao prematura e as nao especificadas,5,0.4770992366412214
+91,Dor localizada no abdome superior,4,0.38167938931297707
+97,Outras afeccoes especificadas das arterias e das arteriolas,4,0.38167938931297707
+52,Outras formas de doenca isquemica aguda do coracao,4,0.38167938931297707
+47,Bloqueio atrioventricular de segundo grau,4,0.38167938931297707
+105,Sopros e outros ruidos cardiacos,4,0.38167938931297707
+40,Tireotoxicose nao especificada,4,0.38167938931297707
+34,Pessoa com medo de uma queixa para a qual nao foi feito diagnostico,3,0.2862595419847328
+21,Doenca nao especificada da valva mitral,3,0.2862595419847328
+80,Episodio depressivo nao especificado,3,0.2862595419847328
+27,Hipotensao nao especificada,3,0.2862595419847328
+45,Cardiomiopatias nao especificada,2,0.19083969465648853
+66,Comunicacao interventricular,2,0.19083969465648853
+96,Infarto agudo do miocardio,2,0.19083969465648853
+89,Doenca de refluxo gastroesofagico sem esofagite,2,0.19083969465648853
+58,Estenose (da valva) aortica,2,0.19083969465648853
+56,Hipoglicemia nao especificada,2,0.19083969465648853
+22,Labirintite,2,0.19083969465648853
+54,Deplecao de volume,2,0.19083969465648853
+49,"Acidente vascular cerebral, nao especificado como hemorragico ou isquemico",2,0.19083969465648853
+68,Febre nao especificada,2,0.19083969465648853
+86,Doenca isquemica cronica do coracao,1,0.09541984732824427
+92,Infeccao do trato urinario de localizacao nao especificada,1,0.09541984732824427
+87,Complicacao mecanica de dispositivo eletronico cardiaco,1,0.09541984732824427
+88,"Enxaqueca, sem especificacao",1,0.09541984732824427
+90,Uso nocivo para a saude de fumo,1,0.09541984732824427
+85,Teste de tolerancia a glicose anormal,1,0.09541984732824427
+84,Parestesias cutaneas,1,0.09541984732824427
+95,Outras doencas da valva tricuspide,1,0.09541984732824427
+93,Febre de origem desconhecida,1,0.09541984732824427
+94,Outros disturbios funcionais subsequentes a cirurgia cardiaca,1,0.09541984732824427
+82,Sindrome de pre-excitacao,1,0.09541984732824427
+20,Arritmia ventricular por reentrada,1,0.09541984732824427
+98,Anestesia cutanea,1,0.09541984732824427
+99,Cardiomegalia,1,0.09541984732824427
+100,Ascite,1,0.09541984732824427
+101,Anormalidades do batimento cardiaco,1,0.09541984732824427
+102,"Osteocondropatias, nao especificada",1,0.09541984732824427
+103,Taquicardia nao especificada,1,0.09541984732824427
+104,Nausea e vomitos,1,0.09541984732824427
+83,Ulcera gastrica,1,0.09541984732824427
+76,Diarreia e gastroenterite de origem infecciosa presumivel,1,0.09541984732824427
+81,Varizes dos membros inferiores com ulcera,1,0.09541984732824427
+64,Sindrome [estado] de abstinencia do uso de alcool,1,0.09541984732824427
+42,Comunicacao ventriculo-atrial discordante,1,0.09541984732824427
+51,Outra dor toracica,1,0.09541984732824427
+39,Erisipela,1,0.09541984732824427
+38,Prolapso (da valva) mitral,1,0.09541984732824427
+37,Infarto agudo transmural da parede inferior do miocardio,1,0.09541984732824427
+35,"Gastroenterite e colite nao-infecciosas, nao especificadas",1,0.09541984732824427
+30,Outras formas especificadas de doenca pulmonar obstrutiva cronica,1,0.09541984732824427
+62,Transtornos nao especificados da funcao vestibular,1,0.09541984732824427
+63,Insuficiencia mitral reumatica,1,0.09541984732824427
+65,Asma,1,0.09541984732824427
+79,Neurastenia,1,0.09541984732824427
+67,Pneumonia nao especificada,1,0.09541984732824427
+69,Outras gastrites,1,0.09541984732824427
+70,Complicacao mecanica de enxerto de orgao urinario,1,0.09541984732824427
+72,Hipotensao,1,0.09541984732824427
+73,Outros sintomas e sinais relativos A funcao cognitiva e A consciencia,1,0.09541984732824427
+74,Traumatismo superficial de regiao nao especificada do corpo,1,0.09541984732824427
+75,Outra dorsalgia,1,0.09541984732824427
+44,Insuficiencia cardiaca,1,0.09541984732824427
+78,Dor nao classificada em outra parte,1,0.09541984732824427
+53,Soluco,1,0.09541984732824427

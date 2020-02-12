@@ -1,0 +1,107 @@
+,nome_ocorrencia,qnt_ocorrencia,freq_ocorrencia
+11,Hipertensao essencial (primaria),135,15.050167224080269
+6,Insuficiencia cardiaca congestiva,83,9.253065774804906
+7,"Dor toracica, nao especificada",58,6.465997770345597
+9,"Hipertensao secundaria, nao especificada",37,4.124860646599777
+1,Palpitacoes,35,3.901895206243032
+2,Transtorno ansioso nao especificado,33,3.678929765886288
+32,Diabetes mellitus nao especificado sem complicacoes,27,3.0100334448160537
+23,Mialgia,26,2.898550724637681
+13,Cefaleia,22,2.4526198439241917
+31,Presenca de marca-passo cardiaco,21,2.341137123745819
+8,Dispneia,21,2.341137123745819
+48,Broncopneumonia nao especificada,20,2.229654403567447
+59,Doenca pulmonar obstrutiva cronica nao especificada,18,2.0066889632107023
+25,Arritmia cardiaca nao especificada,16,1.7837235228539576
+4,"""Flutter"" e fibrilacao atrial",16,1.7837235228539576
+40,Sincope e colapso,16,1.7837235228539576
+14,Doenca de Chagas,14,1.560758082497213
+15,Infarto agudo do miocardio nao especificado,14,1.560758082497213
+28,Outros disturbios do metabolismo de lipoproteinas,13,1.4492753623188406
+10,Outros transtornos ansiosos,13,1.4492753623188406
+26,Angina instavel,12,1.3377926421404682
+0,"Mal estar, fadiga",12,1.3377926421404682
+5,Dor precordial,12,1.3377926421404682
+16,Miosite nao especificada,11,1.2263099219620959
+51,"Acidente vascular cerebral, nao especificado como hemorragico ou isquemico",11,1.2263099219620959
+19,Angina pectoris,10,1.1148272017837235
+29,Diabetes mellitus nao especificado,9,1.0033444816053512
+37,Tontura e instabilidade,9,1.0033444816053512
+83,Tosse,9,1.0033444816053512
+18,Sindrome de dependencia de sedativos e hipnoticos,9,1.0033444816053512
+68,"Hipertensao pre-existente complicando a gravidez, o parto e o puerperio",9,1.0033444816053512
+12,Dor em membro,7,0.7803790412486065
+45,hipotensão ortostática,6,0.6688963210702341
+3,Outras formas de despolarizacao prematura e as nao especificadas,6,0.6688963210702341
+33,"Angina pectoris, nao especificada",5,0.5574136008918618
+64,Insuficiencia mitral reumatica,4,0.4459308807134894
+98,Outras afeccoes especificadas das arterias e das arteriolas,4,0.4459308807134894
+58,Episodio depressivo nao especificado,4,0.4459308807134894
+56,Ansiedade generalizada,4,0.4459308807134894
+92,Dor localizada no abdome superior,4,0.4459308807134894
+70,"Transtorno afetivo bipolar, episodio atual depressivo leve ou moderado",4,0.4459308807134894
+49,Outras formas de doenca isquemica aguda do coracao,4,0.4459308807134894
+82,Dispepsia,4,0.4459308807134894
+105,Sopros e outros ruidos cardiacos,4,0.4459308807134894
+17,"Gastroduodenite, sem outra especificacao",4,0.4459308807134894
+24,Exame medico geral,4,0.4459308807134894
+27,Hipotensao nao especificada,4,0.4459308807134894
+44,Taquicardia supraventricular,3,0.33444816053511706
+22,Labirintite,3,0.33444816053511706
+21,Doenca nao especificada da valva mitral,3,0.33444816053511706
+67,Taquicardia nao especificada,3,0.33444816053511706
+34,Pessoa com medo de uma queixa para a qual nao foi feito diagnostico,3,0.33444816053511706
+90,Doenca de refluxo gastroesofagico sem esofagite,2,0.2229654403567447
+97,Infarto agudo do miocardio,2,0.2229654403567447
+61,Nausea e vomitos,2,0.2229654403567447
+38,Febre nao especificada,2,0.2229654403567447
+52,Doenca isquemica cronica do coracao,2,0.2229654403567447
+100,Cardiomegalia,1,0.11148272017837235
+81,Parestesias cutaneas,1,0.11148272017837235
+104,Outras arritmias cardiacas especificadas,1,0.11148272017837235
+103,"Osteocondropatias, nao especificada",1,0.11148272017837235
+84,Outras formas de doenca isquemica cronica do coracao,1,0.11148272017837235
+85,Teste de tolerancia a glicose anormal,1,0.11148272017837235
+86,Bronquite nao especificada como aguda ou cronica,1,0.11148272017837235
+102,Anormalidades do batimento cardiaco,1,0.11148272017837235
+87,Comunicacao interventricular,1,0.11148272017837235
+101,Ascite,1,0.11148272017837235
+88,Complicacao mecanica de dispositivo eletronico cardiaco,1,0.11148272017837235
+96,Outras doencas da valva tricuspide,1,0.11148272017837235
+89,"Enxaqueca, sem especificacao",1,0.11148272017837235
+99,Anestesia cutanea,1,0.11148272017837235
+91,Uso nocivo para a saude de fumo,1,0.11148272017837235
+20,Arritmia ventricular por reentrada,1,0.11148272017837235
+79,Sindrome de pre-excitacao,1,0.11148272017837235
+93,Infeccao do trato urinario de localizacao nao especificada,1,0.11148272017837235
+94,Febre de origem desconhecida,1,0.11148272017837235
+95,Outros disturbios funcionais subsequentes a cirurgia cardiaca,1,0.11148272017837235
+80,Ulcera gastrica,1,0.11148272017837235
+75,Bloqueio atrioventricular de segundo grau,1,0.11148272017837235
+78,Varizes dos membros inferiores com ulcera,1,0.11148272017837235
+60,Cervicalgia,1,0.11148272017837235
+46,Hipotensao,1,0.11148272017837235
+47,Outros sintomas e sinais relativos A funcao cognitiva e A consciencia,1,0.11148272017837235
+42,Cardiomiopatias nao especificada,1,0.11148272017837235
+41,Complicacao mecanica de enxerto de orgao urinario,1,0.11148272017837235
+50,Outra dor toracica,1,0.11148272017837235
+39,Outras gastrites,1,0.11148272017837235
+54,Insuficiencia cardiaca,1,0.11148272017837235
+55,Transtorno de panico [ansiedade paroxistica episodica],1,0.11148272017837235
+36,Pneumonia nao especificada,1,0.11148272017837235
+57,Rigidez articular nao classificada em outra parte,1,0.11148272017837235
+35,"Gastroenterite e colite nao-infecciosas, nao especificadas",1,0.11148272017837235
+62,Febre reumatica sem mencao de comprometimento do coracao,1,0.11148272017837235
+77,Neurastenia,1,0.11148272017837235
+63,Comunicacao interatrial,1,0.11148272017837235
+30,Outras formas especificadas de doenca pulmonar obstrutiva cronica,1,0.11148272017837235
+65,Cardiomiopatia dilatada,1,0.11148272017837235
+66,Outras anormalidades e as nao especificadas da respiracao,1,0.11148272017837235
+69,Bradicardia nao especificada,1,0.11148272017837235
+71,Dor abdominal e pelvica,1,0.11148272017837235
+72,Traumatismo superficial de regiao nao especificada do corpo,1,0.11148272017837235
+73,Outra dorsalgia,1,0.11148272017837235
+74,Diarreia e gastroenterite de origem infecciosa presumivel,1,0.11148272017837235
+43,Deplecao de volume,1,0.11148272017837235
+76,Dor nao classificada em outra parte,1,0.11148272017837235
+53,Infarto agudo transmural da parede anterior do miocardio,1,0.11148272017837235

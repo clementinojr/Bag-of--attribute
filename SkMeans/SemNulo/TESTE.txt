@@ -1,0 +1,1136 @@
+********************************************************************************************************************************************************************************************
+Tempo inicio:2020-02-11 15:08:18
+k-FOLD:1
+Best silhouette0.7367 for k=675
+k-Teste:675
+O(s) grupo(s) mais frequente:
+Grupo  131 abrange 11.075949367088606% do teste
+Nome Ocorrencia:  Hipertensao essencial (primaria) || Quantidade de Ocorrência 147 :  Porcentagem da ocorrência: 17.053364 
+Nome Ocorrencia:  Insuficiencia cardiaca congestiva || Quantidade de Ocorrência 88 :  Porcentagem da ocorrência: 10.208817 
+Nome Ocorrencia:  Dor toracica, nao especificada || Quantidade de Ocorrência 57 :  Porcentagem da ocorrência: 6.612529 
+Nome Ocorrencia:  Transtorno ansioso nao especificado || Quantidade de Ocorrência 34 :  Porcentagem da ocorrência: 3.944316 
+Nome Ocorrencia:  Palpitacoes || Quantidade de Ocorrência 33 :  Porcentagem da ocorrência: 3.828306 
+Nome Ocorrencia:  Hipertensao secundaria, nao especificada || Quantidade de Ocorrência 28 :  Porcentagem da ocorrência: 3.248260 
+Nome Ocorrencia:  Mialgia || Quantidade de Ocorrência 24 :  Porcentagem da ocorrência: 2.784223 
+Nome Ocorrencia:  Diabetes mellitus nao especificado sem complicacoes || Quantidade de Ocorrência 23 :  Porcentagem da ocorrência: 2.668213 
+Nome Ocorrencia:  Cefaleia || Quantidade de Ocorrência 21 :  Porcentagem da ocorrência: 2.436195 
+Nome Ocorrencia:  Dispneia || Quantidade de Ocorrência 20 :  Porcentagem da ocorrência: 2.320186 
+Nome Ocorrencia:  Broncopneumonia nao especificada || Quantidade de Ocorrência 20 :  Porcentagem da ocorrência: 2.320186 
+Nome Ocorrencia:  Doenca pulmonar obstrutiva cronica nao especificada || Quantidade de Ocorrência 18 :  Porcentagem da ocorrência: 2.088167 
+Nome Ocorrencia:  Presenca de marca-passo cardiaco || Quantidade de Ocorrência 17 :  Porcentagem da ocorrência: 1.972158 
+Nome Ocorrencia:  Doenca de Chagas || Quantidade de Ocorrência 17 :  Porcentagem da ocorrência: 1.972158 
+Nome Ocorrencia:  Sincope e colapso || Quantidade de Ocorrência 16 :  Porcentagem da ocorrência: 1.856148 
+Nome Ocorrencia:  Arritmia cardiaca nao especificada || Quantidade de Ocorrência 15 :  Porcentagem da ocorrência: 1.740139 
+Nome Ocorrencia:  "Flutter" e fibrilacao atrial || Quantidade de Ocorrência 14 :  Porcentagem da ocorrência: 1.624130 
+Nome Ocorrencia:  Acidente vascular cerebral, nao especificado como hemorragico ou isquemico || Quantidade de Ocorrência 11 :  Porcentagem da ocorrência: 1.276102 
+Nome Ocorrencia:  Miosite nao especificada || Quantidade de Ocorrência 11 :  Porcentagem da ocorrência: 1.276102 
+Nome Ocorrencia:  Angina instavel || Quantidade de Ocorrência 11 :  Porcentagem da ocorrência: 1.276102 
+Nome Ocorrencia:  Dor precordial || Quantidade de Ocorrência 11 :  Porcentagem da ocorrência: 1.276102 
+Nome Ocorrencia:  Bronquite nao especificada como aguda ou cronica || Quantidade de Ocorrência 10 :  Porcentagem da ocorrência: 1.160093 
+Nome Ocorrencia:  Infarto agudo do miocardio nao especificado || Quantidade de Ocorrência 10 :  Porcentagem da ocorrência: 1.160093 
+Nome Ocorrencia:  Tontura e instabilidade || Quantidade de Ocorrência 10 :  Porcentagem da ocorrência: 1.160093 
+Nome Ocorrencia:  Outras formas de doenca isquemica cronica do coracao || Quantidade de Ocorrência 10 :  Porcentagem da ocorrência: 1.160093 
+Nome Ocorrencia:  Tosse || Quantidade de Ocorrência 10 :  Porcentagem da ocorrência: 1.160093 
+Nome Ocorrencia:  Hipertensao pre-existente complicando a gravidez, o parto e o puerperio || Quantidade de Ocorrência 9 :  Porcentagem da ocorrência: 1.044084 
+Nome Ocorrencia:  Doenca isquemica cronica do coracao nao especificada || Quantidade de Ocorrência 9 :  Porcentagem da ocorrência: 1.044084 
+Nome Ocorrencia:  Mal estar, fadiga || Quantidade de Ocorrência 9 :  Porcentagem da ocorrência: 1.044084 
+Nome Ocorrencia:  Dor em membro || Quantidade de Ocorrência 6 :  Porcentagem da ocorrência: 0.696056 
+Nome Ocorrencia:  hipotensão ortostática || Quantidade de Ocorrência 6 :  Porcentagem da ocorrência: 0.696056 
+Nome Ocorrencia:  Outras formas de despolarizacao prematura e as nao especificadas || Quantidade de Ocorrência 5 :  Porcentagem da ocorrência: 0.580046 
+Nome Ocorrencia:  Angina pectoris, nao especificada || Quantidade de Ocorrência 5 :  Porcentagem da ocorrência: 0.580046 
+Nome Ocorrencia:  Insuficiencia mitral reumatica || Quantidade de Ocorrência 5 :  Porcentagem da ocorrência: 0.580046 
+Nome Ocorrencia:  Transtorno afetivo bipolar, episodio atual depressivo leve ou moderado || Quantidade de Ocorrência 4 :  Porcentagem da ocorrência: 0.464037 
+Nome Ocorrencia:  Outros disturbios do metabolismo de lipoproteinas || Quantidade de Ocorrência 4 :  Porcentagem da ocorrência: 0.464037 
+Nome Ocorrencia:  Outras afeccoes especificadas das arterias e das arteriolas || Quantidade de Ocorrência 4 :  Porcentagem da ocorrência: 0.464037 
+Nome Ocorrencia:  Dispepsia || Quantidade de Ocorrência 4 :  Porcentagem da ocorrência: 0.464037 
+Nome Ocorrencia:  Ansiedade generalizada || Quantidade de Ocorrência 4 :  Porcentagem da ocorrência: 0.464037 
+Nome Ocorrencia:  Dor localizada no abdome superior || Quantidade de Ocorrência 4 :  Porcentagem da ocorrência: 0.464037 
+Nome Ocorrencia:  Outras formas de doenca isquemica aguda do coracao || Quantidade de Ocorrência 4 :  Porcentagem da ocorrência: 0.464037 
+Nome Ocorrencia:  Episodio depressivo nao especificado || Quantidade de Ocorrência 4 :  Porcentagem da ocorrência: 0.464037 
+Nome Ocorrencia:  Sopros e outros ruidos cardiacos || Quantidade de Ocorrência 4 :  Porcentagem da ocorrência: 0.464037 
+Nome Ocorrencia:  Gastroduodenite, sem outra especificacao || Quantidade de Ocorrência 4 :  Porcentagem da ocorrência: 0.464037 
+Nome Ocorrencia:  Exame medico geral || Quantidade de Ocorrência 3 :  Porcentagem da ocorrência: 0.348028 
+Nome Ocorrencia:  Taquicardia nao especificada || Quantidade de Ocorrência 3 :  Porcentagem da ocorrência: 0.348028 
+Nome Ocorrencia:  Taquicardia supraventricular || Quantidade de Ocorrência 3 :  Porcentagem da ocorrência: 0.348028 
+Nome Ocorrencia:  Hipotensao nao especificada || Quantidade de Ocorrência 3 :  Porcentagem da ocorrência: 0.348028 
+Nome Ocorrencia:  Bloqueio atrioventricular de segundo grau || Quantidade de Ocorrência 3 :  Porcentagem da ocorrência: 0.348028 
+Nome Ocorrencia:  Doenca de refluxo gastroesofagico sem esofagite || Quantidade de Ocorrência 2 :  Porcentagem da ocorrência: 0.232019 
+Nome Ocorrencia:  Febre nao especificada || Quantidade de Ocorrência 2 :  Porcentagem da ocorrência: 0.232019 
+Nome Ocorrencia:  Nausea e vomitos || Quantidade de Ocorrência 2 :  Porcentagem da ocorrência: 0.232019 
+Nome Ocorrencia:  Infarto agudo do miocardio || Quantidade de Ocorrência 2 :  Porcentagem da ocorrência: 0.232019 
+Nome Ocorrencia:  Estenose (da valva) aortica || Quantidade de Ocorrência 2 :  Porcentagem da ocorrência: 0.232019 
+Nome Ocorrencia:  Labirintite || Quantidade de Ocorrência 2 :  Porcentagem da ocorrência: 0.232019 
+Nome Ocorrencia:  Doenca nao especificada da valva mitral || Quantidade de Ocorrência 2 :  Porcentagem da ocorrência: 0.232019 
+Nome Ocorrencia:  Doenca isquemica cronica do coracao || Quantidade de Ocorrência 2 :  Porcentagem da ocorrência: 0.232019 
+Nome Ocorrencia:  Pessoa com medo de uma queixa para a qual nao foi feito diagnostico || Quantidade de Ocorrência 2 :  Porcentagem da ocorrência: 0.232019 
+Nome Ocorrencia:  Comunicacao interventricular || Quantidade de Ocorrência 2 :  Porcentagem da ocorrência: 0.232019 
+Nome Ocorrencia:  Angina pectoris || Quantidade de Ocorrência 1 :  Porcentagem da ocorrência: 0.116009 
+Nome Ocorrencia:  Teste de tolerancia a glicose anormal || Quantidade de Ocorrência 1 :  Porcentagem da ocorrência: 0.116009 
+Nome Ocorrencia:  Parestesias cutaneas || Quantidade de Ocorrência 1 :  Porcentagem da ocorrência: 0.116009 
+Nome Ocorrencia:  Ulcera gastrica || Quantidade de Ocorrência 1 :  Porcentagem da ocorrência: 0.116009 
+Nome Ocorrencia:  Complicacao mecanica de dispositivo eletronico cardiaco || Quantidade de Ocorrência 1 :  Porcentagem da ocorrência: 0.116009 
+Nome Ocorrencia:  Enxaqueca, sem especificacao || Quantidade de Ocorrência 1 :  Porcentagem da ocorrência: 0.116009 
+Nome Ocorrencia:  Sindrome de pre-excitacao || Quantidade de Ocorrência 1 :  Porcentagem da ocorrência: 0.116009 
+Nome Ocorrencia:  Outros sintomas e sinais relativos A funcao cognitiva e A consciencia || Quantidade de Ocorrência 1 :  Porcentagem da ocorrência: 0.116009 
+Nome Ocorrencia:  Uso nocivo para a saude de fumo || Quantidade de Ocorrência 1 :  Porcentagem da ocorrência: 0.116009 
+Nome Ocorrencia:  Transtornos nao especificados da funcao vestibular || Quantidade de Ocorrência 1 :  Porcentagem da ocorrência: 0.116009 
+Nome Ocorrencia:  Infeccao do trato urinario de localizacao nao especificada || Quantidade de Ocorrência 1 :  Porcentagem da ocorrência: 0.116009 
+Nome Ocorrencia:  Varizes dos membros inferiores com ulcera || Quantidade de Ocorrência 1 :  Porcentagem da ocorrência: 0.116009 
+Nome Ocorrencia:  Outros disturbios funcionais subsequentes a cirurgia cardiaca || Quantidade de Ocorrência 1 :  Porcentagem da ocorrência: 0.116009 
+Nome Ocorrencia:  Outras doencas da valva tricuspide || Quantidade de Ocorrência 1 :  Porcentagem da ocorrência: 0.116009 
+Nome Ocorrencia:  Anestesia cutanea || Quantidade de Ocorrência 1 :  Porcentagem da ocorrência: 0.116009 
+Nome Ocorrencia:  Cardiomegalia || Quantidade de Ocorrência 1 :  Porcentagem da ocorrência: 0.116009 
+Nome Ocorrencia:  Ascite || Quantidade de Ocorrência 1 :  Porcentagem da ocorrência: 0.116009 
+Nome Ocorrencia:  Anormalidades do batimento cardiaco || Quantidade de Ocorrência 1 :  Porcentagem da ocorrência: 0.116009 
+Nome Ocorrencia:  Osteocondropatias, nao especificada || Quantidade de Ocorrência 1 :  Porcentagem da ocorrência: 0.116009 
+Nome Ocorrencia:  Outras arritmias cardiacas especificadas || Quantidade de Ocorrência 1 :  Porcentagem da ocorrência: 0.116009 
+Nome Ocorrencia:  Febre de origem desconhecida || Quantidade de Ocorrência 1 :  Porcentagem da ocorrência: 0.116009 
+Nome Ocorrencia:  Hipoglicemia nao especificada || Quantidade de Ocorrência 1 :  Porcentagem da ocorrência: 0.116009 
+Nome Ocorrencia:  Neurastenia || Quantidade de Ocorrência 1 :  Porcentagem da ocorrência: 0.116009 
+Nome Ocorrencia:  Comunicacao interatrial || Quantidade de Ocorrência 1 :  Porcentagem da ocorrência: 0.116009 
+Nome Ocorrencia:  Outra dor toracica || Quantidade de Ocorrência 1 :  Porcentagem da ocorrência: 0.116009 
+Nome Ocorrencia:  Infarto agudo transmural da parede anterior do miocardio || Quantidade de Ocorrência 1 :  Porcentagem da ocorrência: 0.116009 
+Nome Ocorrencia:  Insuficiencia cardiaca || Quantidade de Ocorrência 1 :  Porcentagem da ocorrência: 0.116009 
+Nome Ocorrencia:  Transtorno de panico [ansiedade paroxistica episodica] || Quantidade de Ocorrência 1 :  Porcentagem da ocorrência: 0.116009 
+Nome Ocorrencia:  Deplecao de volume || Quantidade de Ocorrência 1 :  Porcentagem da ocorrência: 0.116009 
+Nome Ocorrencia:  Cardiomiopatias nao especificada || Quantidade de Ocorrência 1 :  Porcentagem da ocorrência: 0.116009 
+Nome Ocorrencia:  Complicacao mecanica de enxerto de orgao urinario || Quantidade de Ocorrência 1 :  Porcentagem da ocorrência: 0.116009 
+Nome Ocorrencia:  Outras gastrites || Quantidade de Ocorrência 1 :  Porcentagem da ocorrência: 0.116009 
+Nome Ocorrencia:  Cervicalgia || Quantidade de Ocorrência 1 :  Porcentagem da ocorrência: 0.116009 
+Nome Ocorrencia:  Febre reumatica sem mencao de comprometimento do coracao || Quantidade de Ocorrência 1 :  Porcentagem da ocorrência: 0.116009 
+Nome Ocorrencia:  Cardiomiopatia dilatada || Quantidade de Ocorrência 1 :  Porcentagem da ocorrência: 0.116009 
+Nome Ocorrencia:  Dor nao classificada em outra parte || Quantidade de Ocorrência 1 :  Porcentagem da ocorrência: 0.116009 
+Nome Ocorrencia:  Pneumonia nao especificada || Quantidade de Ocorrência 1 :  Porcentagem da ocorrência: 0.116009 
+Nome Ocorrencia:  Outras anormalidades e as nao especificadas da respiracao || Quantidade de Ocorrência 1 :  Porcentagem da ocorrência: 0.116009 
+Nome Ocorrencia:  Asma || Quantidade de Ocorrência 1 :  Porcentagem da ocorrência: 0.116009 
+Nome Ocorrencia:  Bradicardia nao especificada || Quantidade de Ocorrência 1 :  Porcentagem da ocorrência: 0.116009 
+Nome Ocorrencia:  Sindrome [estado] de abstinencia do uso de alcool || Quantidade de Ocorrência 1 :  Porcentagem da ocorrência: 0.116009 
+Nome Ocorrencia:  Dor abdominal e pelvica || Quantidade de Ocorrência 1 :  Porcentagem da ocorrência: 0.116009 
+Nome Ocorrencia:  Traumatismo superficial de regiao nao especificada do corpo || Quantidade de Ocorrência 1 :  Porcentagem da ocorrência: 0.116009 
+Nome Ocorrencia:  Hipotensao || Quantidade de Ocorrência 1 :  Porcentagem da ocorrência: 0.116009 
+Nome Ocorrencia:  Outra dorsalgia || Quantidade de Ocorrência 1 :  Porcentagem da ocorrência: 0.116009 
+Nome Ocorrencia:  Diarreia e gastroenterite de origem infecciosa presumivel || Quantidade de Ocorrência 1 :  Porcentagem da ocorrência: 0.116009 
+Nome Ocorrencia:  Rigidez articular nao classificada em outra parte || Quantidade de Ocorrência 1 :  Porcentagem da ocorrência: 0.116009 
+********************************************************************************************************************************************************************************************
+Tempo inicio:2020-02-11 15:08:26
+k-FOLD:2
+Best silhouette0.7417 for k=675
+k-Teste:675
+O(s) grupo(s) mais frequente:
+Grupo  189 abrange 11.460216998191681% do teste
+Nome Ocorrencia:  Hipertensao essencial (primaria) || Quantidade de Ocorrência 135 :  Porcentagem da ocorrência: 15.050167 
+Nome Ocorrencia:  Insuficiencia cardiaca congestiva || Quantidade de Ocorrência 83 :  Porcentagem da ocorrência: 9.253066 
+Nome Ocorrencia:  Dor toracica, nao especificada || Quantidade de Ocorrência 58 :  Porcentagem da ocorrência: 6.465998 
+Nome Ocorrencia:  Hipertensao secundaria, nao especificada || Quantidade de Ocorrência 37 :  Porcentagem da ocorrência: 4.124861 
+Nome Ocorrencia:  Palpitacoes || Quantidade de Ocorrência 35 :  Porcentagem da ocorrência: 3.901895 
+Nome Ocorrencia:  Transtorno ansioso nao especificado || Quantidade de Ocorrência 33 :  Porcentagem da ocorrência: 3.678930 
+Nome Ocorrencia:  Diabetes mellitus nao especificado sem complicacoes || Quantidade de Ocorrência 27 :  Porcentagem da ocorrência: 3.010033 
+Nome Ocorrencia:  Mialgia || Quantidade de Ocorrência 26 :  Porcentagem da ocorrência: 2.898551 
+Nome Ocorrencia:  Cefaleia || Quantidade de Ocorrência 22 :  Porcentagem da ocorrência: 2.452620 
+Nome Ocorrencia:  Presenca de marca-passo cardiaco || Quantidade de Ocorrência 21 :  Porcentagem da ocorrência: 2.341137 
+Nome Ocorrencia:  Dispneia || Quantidade de Ocorrência 21 :  Porcentagem da ocorrência: 2.341137 
+Nome Ocorrencia:  Broncopneumonia nao especificada || Quantidade de Ocorrência 20 :  Porcentagem da ocorrência: 2.229654 
+Nome Ocorrencia:  Doenca pulmonar obstrutiva cronica nao especificada || Quantidade de Ocorrência 18 :  Porcentagem da ocorrência: 2.006689 
+Nome Ocorrencia:  Arritmia cardiaca nao especificada || Quantidade de Ocorrência 16 :  Porcentagem da ocorrência: 1.783724 
+Nome Ocorrencia:  "Flutter" e fibrilacao atrial || Quantidade de Ocorrência 16 :  Porcentagem da ocorrência: 1.783724 
+Nome Ocorrencia:  Sincope e colapso || Quantidade de Ocorrência 16 :  Porcentagem da ocorrência: 1.783724 
+Nome Ocorrencia:  Doenca de Chagas || Quantidade de Ocorrência 14 :  Porcentagem da ocorrência: 1.560758 
+Nome Ocorrencia:  Infarto agudo do miocardio nao especificado || Quantidade de Ocorrência 14 :  Porcentagem da ocorrência: 1.560758 
+Nome Ocorrencia:  Outros disturbios do metabolismo de lipoproteinas || Quantidade de Ocorrência 13 :  Porcentagem da ocorrência: 1.449275 
+Nome Ocorrencia:  Outros transtornos ansiosos || Quantidade de Ocorrência 13 :  Porcentagem da ocorrência: 1.449275 
+Nome Ocorrencia:  Angina instavel || Quantidade de Ocorrência 12 :  Porcentagem da ocorrência: 1.337793 
+Nome Ocorrencia:  Mal estar, fadiga || Quantidade de Ocorrência 12 :  Porcentagem da ocorrência: 1.337793 
+Nome Ocorrencia:  Dor precordial || Quantidade de Ocorrência 12 :  Porcentagem da ocorrência: 1.337793 
+Nome Ocorrencia:  Miosite nao especificada || Quantidade de Ocorrência 11 :  Porcentagem da ocorrência: 1.226310 
+Nome Ocorrencia:  Acidente vascular cerebral, nao especificado como hemorragico ou isquemico || Quantidade de Ocorrência 11 :  Porcentagem da ocorrência: 1.226310 
+Nome Ocorrencia:  Angina pectoris || Quantidade de Ocorrência 10 :  Porcentagem da ocorrência: 1.114827 
+Nome Ocorrencia:  Diabetes mellitus nao especificado || Quantidade de Ocorrência 9 :  Porcentagem da ocorrência: 1.003344 
+Nome Ocorrencia:  Tontura e instabilidade || Quantidade de Ocorrência 9 :  Porcentagem da ocorrência: 1.003344 
+Nome Ocorrencia:  Tosse || Quantidade de Ocorrência 9 :  Porcentagem da ocorrência: 1.003344 
+Nome Ocorrencia:  Sindrome de dependencia de sedativos e hipnoticos || Quantidade de Ocorrência 9 :  Porcentagem da ocorrência: 1.003344 
+Nome Ocorrencia:  Hipertensao pre-existente complicando a gravidez, o parto e o puerperio || Quantidade de Ocorrência 9 :  Porcentagem da ocorrência: 1.003344 
+Nome Ocorrencia:  Dor em membro || Quantidade de Ocorrência 7 :  Porcentagem da ocorrência: 0.780379 
+Nome Ocorrencia:  hipotensão ortostática || Quantidade de Ocorrência 6 :  Porcentagem da ocorrência: 0.668896 
+Nome Ocorrencia:  Outras formas de despolarizacao prematura e as nao especificadas || Quantidade de Ocorrência 6 :  Porcentagem da ocorrência: 0.668896 
+Nome Ocorrencia:  Angina pectoris, nao especificada || Quantidade de Ocorrência 5 :  Porcentagem da ocorrência: 0.557414 
+Nome Ocorrencia:  Insuficiencia mitral reumatica || Quantidade de Ocorrência 4 :  Porcentagem da ocorrência: 0.445931 
+Nome Ocorrencia:  Outras afeccoes especificadas das arterias e das arteriolas || Quantidade de Ocorrência 4 :  Porcentagem da ocorrência: 0.445931 
+Nome Ocorrencia:  Episodio depressivo nao especificado || Quantidade de Ocorrência 4 :  Porcentagem da ocorrência: 0.445931 
+Nome Ocorrencia:  Ansiedade generalizada || Quantidade de Ocorrência 4 :  Porcentagem da ocorrência: 0.445931 
+Nome Ocorrencia:  Dor localizada no abdome superior || Quantidade de Ocorrência 4 :  Porcentagem da ocorrência: 0.445931 
+Nome Ocorrencia:  Transtorno afetivo bipolar, episodio atual depressivo leve ou moderado || Quantidade de Ocorrência 4 :  Porcentagem da ocorrência: 0.445931 
+Nome Ocorrencia:  Outras formas de doenca isquemica aguda do coracao || Quantidade de Ocorrência 4 :  Porcentagem da ocorrência: 0.445931 
+Nome Ocorrencia:  Dispepsia || Quantidade de Ocorrência 4 :  Porcentagem da ocorrência: 0.445931 
+Nome Ocorrencia:  Sopros e outros ruidos cardiacos || Quantidade de Ocorrência 4 :  Porcentagem da ocorrência: 0.445931 
+Nome Ocorrencia:  Gastroduodenite, sem outra especificacao || Quantidade de Ocorrência 4 :  Porcentagem da ocorrência: 0.445931 
+Nome Ocorrencia:  Exame medico geral || Quantidade de Ocorrência 4 :  Porcentagem da ocorrência: 0.445931 
+Nome Ocorrencia:  Hipotensao nao especificada || Quantidade de Ocorrência 4 :  Porcentagem da ocorrência: 0.445931 
+Nome Ocorrencia:  Taquicardia supraventricular || Quantidade de Ocorrência 3 :  Porcentagem da ocorrência: 0.334448 
+Nome Ocorrencia:  Labirintite || Quantidade de Ocorrência 3 :  Porcentagem da ocorrência: 0.334448 
+Nome Ocorrencia:  Doenca nao especificada da valva mitral || Quantidade de Ocorrência 3 :  Porcentagem da ocorrência: 0.334448 
+Nome Ocorrencia:  Taquicardia nao especificada || Quantidade de Ocorrência 3 :  Porcentagem da ocorrência: 0.334448 
+Nome Ocorrencia:  Pessoa com medo de uma queixa para a qual nao foi feito diagnostico || Quantidade de Ocorrência 3 :  Porcentagem da ocorrência: 0.334448 
+Nome Ocorrencia:  Doenca de refluxo gastroesofagico sem esofagite || Quantidade de Ocorrência 2 :  Porcentagem da ocorrência: 0.222965 
+Nome Ocorrencia:  Infarto agudo do miocardio || Quantidade de Ocorrência 2 :  Porcentagem da ocorrência: 0.222965 
+Nome Ocorrencia:  Nausea e vomitos || Quantidade de Ocorrência 2 :  Porcentagem da ocorrência: 0.222965 
+Nome Ocorrencia:  Febre nao especificada || Quantidade de Ocorrência 2 :  Porcentagem da ocorrência: 0.222965 
+Nome Ocorrencia:  Doenca isquemica cronica do coracao || Quantidade de Ocorrência 2 :  Porcentagem da ocorrência: 0.222965 
+Nome Ocorrencia:  Cardiomegalia || Quantidade de Ocorrência 1 :  Porcentagem da ocorrência: 0.111483 
+Nome Ocorrencia:  Parestesias cutaneas || Quantidade de Ocorrência 1 :  Porcentagem da ocorrência: 0.111483 
+Nome Ocorrencia:  Outras arritmias cardiacas especificadas || Quantidade de Ocorrência 1 :  Porcentagem da ocorrência: 0.111483 
+Nome Ocorrencia:  Osteocondropatias, nao especificada || Quantidade de Ocorrência 1 :  Porcentagem da ocorrência: 0.111483 
+Nome Ocorrencia:  Outras formas de doenca isquemica cronica do coracao || Quantidade de Ocorrência 1 :  Porcentagem da ocorrência: 0.111483 
+Nome Ocorrencia:  Teste de tolerancia a glicose anormal || Quantidade de Ocorrência 1 :  Porcentagem da ocorrência: 0.111483 
+Nome Ocorrencia:  Bronquite nao especificada como aguda ou cronica || Quantidade de Ocorrência 1 :  Porcentagem da ocorrência: 0.111483 
+Nome Ocorrencia:  Anormalidades do batimento cardiaco || Quantidade de Ocorrência 1 :  Porcentagem da ocorrência: 0.111483 
+Nome Ocorrencia:  Comunicacao interventricular || Quantidade de Ocorrência 1 :  Porcentagem da ocorrência: 0.111483 
+Nome Ocorrencia:  Ascite || Quantidade de Ocorrência 1 :  Porcentagem da ocorrência: 0.111483 
+Nome Ocorrencia:  Complicacao mecanica de dispositivo eletronico cardiaco || Quantidade de Ocorrência 1 :  Porcentagem da ocorrência: 0.111483 
+Nome Ocorrencia:  Outras doencas da valva tricuspide || Quantidade de Ocorrência 1 :  Porcentagem da ocorrência: 0.111483 
+Nome Ocorrencia:  Enxaqueca, sem especificacao || Quantidade de Ocorrência 1 :  Porcentagem da ocorrência: 0.111483 
+Nome Ocorrencia:  Anestesia cutanea || Quantidade de Ocorrência 1 :  Porcentagem da ocorrência: 0.111483 
+Nome Ocorrencia:  Uso nocivo para a saude de fumo || Quantidade de Ocorrência 1 :  Porcentagem da ocorrência: 0.111483 
+Nome Ocorrencia:  Arritmia ventricular por reentrada || Quantidade de Ocorrência 1 :  Porcentagem da ocorrência: 0.111483 
+Nome Ocorrencia:  Sindrome de pre-excitacao || Quantidade de Ocorrência 1 :  Porcentagem da ocorrência: 0.111483 
+Nome Ocorrencia:  Infeccao do trato urinario de localizacao nao especificada || Quantidade de Ocorrência 1 :  Porcentagem da ocorrência: 0.111483 
+Nome Ocorrencia:  Febre de origem desconhecida || Quantidade de Ocorrência 1 :  Porcentagem da ocorrência: 0.111483 
+Nome Ocorrencia:  Outros disturbios funcionais subsequentes a cirurgia cardiaca || Quantidade de Ocorrência 1 :  Porcentagem da ocorrência: 0.111483 
+Nome Ocorrencia:  Ulcera gastrica || Quantidade de Ocorrência 1 :  Porcentagem da ocorrência: 0.111483 
+Nome Ocorrencia:  Bloqueio atrioventricular de segundo grau || Quantidade de Ocorrência 1 :  Porcentagem da ocorrência: 0.111483 
+Nome Ocorrencia:  Varizes dos membros inferiores com ulcera || Quantidade de Ocorrência 1 :  Porcentagem da ocorrência: 0.111483 
+Nome Ocorrencia:  Cervicalgia || Quantidade de Ocorrência 1 :  Porcentagem da ocorrência: 0.111483 
+Nome Ocorrencia:  Hipotensao || Quantidade de Ocorrência 1 :  Porcentagem da ocorrência: 0.111483 
+Nome Ocorrencia:  Outros sintomas e sinais relativos A funcao cognitiva e A consciencia || Quantidade de Ocorrência 1 :  Porcentagem da ocorrência: 0.111483 
+Nome Ocorrencia:  Cardiomiopatias nao especificada || Quantidade de Ocorrência 1 :  Porcentagem da ocorrência: 0.111483 
+Nome Ocorrencia:  Complicacao mecanica de enxerto de orgao urinario || Quantidade de Ocorrência 1 :  Porcentagem da ocorrência: 0.111483 
+Nome Ocorrencia:  Outra dor toracica || Quantidade de Ocorrência 1 :  Porcentagem da ocorrência: 0.111483 
+Nome Ocorrencia:  Outras gastrites || Quantidade de Ocorrência 1 :  Porcentagem da ocorrência: 0.111483 
+Nome Ocorrencia:  Insuficiencia cardiaca || Quantidade de Ocorrência 1 :  Porcentagem da ocorrência: 0.111483 
+Nome Ocorrencia:  Transtorno de panico [ansiedade paroxistica episodica] || Quantidade de Ocorrência 1 :  Porcentagem da ocorrência: 0.111483 
+Nome Ocorrencia:  Pneumonia nao especificada || Quantidade de Ocorrência 1 :  Porcentagem da ocorrência: 0.111483 
+Nome Ocorrencia:  Rigidez articular nao classificada em outra parte || Quantidade de Ocorrência 1 :  Porcentagem da ocorrência: 0.111483 
+Nome Ocorrencia:  Gastroenterite e colite nao-infecciosas, nao especificadas || Quantidade de Ocorrência 1 :  Porcentagem da ocorrência: 0.111483 
+Nome Ocorrencia:  Febre reumatica sem mencao de comprometimento do coracao || Quantidade de Ocorrência 1 :  Porcentagem da ocorrência: 0.111483 
+Nome Ocorrencia:  Neurastenia || Quantidade de Ocorrência 1 :  Porcentagem da ocorrência: 0.111483 
+Nome Ocorrencia:  Comunicacao interatrial || Quantidade de Ocorrência 1 :  Porcentagem da ocorrência: 0.111483 
+Nome Ocorrencia:  Outras formas especificadas de doenca pulmonar obstrutiva cronica || Quantidade de Ocorrência 1 :  Porcentagem da ocorrência: 0.111483 
+Nome Ocorrencia:  Cardiomiopatia dilatada || Quantidade de Ocorrência 1 :  Porcentagem da ocorrência: 0.111483 
+Nome Ocorrencia:  Outras anormalidades e as nao especificadas da respiracao || Quantidade de Ocorrência 1 :  Porcentagem da ocorrência: 0.111483 
+Nome Ocorrencia:  Bradicardia nao especificada || Quantidade de Ocorrência 1 :  Porcentagem da ocorrência: 0.111483 
+Nome Ocorrencia:  Dor abdominal e pelvica || Quantidade de Ocorrência 1 :  Porcentagem da ocorrência: 0.111483 
+Nome Ocorrencia:  Traumatismo superficial de regiao nao especificada do corpo || Quantidade de Ocorrência 1 :  Porcentagem da ocorrência: 0.111483 
+Nome Ocorrencia:  Outra dorsalgia || Quantidade de Ocorrência 1 :  Porcentagem da ocorrência: 0.111483 
+Nome Ocorrencia:  Diarreia e gastroenterite de origem infecciosa presumivel || Quantidade de Ocorrência 1 :  Porcentagem da ocorrência: 0.111483 
+Nome Ocorrencia:  Deplecao de volume || Quantidade de Ocorrência 1 :  Porcentagem da ocorrência: 0.111483 
+Nome Ocorrencia:  Dor nao classificada em outra parte || Quantidade de Ocorrência 1 :  Porcentagem da ocorrência: 0.111483 
+Nome Ocorrencia:  Infarto agudo transmural da parede anterior do miocardio || Quantidade de Ocorrência 1 :  Porcentagem da ocorrência: 0.111483 
+********************************************************************************************************************************************************************************************
+Tempo inicio:2020-02-11 15:08:33
+k-FOLD:3
+Best silhouette0.7669 for k=750
+k-Teste:750
+O(s) grupo(s) mais frequente:
+Grupo  121 abrange 12.115732368896925% do teste
+Nome Ocorrencia:  Hipertensao essencial (primaria) || Quantidade de Ocorrência 152 :  Porcentagem da ocorrência: 13.818182 
+Nome Ocorrencia:  Insuficiencia cardiaca congestiva || Quantidade de Ocorrência 123 :  Porcentagem da ocorrência: 11.181818 
+Nome Ocorrencia:  Hipertensao secundaria, nao especificada || Quantidade de Ocorrência 73 :  Porcentagem da ocorrência: 6.636364 
+Nome Ocorrencia:  Dor toracica, nao especificada || Quantidade de Ocorrência 59 :  Porcentagem da ocorrência: 5.363636 
+Nome Ocorrencia:  "Flutter" e fibrilacao atrial || Quantidade de Ocorrência 41 :  Porcentagem da ocorrência: 3.727273 
+Nome Ocorrencia:  Broncopneumonia nao especificada || Quantidade de Ocorrência 36 :  Porcentagem da ocorrência: 3.272727 
+Nome Ocorrencia:  Transtorno ansioso nao especificado || Quantidade de Ocorrência 34 :  Porcentagem da ocorrência: 3.090909 
+Nome Ocorrencia:  Mialgia || Quantidade de Ocorrência 33 :  Porcentagem da ocorrência: 3.000000 
+Nome Ocorrencia:  Palpitacoes || Quantidade de Ocorrência 33 :  Porcentagem da ocorrência: 3.000000 
+Nome Ocorrencia:  Outros disturbios do metabolismo de lipoproteinas || Quantidade de Ocorrência 29 :  Porcentagem da ocorrência: 2.636364 
+Nome Ocorrencia:  Diabetes mellitus nao especificado sem complicacoes || Quantidade de Ocorrência 27 :  Porcentagem da ocorrência: 2.454545 
+Nome Ocorrencia:  Diabetes mellitus nao especificado || Quantidade de Ocorrência 25 :  Porcentagem da ocorrência: 2.272727 
+Nome Ocorrencia:  Cefaleia || Quantidade de Ocorrência 23 :  Porcentagem da ocorrência: 2.090909 
+Nome Ocorrencia:  Presenca de marca-passo cardiaco || Quantidade de Ocorrência 22 :  Porcentagem da ocorrência: 2.000000 
+Nome Ocorrencia:  Infarto agudo do miocardio nao especificado || Quantidade de Ocorrência 21 :  Porcentagem da ocorrência: 1.909091 
+Nome Ocorrencia:  Dispneia || Quantidade de Ocorrência 20 :  Porcentagem da ocorrência: 1.818182 
+Nome Ocorrencia:  Doenca pulmonar obstrutiva cronica nao especificada || Quantidade de Ocorrência 18 :  Porcentagem da ocorrência: 1.636364 
+Nome Ocorrencia:  Arritmia cardiaca nao especificada || Quantidade de Ocorrência 17 :  Porcentagem da ocorrência: 1.545455 
+Nome Ocorrencia:  Sincope e colapso || Quantidade de Ocorrência 16 :  Porcentagem da ocorrência: 1.454545 
+Nome Ocorrencia:  Outros transtornos ansiosos || Quantidade de Ocorrência 13 :  Porcentagem da ocorrência: 1.181818 
+Nome Ocorrencia:  Acidente vascular cerebral, nao especificado como hemorragico ou isquemico || Quantidade de Ocorrência 12 :  Porcentagem da ocorrência: 1.090909 
+Nome Ocorrencia:  Dor precordial || Quantidade de Ocorrência 12 :  Porcentagem da ocorrência: 1.090909 
+Nome Ocorrencia:  Angina instavel || Quantidade de Ocorrência 12 :  Porcentagem da ocorrência: 1.090909 
+Nome Ocorrencia:  Angina pectoris || Quantidade de Ocorrência 10 :  Porcentagem da ocorrência: 0.909091 
+Nome Ocorrencia:  Miosite nao especificada || Quantidade de Ocorrência 10 :  Porcentagem da ocorrência: 0.909091 
+Nome Ocorrencia:  Tosse || Quantidade de Ocorrência 10 :  Porcentagem da ocorrência: 0.909091 
+Nome Ocorrencia:  Doenca de Chagas || Quantidade de Ocorrência 10 :  Porcentagem da ocorrência: 0.909091 
+Nome Ocorrencia:  Mal estar, fadiga || Quantidade de Ocorrência 10 :  Porcentagem da ocorrência: 0.909091 
+Nome Ocorrencia:  Hipertensao pre-existente complicando a gravidez, o parto e o puerperio || Quantidade de Ocorrência 9 :  Porcentagem da ocorrência: 0.818182 
+Nome Ocorrencia:  Sindrome de dependencia de sedativos e hipnoticos || Quantidade de Ocorrência 9 :  Porcentagem da ocorrência: 0.818182 
+Nome Ocorrencia:  Disturbio nao especificado do metabolismo de lipoproteinas || Quantidade de Ocorrência 9 :  Porcentagem da ocorrência: 0.818182 
+Nome Ocorrencia:  Dispepsia || Quantidade de Ocorrência 8 :  Porcentagem da ocorrência: 0.727273 
+Nome Ocorrencia:  Outras formas de doenca isquemica aguda do coracao || Quantidade de Ocorrência 8 :  Porcentagem da ocorrência: 0.727273 
+Nome Ocorrencia:  Dor em membro || Quantidade de Ocorrência 7 :  Porcentagem da ocorrência: 0.636364 
+Nome Ocorrencia:  Taquicardia supraventricular || Quantidade de Ocorrência 6 :  Porcentagem da ocorrência: 0.545455 
+Nome Ocorrencia:  Outras formas de despolarizacao prematura e as nao especificadas || Quantidade de Ocorrência 6 :  Porcentagem da ocorrência: 0.545455 
+Nome Ocorrencia:  Exame medico geral || Quantidade de Ocorrência 6 :  Porcentagem da ocorrência: 0.545455 
+Nome Ocorrencia:  Angina pectoris, nao especificada || Quantidade de Ocorrência 5 :  Porcentagem da ocorrência: 0.454545 
+Nome Ocorrencia:  hipotensão ortostática || Quantidade de Ocorrência 5 :  Porcentagem da ocorrência: 0.454545 
+Nome Ocorrencia:  Outras arritmias cardiacas especificadas || Quantidade de Ocorrência 5 :  Porcentagem da ocorrência: 0.454545 
+Nome Ocorrencia:  Tontura e instabilidade || Quantidade de Ocorrência 5 :  Porcentagem da ocorrência: 0.454545 
+Nome Ocorrencia:  Outras afeccoes especificadas das arterias e das arteriolas || Quantidade de Ocorrência 4 :  Porcentagem da ocorrência: 0.363636 
+Nome Ocorrencia:  Ansiedade generalizada || Quantidade de Ocorrência 4 :  Porcentagem da ocorrência: 0.363636 
+Nome Ocorrencia:  Transtorno afetivo bipolar, episodio atual depressivo leve ou moderado || Quantidade de Ocorrência 4 :  Porcentagem da ocorrência: 0.363636 
+Nome Ocorrencia:  Insuficiencia mitral reumatica || Quantidade de Ocorrência 4 :  Porcentagem da ocorrência: 0.363636 
+Nome Ocorrencia:  Dor localizada no abdome superior || Quantidade de Ocorrência 4 :  Porcentagem da ocorrência: 0.363636 
+Nome Ocorrencia:  Episodio depressivo nao especificado || Quantidade de Ocorrência 4 :  Porcentagem da ocorrência: 0.363636 
+Nome Ocorrencia:  Sopros e outros ruidos cardiacos || Quantidade de Ocorrência 4 :  Porcentagem da ocorrência: 0.363636 
+Nome Ocorrencia:  Hipotensao nao especificada || Quantidade de Ocorrência 4 :  Porcentagem da ocorrência: 0.363636 
+Nome Ocorrencia:  Tireotoxicose nao especificada || Quantidade de Ocorrência 4 :  Porcentagem da ocorrência: 0.363636 
+Nome Ocorrencia:  Gastroduodenite, sem outra especificacao || Quantidade de Ocorrência 3 :  Porcentagem da ocorrência: 0.272727 
+Nome Ocorrencia:  Labirintite || Quantidade de Ocorrência 3 :  Porcentagem da ocorrência: 0.272727 
+Nome Ocorrencia:  Taquicardia nao especificada || Quantidade de Ocorrência 3 :  Porcentagem da ocorrência: 0.272727 
+Nome Ocorrencia:  Doenca nao especificada da valva mitral || Quantidade de Ocorrência 3 :  Porcentagem da ocorrência: 0.272727 
+Nome Ocorrencia:  Bloqueio atrioventricular de segundo grau || Quantidade de Ocorrência 2 :  Porcentagem da ocorrência: 0.181818 
+Nome Ocorrencia:  Doenca de refluxo gastroesofagico sem esofagite || Quantidade de Ocorrência 2 :  Porcentagem da ocorrência: 0.181818 
+Nome Ocorrencia:  Pessoa com medo de uma queixa para a qual nao foi feito diagnostico || Quantidade de Ocorrência 2 :  Porcentagem da ocorrência: 0.181818 
+Nome Ocorrencia:  Infarto agudo do miocardio || Quantidade de Ocorrência 2 :  Porcentagem da ocorrência: 0.181818 
+Nome Ocorrencia:  Nausea e vomitos || Quantidade de Ocorrência 2 :  Porcentagem da ocorrência: 0.181818 
+Nome Ocorrencia:  Doenca isquemica cronica do coracao || Quantidade de Ocorrência 2 :  Porcentagem da ocorrência: 0.181818 
+Nome Ocorrencia:  Insuficiencia cardiaca || Quantidade de Ocorrência 2 :  Porcentagem da ocorrência: 0.181818 
+Nome Ocorrencia:  Outra dor toracica || Quantidade de Ocorrência 2 :  Porcentagem da ocorrência: 0.181818 
+Nome Ocorrencia:  Anestesia cutanea || Quantidade de Ocorrência 1 :  Porcentagem da ocorrência: 0.090909 
+Nome Ocorrencia:  Febre nao especificada || Quantidade de Ocorrência 1 :  Porcentagem da ocorrência: 0.090909 
+Nome Ocorrencia:  Parestesias cutaneas || Quantidade de Ocorrência 1 :  Porcentagem da ocorrência: 0.090909 
+Nome Ocorrencia:  Outras formas de doenca isquemica cronica do coracao || Quantidade de Ocorrência 1 :  Porcentagem da ocorrência: 0.090909 
+Nome Ocorrencia:  Teste de tolerancia a glicose anormal || Quantidade de Ocorrência 1 :  Porcentagem da ocorrência: 0.090909 
+Nome Ocorrencia:  Bronquite nao especificada como aguda ou cronica || Quantidade de Ocorrência 1 :  Porcentagem da ocorrência: 0.090909 
+Nome Ocorrencia:  Comunicacao interventricular || Quantidade de Ocorrência 1 :  Porcentagem da ocorrência: 0.090909 
+Nome Ocorrencia:  Complicacao mecanica de dispositivo eletronico cardiaco || Quantidade de Ocorrência 1 :  Porcentagem da ocorrência: 0.090909 
+Nome Ocorrencia:  Enxaqueca, sem especificacao || Quantidade de Ocorrência 1 :  Porcentagem da ocorrência: 0.090909 
+Nome Ocorrencia:  Osteocondropatias, nao especificada || Quantidade de Ocorrência 1 :  Porcentagem da ocorrência: 0.090909 
+Nome Ocorrencia:  Anormalidades do batimento cardiaco || Quantidade de Ocorrência 1 :  Porcentagem da ocorrência: 0.090909 
+Nome Ocorrencia:  Ascite || Quantidade de Ocorrência 1 :  Porcentagem da ocorrência: 0.090909 
+Nome Ocorrencia:  Cardiomegalia || Quantidade de Ocorrência 1 :  Porcentagem da ocorrência: 0.090909 
+Nome Ocorrencia:  Uso nocivo para a saude de fumo || Quantidade de Ocorrência 1 :  Porcentagem da ocorrência: 0.090909 
+Nome Ocorrencia:  Arritmia ventricular por reentrada || Quantidade de Ocorrência 1 :  Porcentagem da ocorrência: 0.090909 
+Nome Ocorrencia:  Sindrome de pre-excitacao || Quantidade de Ocorrência 1 :  Porcentagem da ocorrência: 0.090909 
+Nome Ocorrencia:  Infeccao do trato urinario de localizacao nao especificada || Quantidade de Ocorrência 1 :  Porcentagem da ocorrência: 0.090909 
+Nome Ocorrencia:  Febre de origem desconhecida || Quantidade de Ocorrência 1 :  Porcentagem da ocorrência: 0.090909 
+Nome Ocorrencia:  Outros disturbios funcionais subsequentes a cirurgia cardiaca || Quantidade de Ocorrência 1 :  Porcentagem da ocorrência: 0.090909 
+Nome Ocorrencia:  Outras doencas da valva tricuspide || Quantidade de Ocorrência 1 :  Porcentagem da ocorrência: 0.090909 
+Nome Ocorrencia:  Ulcera gastrica || Quantidade de Ocorrência 1 :  Porcentagem da ocorrência: 0.090909 
+Nome Ocorrencia:  Outra dorsalgia || Quantidade de Ocorrência 1 :  Porcentagem da ocorrência: 0.090909 
+Nome Ocorrencia:  Varizes dos membros inferiores com ulcera || Quantidade de Ocorrência 1 :  Porcentagem da ocorrência: 0.090909 
+Nome Ocorrencia:  Cervicalgia || Quantidade de Ocorrência 1 :  Porcentagem da ocorrência: 0.090909 
+Nome Ocorrencia:  Comunicacao ventriculo-atrial discordante || Quantidade de Ocorrência 1 :  Porcentagem da ocorrência: 0.090909 
+Nome Ocorrencia:  Soluco || Quantidade de Ocorrência 1 :  Porcentagem da ocorrência: 0.090909 
+Nome Ocorrencia:  Erisipela || Quantidade de Ocorrência 1 :  Porcentagem da ocorrência: 0.090909 
+Nome Ocorrencia:  Hipoglicemia nao especificada || Quantidade de Ocorrência 1 :  Porcentagem da ocorrência: 0.090909 
+Nome Ocorrencia:  Infarto agudo transmural da parede anterior do miocardio || Quantidade de Ocorrência 1 :  Porcentagem da ocorrência: 0.090909 
+Nome Ocorrencia:  Transtorno de panico [ansiedade paroxistica episodica] || Quantidade de Ocorrência 1 :  Porcentagem da ocorrência: 0.090909 
+Nome Ocorrencia:  Prolapso (da valva) mitral || Quantidade de Ocorrência 1 :  Porcentagem da ocorrência: 0.090909 
+Nome Ocorrencia:  Rigidez articular nao classificada em outra parte || Quantidade de Ocorrência 1 :  Porcentagem da ocorrência: 0.090909 
+Nome Ocorrencia:  Infarto agudo transmural da parede inferior do miocardio || Quantidade de Ocorrência 1 :  Porcentagem da ocorrência: 0.090909 
+Nome Ocorrencia:  Gastroenterite e colite nao-infecciosas, nao especificadas || Quantidade de Ocorrência 1 :  Porcentagem da ocorrência: 0.090909 
+Nome Ocorrencia:  Febre reumatica sem mencao de comprometimento do coracao || Quantidade de Ocorrência 1 :  Porcentagem da ocorrência: 0.090909 
+Nome Ocorrencia:  Neurastenia || Quantidade de Ocorrência 1 :  Porcentagem da ocorrência: 0.090909 
+Nome Ocorrencia:  Comunicacao interatrial || Quantidade de Ocorrência 1 :  Porcentagem da ocorrência: 0.090909 
+Nome Ocorrencia:  Cardiomiopatia dilatada || Quantidade de Ocorrência 1 :  Porcentagem da ocorrência: 0.090909 
+Nome Ocorrencia:  Outras anormalidades e as nao especificadas da respiracao || Quantidade de Ocorrência 1 :  Porcentagem da ocorrência: 0.090909 
+Nome Ocorrencia:  Outras formas especificadas de doenca pulmonar obstrutiva cronica || Quantidade de Ocorrência 1 :  Porcentagem da ocorrência: 0.090909 
+Nome Ocorrencia:  Bradicardia nao especificada || Quantidade de Ocorrência 1 :  Porcentagem da ocorrência: 0.090909 
+Nome Ocorrencia:  Dor abdominal e pelvica || Quantidade de Ocorrência 1 :  Porcentagem da ocorrência: 0.090909 
+Nome Ocorrencia:  Traumatismo superficial de regiao nao especificada do corpo || Quantidade de Ocorrência 1 :  Porcentagem da ocorrência: 0.090909 
+Nome Ocorrencia:  Cardiomiopatias nao especificada || Quantidade de Ocorrência 1 :  Porcentagem da ocorrência: 0.090909 
+Nome Ocorrencia:  Diarreia e gastroenterite de origem infecciosa presumivel || Quantidade de Ocorrência 1 :  Porcentagem da ocorrência: 0.090909 
+Nome Ocorrencia:  Dor nao classificada em outra parte || Quantidade de Ocorrência 1 :  Porcentagem da ocorrência: 0.090909 
+Nome Ocorrencia:  Deplecao de volume || Quantidade de Ocorrência 1 :  Porcentagem da ocorrência: 0.090909 
+********************************************************************************************************************************************************************************************
+Tempo inicio:2020-02-11 15:08:41
+k-FOLD:4
+Best silhouette0.7763 for k=750
+k-Teste:750
+O(s) grupo(s) mais frequente:
+Grupo  78 abrange 12.22875226039783% do teste
+Nome Ocorrencia:  Hipertensao essencial (primaria) || Quantidade de Ocorrência 181 :  Porcentagem da ocorrência: 15.616911 
+Nome Ocorrencia:  Insuficiencia cardiaca congestiva || Quantidade de Ocorrência 132 :  Porcentagem da ocorrência: 11.389129 
+Nome Ocorrencia:  Hipertensao secundaria, nao especificada || Quantidade de Ocorrência 68 :  Porcentagem da ocorrência: 5.867127 
+Nome Ocorrencia:  Dor toracica, nao especificada || Quantidade de Ocorrência 61 :  Porcentagem da ocorrência: 5.263158 
+Nome Ocorrencia:  Transtorno ansioso nao especificado || Quantidade de Ocorrência 42 :  Porcentagem da ocorrência: 3.623814 
+Nome Ocorrencia:  "Flutter" e fibrilacao atrial || Quantidade de Ocorrência 41 :  Porcentagem da ocorrência: 3.537532 
+Nome Ocorrencia:  Broncopneumonia nao especificada || Quantidade de Ocorrência 36 :  Porcentagem da ocorrência: 3.106126 
+Nome Ocorrencia:  Mialgia || Quantidade de Ocorrência 34 :  Porcentagem da ocorrência: 2.933563 
+Nome Ocorrencia:  Palpitacoes || Quantidade de Ocorrência 31 :  Porcentagem da ocorrência: 2.674720 
+Nome Ocorrencia:  Outros disturbios do metabolismo de lipoproteinas || Quantidade de Ocorrência 29 :  Porcentagem da ocorrência: 2.502157 
+Nome Ocorrencia:  Diabetes mellitus nao especificado sem complicacoes || Quantidade de Ocorrência 27 :  Porcentagem da ocorrência: 2.329594 
+Nome Ocorrencia:  Diabetes mellitus nao especificado || Quantidade de Ocorrência 25 :  Porcentagem da ocorrência: 2.157032 
+Nome Ocorrencia:  Cefaleia || Quantidade de Ocorrência 22 :  Porcentagem da ocorrência: 1.898188 
+Nome Ocorrencia:  Presenca de marca-passo cardiaco || Quantidade de Ocorrência 22 :  Porcentagem da ocorrência: 1.898188 
+Nome Ocorrencia:  Infarto agudo do miocardio nao especificado || Quantidade de Ocorrência 21 :  Porcentagem da ocorrência: 1.811907 
+Nome Ocorrencia:  Doenca pulmonar obstrutiva cronica nao especificada || Quantidade de Ocorrência 18 :  Porcentagem da ocorrência: 1.553063 
+Nome Ocorrencia:  Arritmia cardiaca nao especificada || Quantidade de Ocorrência 16 :  Porcentagem da ocorrência: 1.380500 
+Nome Ocorrencia:  Sincope e colapso || Quantidade de Ocorrência 15 :  Porcentagem da ocorrência: 1.294219 
+Nome Ocorrencia:  Doenca de Chagas || Quantidade de Ocorrência 14 :  Porcentagem da ocorrência: 1.207938 
+Nome Ocorrencia:  Dispneia || Quantidade de Ocorrência 14 :  Porcentagem da ocorrência: 1.207938 
+Nome Ocorrencia:  Outros transtornos ansiosos || Quantidade de Ocorrência 13 :  Porcentagem da ocorrência: 1.121657 
+Nome Ocorrencia:  Tosse || Quantidade de Ocorrência 11 :  Porcentagem da ocorrência: 0.949094 
+Nome Ocorrencia:  Angina instavel || Quantidade de Ocorrência 11 :  Porcentagem da ocorrência: 0.949094 
+Nome Ocorrencia:  Acidente vascular cerebral, nao especificado como hemorragico ou isquemico || Quantidade de Ocorrência 11 :  Porcentagem da ocorrência: 0.949094 
+Nome Ocorrencia:  Outras formas de doenca isquemica cronica do coracao || Quantidade de Ocorrência 10 :  Porcentagem da ocorrência: 0.862813 
+Nome Ocorrencia:  Bronquite nao especificada como aguda ou cronica || Quantidade de Ocorrência 10 :  Porcentagem da ocorrência: 0.862813 
+Nome Ocorrencia:  Mal estar, fadiga || Quantidade de Ocorrência 10 :  Porcentagem da ocorrência: 0.862813 
+Nome Ocorrencia:  Angina pectoris || Quantidade de Ocorrência 10 :  Porcentagem da ocorrência: 0.862813 
+Nome Ocorrencia:  Hipertensao pre-existente complicando a gravidez, o parto e o puerperio || Quantidade de Ocorrência 9 :  Porcentagem da ocorrência: 0.776531 
+Nome Ocorrencia:  Disturbio nao especificado do metabolismo de lipoproteinas || Quantidade de Ocorrência 9 :  Porcentagem da ocorrência: 0.776531 
+Nome Ocorrencia:  Doenca isquemica cronica do coracao nao especificada || Quantidade de Ocorrência 9 :  Porcentagem da ocorrência: 0.776531 
+Nome Ocorrencia:  Dispepsia || Quantidade de Ocorrência 9 :  Porcentagem da ocorrência: 0.776531 
+Nome Ocorrencia:  Sindrome de dependencia de sedativos e hipnoticos || Quantidade de Ocorrência 9 :  Porcentagem da ocorrência: 0.776531 
+Nome Ocorrencia:  Miosite nao especificada || Quantidade de Ocorrência 9 :  Porcentagem da ocorrência: 0.776531 
+Nome Ocorrencia:  Dor precordial || Quantidade de Ocorrência 8 :  Porcentagem da ocorrência: 0.690250 
+Nome Ocorrencia:  Dor em membro || Quantidade de Ocorrência 7 :  Porcentagem da ocorrência: 0.603969 
+Nome Ocorrencia:  Angina pectoris, nao especificada || Quantidade de Ocorrência 6 :  Porcentagem da ocorrência: 0.517688 
+Nome Ocorrencia:  Insuficiencia mitral reumatica || Quantidade de Ocorrência 6 :  Porcentagem da ocorrência: 0.517688 
+Nome Ocorrencia:  Tontura e instabilidade || Quantidade de Ocorrência 6 :  Porcentagem da ocorrência: 0.517688 
+Nome Ocorrencia:  Taquicardia supraventricular || Quantidade de Ocorrência 6 :  Porcentagem da ocorrência: 0.517688 
+Nome Ocorrencia:  Outras formas de despolarizacao prematura e as nao especificadas || Quantidade de Ocorrência 6 :  Porcentagem da ocorrência: 0.517688 
+Nome Ocorrencia:  Exame medico geral || Quantidade de Ocorrência 6 :  Porcentagem da ocorrência: 0.517688 
+Nome Ocorrencia:  hipotensão ortostática || Quantidade de Ocorrência 5 :  Porcentagem da ocorrência: 0.431406 
+Nome Ocorrencia:  Outras arritmias cardiacas especificadas || Quantidade de Ocorrência 5 :  Porcentagem da ocorrência: 0.431406 
+Nome Ocorrencia:  Dor localizada no abdome superior || Quantidade de Ocorrência 4 :  Porcentagem da ocorrência: 0.345125 
+Nome Ocorrencia:  Outras afeccoes especificadas das arterias e das arteriolas || Quantidade de Ocorrência 4 :  Porcentagem da ocorrência: 0.345125 
+Nome Ocorrencia:  Outras formas de doenca isquemica aguda do coracao || Quantidade de Ocorrência 4 :  Porcentagem da ocorrência: 0.345125 
+Nome Ocorrencia:  Transtorno afetivo bipolar, episodio atual depressivo leve ou moderado || Quantidade de Ocorrência 4 :  Porcentagem da ocorrência: 0.345125 
+Nome Ocorrencia:  Sopros e outros ruidos cardiacos || Quantidade de Ocorrência 4 :  Porcentagem da ocorrência: 0.345125 
+Nome Ocorrencia:  Bloqueio atrioventricular de segundo grau || Quantidade de Ocorrência 4 :  Porcentagem da ocorrência: 0.345125 
+Nome Ocorrencia:  Tireotoxicose nao especificada || Quantidade de Ocorrência 4 :  Porcentagem da ocorrência: 0.345125 
+Nome Ocorrencia:  Hipotensao nao especificada || Quantidade de Ocorrência 4 :  Porcentagem da ocorrência: 0.345125 
+Nome Ocorrencia:  Gastroduodenite, sem outra especificacao || Quantidade de Ocorrência 4 :  Porcentagem da ocorrência: 0.345125 
+Nome Ocorrencia:  Taquicardia nao especificada || Quantidade de Ocorrência 3 :  Porcentagem da ocorrência: 0.258844 
+Nome Ocorrencia:  Doenca nao especificada da valva mitral || Quantidade de Ocorrência 3 :  Porcentagem da ocorrência: 0.258844 
+Nome Ocorrencia:  Episodio depressivo nao especificado || Quantidade de Ocorrência 3 :  Porcentagem da ocorrência: 0.258844 
+Nome Ocorrencia:  Nausea e vomitos || Quantidade de Ocorrência 2 :  Porcentagem da ocorrência: 0.172563 
+Nome Ocorrencia:  Comunicacao interatrial || Quantidade de Ocorrência 2 :  Porcentagem da ocorrência: 0.172563 
+Nome Ocorrencia:  Dor abdominal e pelvica || Quantidade de Ocorrência 2 :  Porcentagem da ocorrência: 0.172563 
+Nome Ocorrencia:  Labirintite || Quantidade de Ocorrência 2 :  Porcentagem da ocorrência: 0.172563 
+Nome Ocorrencia:  Doenca de refluxo gastroesofagico sem esofagite || Quantidade de Ocorrência 2 :  Porcentagem da ocorrência: 0.172563 
+Nome Ocorrencia:  Hipoglicemia nao especificada || Quantidade de Ocorrência 2 :  Porcentagem da ocorrência: 0.172563 
+Nome Ocorrencia:  Comunicacao interventricular || Quantidade de Ocorrência 2 :  Porcentagem da ocorrência: 0.172563 
+Nome Ocorrencia:  Pessoa com medo de uma queixa para a qual nao foi feito diagnostico || Quantidade de Ocorrência 2 :  Porcentagem da ocorrência: 0.172563 
+Nome Ocorrencia:  Infarto agudo do miocardio || Quantidade de Ocorrência 2 :  Porcentagem da ocorrência: 0.172563 
+Nome Ocorrencia:  Estenose (da valva) aortica || Quantidade de Ocorrência 2 :  Porcentagem da ocorrência: 0.172563 
+Nome Ocorrencia:  Outros disturbios funcionais subsequentes a cirurgia cardiaca || Quantidade de Ocorrência 1 :  Porcentagem da ocorrência: 0.086281 
+Nome Ocorrencia:  Osteocondropatias, nao especificada || Quantidade de Ocorrência 1 :  Porcentagem da ocorrência: 0.086281 
+Nome Ocorrencia:  Ulcera gastrica || Quantidade de Ocorrência 1 :  Porcentagem da ocorrência: 0.086281 
+Nome Ocorrencia:  Febre nao especificada || Quantidade de Ocorrência 1 :  Porcentagem da ocorrência: 0.086281 
+Nome Ocorrencia:  Parestesias cutaneas || Quantidade de Ocorrência 1 :  Porcentagem da ocorrência: 0.086281 
+Nome Ocorrencia:  Teste de tolerancia a glicose anormal || Quantidade de Ocorrência 1 :  Porcentagem da ocorrência: 0.086281 
+Nome Ocorrencia:  Doenca isquemica cronica do coracao || Quantidade de Ocorrência 1 :  Porcentagem da ocorrência: 0.086281 
+Nome Ocorrencia:  Cardiomegalia || Quantidade de Ocorrência 1 :  Porcentagem da ocorrência: 0.086281 
+Nome Ocorrencia:  Complicacao mecanica de dispositivo eletronico cardiaco || Quantidade de Ocorrência 1 :  Porcentagem da ocorrência: 0.086281 
+Nome Ocorrencia:  Anormalidades do batimento cardiaco || Quantidade de Ocorrência 1 :  Porcentagem da ocorrência: 0.086281 
+Nome Ocorrencia:  Febre de origem desconhecida || Quantidade de Ocorrência 1 :  Porcentagem da ocorrência: 0.086281 
+Nome Ocorrencia:  Enxaqueca, sem especificacao || Quantidade de Ocorrência 1 :  Porcentagem da ocorrência: 0.086281 
+Nome Ocorrencia:  Ascite || Quantidade de Ocorrência 1 :  Porcentagem da ocorrência: 0.086281 
+Nome Ocorrencia:  Outras doencas da valva tricuspide || Quantidade de Ocorrência 1 :  Porcentagem da ocorrência: 0.086281 
+Nome Ocorrencia:  Uso nocivo para a saude de fumo || Quantidade de Ocorrência 1 :  Porcentagem da ocorrência: 0.086281 
+Nome Ocorrencia:  Sindrome de pre-excitacao || Quantidade de Ocorrência 1 :  Porcentagem da ocorrência: 0.086281 
+Nome Ocorrencia:  Arritmia ventricular por reentrada || Quantidade de Ocorrência 1 :  Porcentagem da ocorrência: 0.086281 
+Nome Ocorrencia:  Infeccao do trato urinario de localizacao nao especificada || Quantidade de Ocorrência 1 :  Porcentagem da ocorrência: 0.086281 
+Nome Ocorrencia:  Anestesia cutanea || Quantidade de Ocorrência 1 :  Porcentagem da ocorrência: 0.086281 
+Nome Ocorrencia:  Traumatismo superficial de regiao nao especificada do corpo || Quantidade de Ocorrência 1 :  Porcentagem da ocorrência: 0.086281 
+Nome Ocorrencia:  Varizes dos membros inferiores com ulcera || Quantidade de Ocorrência 1 :  Porcentagem da ocorrência: 0.086281 
+Nome Ocorrencia:  Neurastenia || Quantidade de Ocorrência 1 :  Porcentagem da ocorrência: 0.086281 
+Nome Ocorrencia:  Insuficiencia cardiaca || Quantidade de Ocorrência 1 :  Porcentagem da ocorrência: 0.086281 
+Nome Ocorrencia:  Outra dor toracica || Quantidade de Ocorrência 1 :  Porcentagem da ocorrência: 0.086281 
+Nome Ocorrencia:  Comunicacao ventriculo-atrial discordante || Quantidade de Ocorrência 1 :  Porcentagem da ocorrência: 0.086281 
+Nome Ocorrencia:  Soluco || Quantidade de Ocorrência 1 :  Porcentagem da ocorrência: 0.086281 
+Nome Ocorrencia:  Erisipela || Quantidade de Ocorrência 1 :  Porcentagem da ocorrência: 0.086281 
+Nome Ocorrencia:  Prolapso (da valva) mitral || Quantidade de Ocorrência 1 :  Porcentagem da ocorrência: 0.086281 
+Nome Ocorrencia:  Infarto agudo transmural da parede inferior do miocardio || Quantidade de Ocorrência 1 :  Porcentagem da ocorrência: 0.086281 
+Nome Ocorrencia:  Gastroenterite e colite nao-infecciosas, nao especificadas || Quantidade de Ocorrência 1 :  Porcentagem da ocorrência: 0.086281 
+Nome Ocorrencia:  Transtornos nao especificados da funcao vestibular || Quantidade de Ocorrência 1 :  Porcentagem da ocorrência: 0.086281 
+Nome Ocorrencia:  Outras formas especificadas de doenca pulmonar obstrutiva cronica || Quantidade de Ocorrência 1 :  Porcentagem da ocorrência: 0.086281 
+Nome Ocorrencia:  Sindrome [estado] de abstinencia do uso de alcool || Quantidade de Ocorrência 1 :  Porcentagem da ocorrência: 0.086281 
+Nome Ocorrencia:  Asma || Quantidade de Ocorrência 1 :  Porcentagem da ocorrência: 0.086281 
+Nome Ocorrencia:  Cervicalgia || Quantidade de Ocorrência 1 :  Porcentagem da ocorrência: 0.086281 
+Nome Ocorrencia:  Febre reumatica sem mencao de comprometimento do coracao || Quantidade de Ocorrência 1 :  Porcentagem da ocorrência: 0.086281 
+Nome Ocorrencia:  Cardiomiopatia dilatada || Quantidade de Ocorrência 1 :  Porcentagem da ocorrência: 0.086281 
+Nome Ocorrencia:  Outras anormalidades e as nao especificadas da respiracao || Quantidade de Ocorrência 1 :  Porcentagem da ocorrência: 0.086281 
+Nome Ocorrencia:  Bradicardia nao especificada || Quantidade de Ocorrência 1 :  Porcentagem da ocorrência: 0.086281 
+Nome Ocorrencia:  Cardiomiopatias nao especificada || Quantidade de Ocorrência 1 :  Porcentagem da ocorrência: 0.086281 
+Nome Ocorrencia:  Outra dorsalgia || Quantidade de Ocorrência 1 :  Porcentagem da ocorrência: 0.086281 
+Nome Ocorrencia:  Diarreia e gastroenterite de origem infecciosa presumivel || Quantidade de Ocorrência 1 :  Porcentagem da ocorrência: 0.086281 
+Nome Ocorrencia:  Dor nao classificada em outra parte || Quantidade de Ocorrência 1 :  Porcentagem da ocorrência: 0.086281 
+Nome Ocorrencia:  Deplecao de volume || Quantidade de Ocorrência 1 :  Porcentagem da ocorrência: 0.086281 
+********************************************************************************************************************************************************************************************
+Tempo inicio:2020-02-11 15:08:48
+k-FOLD:5
+Best silhouette0.7416 for k=750
+k-Teste:750
+O(s) grupo(s) mais frequente:
+Grupo  72 abrange 11.618444846292949% do teste
+Nome Ocorrencia:  Hipertensao essencial (primaria) || Quantidade de Ocorrência 160 :  Porcentagem da ocorrência: 15.267176 
+Nome Ocorrencia:  Insuficiencia cardiaca congestiva || Quantidade de Ocorrência 107 :  Porcentagem da ocorrência: 10.209924 
+Nome Ocorrencia:  Hipertensao secundaria, nao especificada || Quantidade de Ocorrência 64 :  Porcentagem da ocorrência: 6.106870 
+Nome Ocorrencia:  Dor toracica, nao especificada || Quantidade de Ocorrência 57 :  Porcentagem da ocorrência: 5.438931 
+Nome Ocorrencia:  Transtorno ansioso nao especificado || Quantidade de Ocorrência 41 :  Porcentagem da ocorrência: 3.912214 
+Nome Ocorrencia:  "Flutter" e fibrilacao atrial || Quantidade de Ocorrência 39 :  Porcentagem da ocorrência: 3.721374 
+Nome Ocorrencia:  Broncopneumonia nao especificada || Quantidade de Ocorrência 37 :  Porcentagem da ocorrência: 3.530534 
+Nome Ocorrencia:  Palpitacoes || Quantidade de Ocorrência 33 :  Porcentagem da ocorrência: 3.148855 
+Nome Ocorrencia:  Mialgia || Quantidade de Ocorrência 28 :  Porcentagem da ocorrência: 2.671756 
+Nome Ocorrencia:  Diabetes mellitus nao especificado || Quantidade de Ocorrência 25 :  Porcentagem da ocorrência: 2.385496 
+Nome Ocorrencia:  Outros disturbios do metabolismo de lipoproteinas || Quantidade de Ocorrência 25 :  Porcentagem da ocorrência: 2.385496 
+Nome Ocorrencia:  Cefaleia || Quantidade de Ocorrência 19 :  Porcentagem da ocorrência: 1.812977 
+Nome Ocorrencia:  Doenca de Chagas || Quantidade de Ocorrência 18 :  Porcentagem da ocorrência: 1.717557 
+Nome Ocorrencia:  Presenca de marca-passo cardiaco || Quantidade de Ocorrência 18 :  Porcentagem da ocorrência: 1.717557 
+Nome Ocorrencia:  Diabetes mellitus nao especificado sem complicacoes || Quantidade de Ocorrência 18 :  Porcentagem da ocorrência: 1.717557 
+Nome Ocorrencia:  Doenca pulmonar obstrutiva cronica nao especificada || Quantidade de Ocorrência 17 :  Porcentagem da ocorrência: 1.622137 
+Nome Ocorrencia:  Arritmia cardiaca nao especificada || Quantidade de Ocorrência 16 :  Porcentagem da ocorrência: 1.526718 
+Nome Ocorrencia:  Infarto agudo do miocardio nao especificado || Quantidade de Ocorrência 16 :  Porcentagem da ocorrência: 1.526718 
+Nome Ocorrencia:  Dispneia || Quantidade de Ocorrência 15 :  Porcentagem da ocorrência: 1.431298 
+Nome Ocorrencia:  Outros transtornos ansiosos || Quantidade de Ocorrência 13 :  Porcentagem da ocorrência: 1.240458 
+Nome Ocorrencia:  Angina instavel || Quantidade de Ocorrência 12 :  Porcentagem da ocorrência: 1.145038 
+Nome Ocorrencia:  Tosse || Quantidade de Ocorrência 11 :  Porcentagem da ocorrência: 1.049618 
+Nome Ocorrencia:  Sincope e colapso || Quantidade de Ocorrência 11 :  Porcentagem da ocorrência: 1.049618 
+Nome Ocorrencia:  Angina pectoris || Quantidade de Ocorrência 10 :  Porcentagem da ocorrência: 0.954198 
+Nome Ocorrencia:  Tontura e instabilidade || Quantidade de Ocorrência 10 :  Porcentagem da ocorrência: 0.954198 
+Nome Ocorrencia:  Bronquite nao especificada como aguda ou cronica || Quantidade de Ocorrência 10 :  Porcentagem da ocorrência: 0.954198 
+Nome Ocorrencia:  Outras formas de doenca isquemica cronica do coracao || Quantidade de Ocorrência 10 :  Porcentagem da ocorrência: 0.954198 
+Nome Ocorrencia:  Doenca isquemica cronica do coracao nao especificada || Quantidade de Ocorrência 9 :  Porcentagem da ocorrência: 0.858779 
+Nome Ocorrencia:  Disturbio nao especificado do metabolismo de lipoproteinas || Quantidade de Ocorrência 9 :  Porcentagem da ocorrência: 0.858779 
+Nome Ocorrencia:  Mal estar, fadiga || Quantidade de Ocorrência 9 :  Porcentagem da ocorrência: 0.858779 
+Nome Ocorrencia:  Sindrome de dependencia de sedativos e hipnoticos || Quantidade de Ocorrência 9 :  Porcentagem da ocorrência: 0.858779 
+Nome Ocorrencia:  Miosite nao especificada || Quantidade de Ocorrência 9 :  Porcentagem da ocorrência: 0.858779 
+Nome Ocorrencia:  Dor precordial || Quantidade de Ocorrência 8 :  Porcentagem da ocorrência: 0.763359 
+Nome Ocorrencia:  Dispepsia || Quantidade de Ocorrência 8 :  Porcentagem da ocorrência: 0.763359 
+Nome Ocorrencia:  Dor em membro || Quantidade de Ocorrência 7 :  Porcentagem da ocorrência: 0.667939 
+Nome Ocorrencia:  Taquicardia supraventricular || Quantidade de Ocorrência 7 :  Porcentagem da ocorrência: 0.667939 
+Nome Ocorrencia:  hipotensão ortostática || Quantidade de Ocorrência 6 :  Porcentagem da ocorrência: 0.572519 
+Nome Ocorrencia:  Exame medico geral || Quantidade de Ocorrência 6 :  Porcentagem da ocorrência: 0.572519 
+Nome Ocorrencia:  Angina pectoris, nao especificada || Quantidade de Ocorrência 6 :  Porcentagem da ocorrência: 0.572519 
+Nome Ocorrencia:  Gastroduodenite, sem outra especificacao || Quantidade de Ocorrência 5 :  Porcentagem da ocorrência: 0.477099 
+Nome Ocorrencia:  Outras arritmias cardiacas especificadas || Quantidade de Ocorrência 5 :  Porcentagem da ocorrência: 0.477099 
+Nome Ocorrencia:  Outras formas de despolarizacao prematura e as nao especificadas || Quantidade de Ocorrência 5 :  Porcentagem da ocorrência: 0.477099 
+Nome Ocorrencia:  Dor localizada no abdome superior || Quantidade de Ocorrência 4 :  Porcentagem da ocorrência: 0.381679 
+Nome Ocorrencia:  Outras afeccoes especificadas das arterias e das arteriolas || Quantidade de Ocorrência 4 :  Porcentagem da ocorrência: 0.381679 
+Nome Ocorrencia:  Outras formas de doenca isquemica aguda do coracao || Quantidade de Ocorrência 4 :  Porcentagem da ocorrência: 0.381679 
+Nome Ocorrencia:  Bloqueio atrioventricular de segundo grau || Quantidade de Ocorrência 4 :  Porcentagem da ocorrência: 0.381679 
+Nome Ocorrencia:  Sopros e outros ruidos cardiacos || Quantidade de Ocorrência 4 :  Porcentagem da ocorrência: 0.381679 
+Nome Ocorrencia:  Tireotoxicose nao especificada || Quantidade de Ocorrência 4 :  Porcentagem da ocorrência: 0.381679 
+Nome Ocorrencia:  Pessoa com medo de uma queixa para a qual nao foi feito diagnostico || Quantidade de Ocorrência 3 :  Porcentagem da ocorrência: 0.286260 
+Nome Ocorrencia:  Doenca nao especificada da valva mitral || Quantidade de Ocorrência 3 :  Porcentagem da ocorrência: 0.286260 
+Nome Ocorrencia:  Episodio depressivo nao especificado || Quantidade de Ocorrência 3 :  Porcentagem da ocorrência: 0.286260 
+Nome Ocorrencia:  Hipotensao nao especificada || Quantidade de Ocorrência 3 :  Porcentagem da ocorrência: 0.286260 
+Nome Ocorrencia:  Cardiomiopatias nao especificada || Quantidade de Ocorrência 2 :  Porcentagem da ocorrência: 0.190840 
+Nome Ocorrencia:  Comunicacao interventricular || Quantidade de Ocorrência 2 :  Porcentagem da ocorrência: 0.190840 
+Nome Ocorrencia:  Infarto agudo do miocardio || Quantidade de Ocorrência 2 :  Porcentagem da ocorrência: 0.190840 
+Nome Ocorrencia:  Doenca de refluxo gastroesofagico sem esofagite || Quantidade de Ocorrência 2 :  Porcentagem da ocorrência: 0.190840 
+Nome Ocorrencia:  Estenose (da valva) aortica || Quantidade de Ocorrência 2 :  Porcentagem da ocorrência: 0.190840 
+Nome Ocorrencia:  Hipoglicemia nao especificada || Quantidade de Ocorrência 2 :  Porcentagem da ocorrência: 0.190840 
+Nome Ocorrencia:  Labirintite || Quantidade de Ocorrência 2 :  Porcentagem da ocorrência: 0.190840 
+Nome Ocorrencia:  Deplecao de volume || Quantidade de Ocorrência 2 :  Porcentagem da ocorrência: 0.190840 
+Nome Ocorrencia:  Acidente vascular cerebral, nao especificado como hemorragico ou isquemico || Quantidade de Ocorrência 2 :  Porcentagem da ocorrência: 0.190840 
+Nome Ocorrencia:  Febre nao especificada || Quantidade de Ocorrência 2 :  Porcentagem da ocorrência: 0.190840 
+Nome Ocorrencia:  Doenca isquemica cronica do coracao || Quantidade de Ocorrência 1 :  Porcentagem da ocorrência: 0.095420 
+Nome Ocorrencia:  Infeccao do trato urinario de localizacao nao especificada || Quantidade de Ocorrência 1 :  Porcentagem da ocorrência: 0.095420 
+Nome Ocorrencia:  Complicacao mecanica de dispositivo eletronico cardiaco || Quantidade de Ocorrência 1 :  Porcentagem da ocorrência: 0.095420 
+Nome Ocorrencia:  Enxaqueca, sem especificacao || Quantidade de Ocorrência 1 :  Porcentagem da ocorrência: 0.095420 
+Nome Ocorrencia:  Uso nocivo para a saude de fumo || Quantidade de Ocorrência 1 :  Porcentagem da ocorrência: 0.095420 
+Nome Ocorrencia:  Teste de tolerancia a glicose anormal || Quantidade de Ocorrência 1 :  Porcentagem da ocorrência: 0.095420 
+Nome Ocorrencia:  Parestesias cutaneas || Quantidade de Ocorrência 1 :  Porcentagem da ocorrência: 0.095420 
+Nome Ocorrencia:  Outras doencas da valva tricuspide || Quantidade de Ocorrência 1 :  Porcentagem da ocorrência: 0.095420 
+Nome Ocorrencia:  Febre de origem desconhecida || Quantidade de Ocorrência 1 :  Porcentagem da ocorrência: 0.095420 
+Nome Ocorrencia:  Outros disturbios funcionais subsequentes a cirurgia cardiaca || Quantidade de Ocorrência 1 :  Porcentagem da ocorrência: 0.095420 
+Nome Ocorrencia:  Sindrome de pre-excitacao || Quantidade de Ocorrência 1 :  Porcentagem da ocorrência: 0.095420 
+Nome Ocorrencia:  Arritmia ventricular por reentrada || Quantidade de Ocorrência 1 :  Porcentagem da ocorrência: 0.095420 
+Nome Ocorrencia:  Anestesia cutanea || Quantidade de Ocorrência 1 :  Porcentagem da ocorrência: 0.095420 
+Nome Ocorrencia:  Cardiomegalia || Quantidade de Ocorrência 1 :  Porcentagem da ocorrência: 0.095420 
+Nome Ocorrencia:  Ascite || Quantidade de Ocorrência 1 :  Porcentagem da ocorrência: 0.095420 
+Nome Ocorrencia:  Anormalidades do batimento cardiaco || Quantidade de Ocorrência 1 :  Porcentagem da ocorrência: 0.095420 
+Nome Ocorrencia:  Osteocondropatias, nao especificada || Quantidade de Ocorrência 1 :  Porcentagem da ocorrência: 0.095420 
+Nome Ocorrencia:  Taquicardia nao especificada || Quantidade de Ocorrência 1 :  Porcentagem da ocorrência: 0.095420 
+Nome Ocorrencia:  Nausea e vomitos || Quantidade de Ocorrência 1 :  Porcentagem da ocorrência: 0.095420 
+Nome Ocorrencia:  Ulcera gastrica || Quantidade de Ocorrência 1 :  Porcentagem da ocorrência: 0.095420 
+Nome Ocorrencia:  Diarreia e gastroenterite de origem infecciosa presumivel || Quantidade de Ocorrência 1 :  Porcentagem da ocorrência: 0.095420 
+Nome Ocorrencia:  Varizes dos membros inferiores com ulcera || Quantidade de Ocorrência 1 :  Porcentagem da ocorrência: 0.095420 
+Nome Ocorrencia:  Sindrome [estado] de abstinencia do uso de alcool || Quantidade de Ocorrência 1 :  Porcentagem da ocorrência: 0.095420 
+Nome Ocorrencia:  Comunicacao ventriculo-atrial discordante || Quantidade de Ocorrência 1 :  Porcentagem da ocorrência: 0.095420 
+Nome Ocorrencia:  Outra dor toracica || Quantidade de Ocorrência 1 :  Porcentagem da ocorrência: 0.095420 
+Nome Ocorrencia:  Erisipela || Quantidade de Ocorrência 1 :  Porcentagem da ocorrência: 0.095420 
+Nome Ocorrencia:  Prolapso (da valva) mitral || Quantidade de Ocorrência 1 :  Porcentagem da ocorrência: 0.095420 
+Nome Ocorrencia:  Infarto agudo transmural da parede inferior do miocardio || Quantidade de Ocorrência 1 :  Porcentagem da ocorrência: 0.095420 
+Nome Ocorrencia:  Gastroenterite e colite nao-infecciosas, nao especificadas || Quantidade de Ocorrência 1 :  Porcentagem da ocorrência: 0.095420 
+Nome Ocorrencia:  Outras formas especificadas de doenca pulmonar obstrutiva cronica || Quantidade de Ocorrência 1 :  Porcentagem da ocorrência: 0.095420 
+Nome Ocorrencia:  Transtornos nao especificados da funcao vestibular || Quantidade de Ocorrência 1 :  Porcentagem da ocorrência: 0.095420 
+Nome Ocorrencia:  Insuficiencia mitral reumatica || Quantidade de Ocorrência 1 :  Porcentagem da ocorrência: 0.095420 
+Nome Ocorrencia:  Asma || Quantidade de Ocorrência 1 :  Porcentagem da ocorrência: 0.095420 
+Nome Ocorrencia:  Neurastenia || Quantidade de Ocorrência 1 :  Porcentagem da ocorrência: 0.095420 
+Nome Ocorrencia:  Pneumonia nao especificada || Quantidade de Ocorrência 1 :  Porcentagem da ocorrência: 0.095420 
+Nome Ocorrencia:  Outras gastrites || Quantidade de Ocorrência 1 :  Porcentagem da ocorrência: 0.095420 
+Nome Ocorrencia:  Complicacao mecanica de enxerto de orgao urinario || Quantidade de Ocorrência 1 :  Porcentagem da ocorrência: 0.095420 
+Nome Ocorrencia:  Hipotensao || Quantidade de Ocorrência 1 :  Porcentagem da ocorrência: 0.095420 
+Nome Ocorrencia:  Outros sintomas e sinais relativos A funcao cognitiva e A consciencia || Quantidade de Ocorrência 1 :  Porcentagem da ocorrência: 0.095420 
+Nome Ocorrencia:  Traumatismo superficial de regiao nao especificada do corpo || Quantidade de Ocorrência 1 :  Porcentagem da ocorrência: 0.095420 
+Nome Ocorrencia:  Outra dorsalgia || Quantidade de Ocorrência 1 :  Porcentagem da ocorrência: 0.095420 
+Nome Ocorrencia:  Insuficiencia cardiaca || Quantidade de Ocorrência 1 :  Porcentagem da ocorrência: 0.095420 
+Nome Ocorrencia:  Dor nao classificada em outra parte || Quantidade de Ocorrência 1 :  Porcentagem da ocorrência: 0.095420 
+Nome Ocorrencia:  Soluco || Quantidade de Ocorrência 1 :  Porcentagem da ocorrência: 0.095420 
+********************************************************************************************************************************************************************************************
+Tempo inicio:2020-02-11 15:08:56
+k-FOLD:6
+Best silhouette0.7585 for k=750
+k-Teste:750
+O(s) grupo(s) mais frequente:
+Grupo  72 abrange 11.14376130198915% do teste
+Nome Ocorrencia:  Hipertensao essencial (primaria) || Quantidade de Ocorrência 153 :  Porcentagem da ocorrência: 15.438951 
+Nome Ocorrencia:  Insuficiencia cardiaca congestiva || Quantidade de Ocorrência 105 :  Porcentagem da ocorrência: 10.595358 
+Nome Ocorrencia:  Hipertensao secundaria, nao especificada || Quantidade de Ocorrência 65 :  Porcentagem da ocorrência: 6.559031 
+Nome Ocorrencia:  Dor toracica, nao especificada || Quantidade de Ocorrência 56 :  Porcentagem da ocorrência: 5.650858 
+Nome Ocorrencia:  Transtorno ansioso nao especificado || Quantidade de Ocorrência 37 :  Porcentagem da ocorrência: 3.733602 
+Nome Ocorrencia:  "Flutter" e fibrilacao atrial || Quantidade de Ocorrência 37 :  Porcentagem da ocorrência: 3.733602 
+Nome Ocorrencia:  Broncopneumonia nao especificada || Quantidade de Ocorrência 36 :  Porcentagem da ocorrência: 3.632694 
+Nome Ocorrencia:  Palpitacoes || Quantidade de Ocorrência 28 :  Porcentagem da ocorrência: 2.825429 
+Nome Ocorrencia:  Mialgia || Quantidade de Ocorrência 27 :  Porcentagem da ocorrência: 2.724521 
+Nome Ocorrencia:  Outros disturbios do metabolismo de lipoproteinas || Quantidade de Ocorrência 25 :  Porcentagem da ocorrência: 2.522704 
+Nome Ocorrencia:  Diabetes mellitus nao especificado || Quantidade de Ocorrência 25 :  Porcentagem da ocorrência: 2.522704 
+Nome Ocorrencia:  Diabetes mellitus nao especificado sem complicacoes || Quantidade de Ocorrência 18 :  Porcentagem da ocorrência: 1.816347 
+Nome Ocorrencia:  Cefaleia || Quantidade de Ocorrência 16 :  Porcentagem da ocorrência: 1.614531 
+Nome Ocorrencia:  Doenca pulmonar obstrutiva cronica nao especificada || Quantidade de Ocorrência 16 :  Porcentagem da ocorrência: 1.614531 
+Nome Ocorrencia:  Infarto agudo do miocardio nao especificado || Quantidade de Ocorrência 15 :  Porcentagem da ocorrência: 1.513623 
+Nome Ocorrencia:  Outros transtornos ansiosos || Quantidade de Ocorrência 13 :  Porcentagem da ocorrência: 1.311806 
+Nome Ocorrencia:  Angina instavel || Quantidade de Ocorrência 12 :  Porcentagem da ocorrência: 1.210898 
+Nome Ocorrencia:  Dispneia || Quantidade de Ocorrência 12 :  Porcentagem da ocorrência: 1.210898 
+Nome Ocorrencia:  Tosse || Quantidade de Ocorrência 11 :  Porcentagem da ocorrência: 1.109990 
+Nome Ocorrencia:  Bronquite nao especificada como aguda ou cronica || Quantidade de Ocorrência 10 :  Porcentagem da ocorrência: 1.009082 
+Nome Ocorrencia:  Outras formas de doenca isquemica cronica do coracao || Quantidade de Ocorrência 10 :  Porcentagem da ocorrência: 1.009082 
+Nome Ocorrencia:  Angina pectoris || Quantidade de Ocorrência 10 :  Porcentagem da ocorrência: 1.009082 
+Nome Ocorrencia:  Dor precordial || Quantidade de Ocorrência 10 :  Porcentagem da ocorrência: 1.009082 
+Nome Ocorrencia:  Doenca isquemica cronica do coracao nao especificada || Quantidade de Ocorrência 9 :  Porcentagem da ocorrência: 0.908174 
+Nome Ocorrencia:  Presenca de marca-passo cardiaco || Quantidade de Ocorrência 9 :  Porcentagem da ocorrência: 0.908174 
+Nome Ocorrencia:  Miosite nao especificada || Quantidade de Ocorrência 9 :  Porcentagem da ocorrência: 0.908174 
+Nome Ocorrencia:  Arritmia cardiaca nao especificada || Quantidade de Ocorrência 9 :  Porcentagem da ocorrência: 0.908174 
+Nome Ocorrencia:  Tontura e instabilidade || Quantidade de Ocorrência 9 :  Porcentagem da ocorrência: 0.908174 
+Nome Ocorrencia:  Sindrome de dependencia de sedativos e hipnoticos || Quantidade de Ocorrência 9 :  Porcentagem da ocorrência: 0.908174 
+Nome Ocorrencia:  Doenca de Chagas || Quantidade de Ocorrência 9 :  Porcentagem da ocorrência: 0.908174 
+Nome Ocorrencia:  Disturbio nao especificado do metabolismo de lipoproteinas || Quantidade de Ocorrência 9 :  Porcentagem da ocorrência: 0.908174 
+Nome Ocorrencia:  Outras formas de doenca isquemica aguda do coracao || Quantidade de Ocorrência 8 :  Porcentagem da ocorrência: 0.807265 
+Nome Ocorrencia:  Mal estar, fadiga || Quantidade de Ocorrência 8 :  Porcentagem da ocorrência: 0.807265 
+Nome Ocorrencia:  Dispepsia || Quantidade de Ocorrência 8 :  Porcentagem da ocorrência: 0.807265 
+Nome Ocorrencia:  Sincope e colapso || Quantidade de Ocorrência 8 :  Porcentagem da ocorrência: 0.807265 
+Nome Ocorrencia:  Taquicardia supraventricular || Quantidade de Ocorrência 7 :  Porcentagem da ocorrência: 0.706357 
+Nome Ocorrencia:  Angina pectoris, nao especificada || Quantidade de Ocorrência 6 :  Porcentagem da ocorrência: 0.605449 
+Nome Ocorrencia:  hipotensão ortostática || Quantidade de Ocorrência 6 :  Porcentagem da ocorrência: 0.605449 
+Nome Ocorrencia:  Dor em membro || Quantidade de Ocorrência 6 :  Porcentagem da ocorrência: 0.605449 
+Nome Ocorrencia:  Exame medico geral || Quantidade de Ocorrência 5 :  Porcentagem da ocorrência: 0.504541 
+Nome Ocorrencia:  Outras arritmias cardiacas especificadas || Quantidade de Ocorrência 5 :  Porcentagem da ocorrência: 0.504541 
+Nome Ocorrencia:  Gastroduodenite, sem outra especificacao || Quantidade de Ocorrência 5 :  Porcentagem da ocorrência: 0.504541 
+Nome Ocorrencia:  Dor localizada no abdome superior || Quantidade de Ocorrência 4 :  Porcentagem da ocorrência: 0.403633 
+Nome Ocorrencia:  Outras afeccoes especificadas das arterias e das arteriolas || Quantidade de Ocorrência 4 :  Porcentagem da ocorrência: 0.403633 
+Nome Ocorrencia:  Ansiedade generalizada || Quantidade de Ocorrência 4 :  Porcentagem da ocorrência: 0.403633 
+Nome Ocorrencia:  Sopros e outros ruidos cardiacos || Quantidade de Ocorrência 4 :  Porcentagem da ocorrência: 0.403633 
+Nome Ocorrencia:  Tireotoxicose nao especificada || Quantidade de Ocorrência 4 :  Porcentagem da ocorrência: 0.403633 
+Nome Ocorrencia:  Pessoa com medo de uma queixa para a qual nao foi feito diagnostico || Quantidade de Ocorrência 3 :  Porcentagem da ocorrência: 0.302725 
+Nome Ocorrencia:  Acidente vascular cerebral, nao especificado como hemorragico ou isquemico || Quantidade de Ocorrência 3 :  Porcentagem da ocorrência: 0.302725 
+Nome Ocorrencia:  Doenca nao especificada da valva mitral || Quantidade de Ocorrência 3 :  Porcentagem da ocorrência: 0.302725 
+Nome Ocorrencia:  Episodio depressivo nao especificado || Quantidade de Ocorrência 3 :  Porcentagem da ocorrência: 0.302725 
+Nome Ocorrencia:  Labirintite || Quantidade de Ocorrência 3 :  Porcentagem da ocorrência: 0.302725 
+Nome Ocorrencia:  Bloqueio atrioventricular de segundo grau || Quantidade de Ocorrência 3 :  Porcentagem da ocorrência: 0.302725 
+Nome Ocorrencia:  Cardiomiopatias nao especificada || Quantidade de Ocorrência 2 :  Porcentagem da ocorrência: 0.201816 
+Nome Ocorrencia:  Outras formas de despolarizacao prematura e as nao especificadas || Quantidade de Ocorrência 2 :  Porcentagem da ocorrência: 0.201816 
+Nome Ocorrencia:  Infarto agudo do miocardio || Quantidade de Ocorrência 2 :  Porcentagem da ocorrência: 0.201816 
+Nome Ocorrencia:  Doenca de refluxo gastroesofagico sem esofagite || Quantidade de Ocorrência 2 :  Porcentagem da ocorrência: 0.201816 
+Nome Ocorrencia:  Hipotensao nao especificada || Quantidade de Ocorrência 2 :  Porcentagem da ocorrência: 0.201816 
+Nome Ocorrencia:  Febre nao especificada || Quantidade de Ocorrência 2 :  Porcentagem da ocorrência: 0.201816 
+Nome Ocorrencia:  Comunicacao interventricular || Quantidade de Ocorrência 2 :  Porcentagem da ocorrência: 0.201816 
+Nome Ocorrencia:  Doenca isquemica cronica do coracao || Quantidade de Ocorrência 2 :  Porcentagem da ocorrência: 0.201816 
+Nome Ocorrencia:  Outra dor toracica || Quantidade de Ocorrência 2 :  Porcentagem da ocorrência: 0.201816 
+Nome Ocorrencia:  Deplecao de volume || Quantidade de Ocorrência 2 :  Porcentagem da ocorrência: 0.201816 
+Nome Ocorrencia:  Estenose (da valva) aortica || Quantidade de Ocorrência 2 :  Porcentagem da ocorrência: 0.201816 
+Nome Ocorrencia:  Insuficiencia cardiaca || Quantidade de Ocorrência 2 :  Porcentagem da ocorrência: 0.201816 
+Nome Ocorrencia:  Hipoglicemia nao especificada || Quantidade de Ocorrência 2 :  Porcentagem da ocorrência: 0.201816 
+Nome Ocorrencia:  Outras doencas da valva tricuspide || Quantidade de Ocorrência 1 :  Porcentagem da ocorrência: 0.100908 
+Nome Ocorrencia:  Erisipela || Quantidade de Ocorrência 1 :  Porcentagem da ocorrência: 0.100908 
+Nome Ocorrencia:  Uso nocivo para a saude de fumo || Quantidade de Ocorrência 1 :  Porcentagem da ocorrência: 0.100908 
+Nome Ocorrencia:  Arritmia ventricular por reentrada || Quantidade de Ocorrência 1 :  Porcentagem da ocorrência: 0.100908 
+Nome Ocorrencia:  Infeccao do trato urinario de localizacao nao especificada || Quantidade de Ocorrência 1 :  Porcentagem da ocorrência: 0.100908 
+Nome Ocorrencia:  Febre de origem desconhecida || Quantidade de Ocorrência 1 :  Porcentagem da ocorrência: 0.100908 
+Nome Ocorrencia:  Outros disturbios funcionais subsequentes a cirurgia cardiaca || Quantidade de Ocorrência 1 :  Porcentagem da ocorrência: 0.100908 
+Nome Ocorrencia:  Comunicacao ventriculo-atrial discordante || Quantidade de Ocorrência 1 :  Porcentagem da ocorrência: 0.100908 
+Nome Ocorrencia:  Complicacao mecanica de dispositivo eletronico cardiaco || Quantidade de Ocorrência 1 :  Porcentagem da ocorrência: 0.100908 
+Nome Ocorrencia:  Anestesia cutanea || Quantidade de Ocorrência 1 :  Porcentagem da ocorrência: 0.100908 
+Nome Ocorrencia:  Cardiomegalia || Quantidade de Ocorrência 1 :  Porcentagem da ocorrência: 0.100908 
+Nome Ocorrencia:  Ascite || Quantidade de Ocorrência 1 :  Porcentagem da ocorrência: 0.100908 
+Nome Ocorrencia:  Anormalidades do batimento cardiaco || Quantidade de Ocorrência 1 :  Porcentagem da ocorrência: 0.100908 
+Nome Ocorrencia:  Osteocondropatias, nao especificada || Quantidade de Ocorrência 1 :  Porcentagem da ocorrência: 0.100908 
+Nome Ocorrencia:  Taquicardia nao especificada || Quantidade de Ocorrência 1 :  Porcentagem da ocorrência: 0.100908 
+Nome Ocorrencia:  Nausea e vomitos || Quantidade de Ocorrência 1 :  Porcentagem da ocorrência: 0.100908 
+Nome Ocorrencia:  Enxaqueca, sem especificacao || Quantidade de Ocorrência 1 :  Porcentagem da ocorrência: 0.100908 
+Nome Ocorrencia:  Outras formas especificadas de doenca pulmonar obstrutiva cronica || Quantidade de Ocorrência 1 :  Porcentagem da ocorrência: 0.100908 
+Nome Ocorrencia:  Soluco || Quantidade de Ocorrência 1 :  Porcentagem da ocorrência: 0.100908 
+Nome Ocorrencia:  Transtornos nao especificados da funcao vestibular || Quantidade de Ocorrência 1 :  Porcentagem da ocorrência: 0.100908 
+Nome Ocorrencia:  Insuficiencia mitral reumatica || Quantidade de Ocorrência 1 :  Porcentagem da ocorrência: 0.100908 
+Nome Ocorrencia:  Sindrome [estado] de abstinencia do uso de alcool || Quantidade de Ocorrência 1 :  Porcentagem da ocorrência: 0.100908 
+Nome Ocorrencia:  Asma || Quantidade de Ocorrência 1 :  Porcentagem da ocorrência: 0.100908 
+Nome Ocorrencia:  Gastroenterite e colite nao-infecciosas, nao especificadas || Quantidade de Ocorrência 1 :  Porcentagem da ocorrência: 0.100908 
+Nome Ocorrencia:  Pneumonia nao especificada || Quantidade de Ocorrência 1 :  Porcentagem da ocorrência: 0.100908 
+Nome Ocorrencia:  Outras gastrites || Quantidade de Ocorrência 1 :  Porcentagem da ocorrência: 0.100908 
+Nome Ocorrencia:  Complicacao mecanica de enxerto de orgao urinario || Quantidade de Ocorrência 1 :  Porcentagem da ocorrência: 0.100908 
+Nome Ocorrencia:  Infarto agudo transmural da parede inferior do miocardio || Quantidade de Ocorrência 1 :  Porcentagem da ocorrência: 0.100908 
+Nome Ocorrencia:  Hipotensao || Quantidade de Ocorrência 1 :  Porcentagem da ocorrência: 0.100908 
+Nome Ocorrencia:  Outros sintomas e sinais relativos A funcao cognitiva e A consciencia || Quantidade de Ocorrência 1 :  Porcentagem da ocorrência: 0.100908 
+Nome Ocorrencia:  Infarto agudo transmural da parede anterior do miocardio || Quantidade de Ocorrência 1 :  Porcentagem da ocorrência: 0.100908 
+Nome Ocorrencia:  Transtorno de panico [ansiedade paroxistica episodica] || Quantidade de Ocorrência 1 :  Porcentagem da ocorrência: 0.100908 
+Nome Ocorrencia:  Prolapso (da valva) mitral || Quantidade de Ocorrência 1 :  Porcentagem da ocorrência: 0.100908 
+Nome Ocorrencia:  Rigidez articular nao classificada em outra parte || Quantidade de Ocorrência 1 :  Porcentagem da ocorrência: 0.100908 
+Nome Ocorrencia:  Parestesias cutaneas || Quantidade de Ocorrência 1 :  Porcentagem da ocorrência: 0.100908 
+Nome Ocorrencia:  Teste de tolerancia a glicose anormal || Quantidade de Ocorrência 1 :  Porcentagem da ocorrência: 0.100908 
+********************************************************************************************************************************************************************************************
+Tempo inicio:2020-02-11 15:09:03
+k-FOLD:7
+Best silhouette0.7431 for k=750
+k-Teste:750
+O(s) grupo(s) mais frequente:
+Grupo  80 abrange 11.053345388788427% do teste
+Nome Ocorrencia:  Hipertensao essencial (primaria) || Quantidade de Ocorrência 132 :  Porcentagem da ocorrência: 13.707165 
+Nome Ocorrencia:  Insuficiencia cardiaca congestiva || Quantidade de Ocorrência 109 :  Porcentagem da ocorrência: 11.318795 
+Nome Ocorrencia:  Hipertensao secundaria, nao especificada || Quantidade de Ocorrência 70 :  Porcentagem da ocorrência: 7.268951 
+Nome Ocorrencia:  Dor toracica, nao especificada || Quantidade de Ocorrência 62 :  Porcentagem da ocorrência: 6.438214 
+Nome Ocorrencia:  Transtorno ansioso nao especificado || Quantidade de Ocorrência 39 :  Porcentagem da ocorrência: 4.049844 
+Nome Ocorrencia:  "Flutter" e fibrilacao atrial || Quantidade de Ocorrência 38 :  Porcentagem da ocorrência: 3.946002 
+Nome Ocorrencia:  Mialgia || Quantidade de Ocorrência 34 :  Porcentagem da ocorrência: 3.530633 
+Nome Ocorrencia:  Outros disturbios do metabolismo de lipoproteinas || Quantidade de Ocorrência 29 :  Porcentagem da ocorrência: 3.011423 
+Nome Ocorrencia:  Diabetes mellitus nao especificado || Quantidade de Ocorrência 25 :  Porcentagem da ocorrência: 2.596054 
+Nome Ocorrencia:  Palpitacoes || Quantidade de Ocorrência 25 :  Porcentagem da ocorrência: 2.596054 
+Nome Ocorrencia:  Infarto agudo do miocardio nao especificado || Quantidade de Ocorrência 21 :  Porcentagem da ocorrência: 2.180685 
+Nome Ocorrencia:  Broncopneumonia nao especificada || Quantidade de Ocorrência 19 :  Porcentagem da ocorrência: 1.973001 
+Nome Ocorrencia:  Diabetes mellitus nao especificado sem complicacoes || Quantidade de Ocorrência 14 :  Porcentagem da ocorrência: 1.453790 
+Nome Ocorrencia:  Outros transtornos ansiosos || Quantidade de Ocorrência 13 :  Porcentagem da ocorrência: 1.349948 
+Nome Ocorrencia:  Cefaleia || Quantidade de Ocorrência 13 :  Porcentagem da ocorrência: 1.349948 
+Nome Ocorrencia:  Sincope e colapso || Quantidade de Ocorrência 13 :  Porcentagem da ocorrência: 1.349948 
+Nome Ocorrencia:  Dispneia || Quantidade de Ocorrência 12 :  Porcentagem da ocorrência: 1.246106 
+Nome Ocorrencia:  Acidente vascular cerebral, nao especificado como hemorragico ou isquemico || Quantidade de Ocorrência 11 :  Porcentagem da ocorrência: 1.142264 
+Nome Ocorrencia:  Mal estar, fadiga || Quantidade de Ocorrência 11 :  Porcentagem da ocorrência: 1.142264 
+Nome Ocorrencia:  Dor precordial || Quantidade de Ocorrência 10 :  Porcentagem da ocorrência: 1.038422 
+Nome Ocorrencia:  Angina pectoris || Quantidade de Ocorrência 9 :  Porcentagem da ocorrência: 0.934579 
+Nome Ocorrencia:  Bronquite nao especificada como aguda ou cronica || Quantidade de Ocorrência 9 :  Porcentagem da ocorrência: 0.934579 
+Nome Ocorrencia:  Sindrome de dependencia de sedativos e hipnoticos || Quantidade de Ocorrência 9 :  Porcentagem da ocorrência: 0.934579 
+Nome Ocorrencia:  Doenca isquemica cronica do coracao nao especificada || Quantidade de Ocorrência 9 :  Porcentagem da ocorrência: 0.934579 
+Nome Ocorrencia:  Outras formas de doenca isquemica cronica do coracao || Quantidade de Ocorrência 9 :  Porcentagem da ocorrência: 0.934579 
+Nome Ocorrencia:  Presenca de marca-passo cardiaco || Quantidade de Ocorrência 9 :  Porcentagem da ocorrência: 0.934579 
+Nome Ocorrencia:  Disturbio nao especificado do metabolismo de lipoproteinas || Quantidade de Ocorrência 9 :  Porcentagem da ocorrência: 0.934579 
+Nome Ocorrencia:  Doenca de Chagas || Quantidade de Ocorrência 9 :  Porcentagem da ocorrência: 0.934579 
+Nome Ocorrencia:  Hipertensao pre-existente complicando a gravidez, o parto e o puerperio || Quantidade de Ocorrência 9 :  Porcentagem da ocorrência: 0.934579 
+Nome Ocorrencia:  Tontura e instabilidade || Quantidade de Ocorrência 8 :  Porcentagem da ocorrência: 0.830737 
+Nome Ocorrencia:  Outras formas de doenca isquemica aguda do coracao || Quantidade de Ocorrência 8 :  Porcentagem da ocorrência: 0.830737 
+Nome Ocorrencia:  Miosite nao especificada || Quantidade de Ocorrência 8 :  Porcentagem da ocorrência: 0.830737 
+Nome Ocorrencia:  Arritmia cardiaca nao especificada || Quantidade de Ocorrência 8 :  Porcentagem da ocorrência: 0.830737 
+Nome Ocorrencia:  Angina instavel || Quantidade de Ocorrência 7 :  Porcentagem da ocorrência: 0.726895 
+Nome Ocorrencia:  Dispepsia || Quantidade de Ocorrência 7 :  Porcentagem da ocorrência: 0.726895 
+Nome Ocorrencia:  Angina pectoris, nao especificada || Quantidade de Ocorrência 6 :  Porcentagem da ocorrência: 0.623053 
+Nome Ocorrencia:  Dor em membro || Quantidade de Ocorrência 6 :  Porcentagem da ocorrência: 0.623053 
+Nome Ocorrencia:  Taquicardia supraventricular || Quantidade de Ocorrência 6 :  Porcentagem da ocorrência: 0.623053 
+Nome Ocorrencia:  Insuficiencia mitral reumatica || Quantidade de Ocorrência 5 :  Porcentagem da ocorrência: 0.519211 
+Nome Ocorrencia:  Outras arritmias cardiacas especificadas || Quantidade de Ocorrência 5 :  Porcentagem da ocorrência: 0.519211 
+Nome Ocorrencia:  Gastroduodenite, sem outra especificacao || Quantidade de Ocorrência 4 :  Porcentagem da ocorrência: 0.415369 
+Nome Ocorrencia:  Exame medico geral || Quantidade de Ocorrência 4 :  Porcentagem da ocorrência: 0.415369 
+Nome Ocorrencia:  Sopros e outros ruidos cardiacos || Quantidade de Ocorrência 4 :  Porcentagem da ocorrência: 0.415369 
+Nome Ocorrencia:  Tireotoxicose nao especificada || Quantidade de Ocorrência 4 :  Porcentagem da ocorrência: 0.415369 
+Nome Ocorrencia:  Transtorno afetivo bipolar, episodio atual depressivo leve ou moderado || Quantidade de Ocorrência 4 :  Porcentagem da ocorrência: 0.415369 
+Nome Ocorrencia:  Ansiedade generalizada || Quantidade de Ocorrência 4 :  Porcentagem da ocorrência: 0.415369 
+Nome Ocorrencia:  Outras afeccoes especificadas das arterias e das arteriolas || Quantidade de Ocorrência 4 :  Porcentagem da ocorrência: 0.415369 
+Nome Ocorrencia:  Hipotensao nao especificada || Quantidade de Ocorrência 3 :  Porcentagem da ocorrência: 0.311526 
+Nome Ocorrencia:  Bloqueio atrioventricular de segundo grau || Quantidade de Ocorrência 3 :  Porcentagem da ocorrência: 0.311526 
+Nome Ocorrencia:  Taquicardia nao especificada || Quantidade de Ocorrência 3 :  Porcentagem da ocorrência: 0.311526 
+Nome Ocorrencia:  Labirintite || Quantidade de Ocorrência 3 :  Porcentagem da ocorrência: 0.311526 
+Nome Ocorrencia:  Episodio depressivo nao especificado || Quantidade de Ocorrência 3 :  Porcentagem da ocorrência: 0.311526 
+Nome Ocorrencia:  Infarto agudo do miocardio || Quantidade de Ocorrência 2 :  Porcentagem da ocorrência: 0.207684 
+Nome Ocorrencia:  Outras formas de despolarizacao prematura e as nao especificadas || Quantidade de Ocorrência 2 :  Porcentagem da ocorrência: 0.207684 
+Nome Ocorrencia:  Estenose (da valva) aortica || Quantidade de Ocorrência 2 :  Porcentagem da ocorrência: 0.207684 
+Nome Ocorrencia:  Hipoglicemia nao especificada || Quantidade de Ocorrência 2 :  Porcentagem da ocorrência: 0.207684 
+Nome Ocorrencia:  Nausea e vomitos || Quantidade de Ocorrência 2 :  Porcentagem da ocorrência: 0.207684 
+Nome Ocorrencia:  Pessoa com medo de uma queixa para a qual nao foi feito diagnostico || Quantidade de Ocorrência 2 :  Porcentagem da ocorrência: 0.207684 
+Nome Ocorrencia:  Doenca nao especificada da valva mitral || Quantidade de Ocorrência 2 :  Porcentagem da ocorrência: 0.207684 
+Nome Ocorrencia:  Outra dor toracica || Quantidade de Ocorrência 2 :  Porcentagem da ocorrência: 0.207684 
+Nome Ocorrencia:  Cardiomiopatias nao especificada || Quantidade de Ocorrência 2 :  Porcentagem da ocorrência: 0.207684 
+Nome Ocorrencia:  Insuficiencia cardiaca || Quantidade de Ocorrência 2 :  Porcentagem da ocorrência: 0.207684 
+Nome Ocorrencia:  Deplecao de volume || Quantidade de Ocorrência 2 :  Porcentagem da ocorrência: 0.207684 
+Nome Ocorrencia:  Tosse || Quantidade de Ocorrência 2 :  Porcentagem da ocorrência: 0.207684 
+Nome Ocorrencia:  Bradicardia nao especificada || Quantidade de Ocorrência 1 :  Porcentagem da ocorrência: 0.103842 
+Nome Ocorrencia:  Febre reumatica sem mencao de comprometimento do coracao || Quantidade de Ocorrência 1 :  Porcentagem da ocorrência: 0.103842 
+Nome Ocorrencia:  Osteocondropatias, nao especificada || Quantidade de Ocorrência 1 :  Porcentagem da ocorrência: 0.103842 
+Nome Ocorrencia:  Comunicacao interatrial || Quantidade de Ocorrência 1 :  Porcentagem da ocorrência: 0.103842 
+Nome Ocorrencia:  Cardiomiopatia dilatada || Quantidade de Ocorrência 1 :  Porcentagem da ocorrência: 0.103842 
+Nome Ocorrencia:  Outras anormalidades e as nao especificadas da respiracao || Quantidade de Ocorrência 1 :  Porcentagem da ocorrência: 0.103842 
+Nome Ocorrencia:  Anormalidades do batimento cardiaco || Quantidade de Ocorrência 1 :  Porcentagem da ocorrência: 0.103842 
+Nome Ocorrencia:  Cervicalgia || Quantidade de Ocorrência 1 :  Porcentagem da ocorrência: 0.103842 
+Nome Ocorrencia:  Ascite || Quantidade de Ocorrência 1 :  Porcentagem da ocorrência: 0.103842 
+Nome Ocorrencia:  Dor abdominal e pelvica || Quantidade de Ocorrência 1 :  Porcentagem da ocorrência: 0.103842 
+Nome Ocorrencia:  Infeccao do trato urinario de localizacao nao especificada || Quantidade de Ocorrência 1 :  Porcentagem da ocorrência: 0.103842 
+Nome Ocorrencia:  Febre de origem desconhecida || Quantidade de Ocorrência 1 :  Porcentagem da ocorrência: 0.103842 
+Nome Ocorrencia:  Outros disturbios funcionais subsequentes a cirurgia cardiaca || Quantidade de Ocorrência 1 :  Porcentagem da ocorrência: 0.103842 
+Nome Ocorrencia:  Outras doencas da valva tricuspide || Quantidade de Ocorrência 1 :  Porcentagem da ocorrência: 0.103842 
+Nome Ocorrencia:  Doenca de refluxo gastroesofagico sem esofagite || Quantidade de Ocorrência 1 :  Porcentagem da ocorrência: 0.103842 
+Nome Ocorrencia:  Anestesia cutanea || Quantidade de Ocorrência 1 :  Porcentagem da ocorrência: 0.103842 
+Nome Ocorrencia:  Cardiomegalia || Quantidade de Ocorrência 1 :  Porcentagem da ocorrência: 0.103842 
+Nome Ocorrencia:  Outras formas especificadas de doenca pulmonar obstrutiva cronica || Quantidade de Ocorrência 1 :  Porcentagem da ocorrência: 0.103842 
+Nome Ocorrencia:  Doenca pulmonar obstrutiva cronica nao especificada || Quantidade de Ocorrência 1 :  Porcentagem da ocorrência: 0.103842 
+Nome Ocorrencia:  Asma || Quantidade de Ocorrência 1 :  Porcentagem da ocorrência: 0.103842 
+Nome Ocorrencia:  Gastroenterite e colite nao-infecciosas, nao especificadas || Quantidade de Ocorrência 1 :  Porcentagem da ocorrência: 0.103842 
+Nome Ocorrencia:  Infarto agudo transmural da parede inferior do miocardio || Quantidade de Ocorrência 1 :  Porcentagem da ocorrência: 0.103842 
+Nome Ocorrencia:  Prolapso (da valva) mitral || Quantidade de Ocorrência 1 :  Porcentagem da ocorrência: 0.103842 
+Nome Ocorrencia:  Erisipela || Quantidade de Ocorrência 1 :  Porcentagem da ocorrência: 0.103842 
+Nome Ocorrencia:  Comunicacao ventriculo-atrial discordante || Quantidade de Ocorrência 1 :  Porcentagem da ocorrência: 0.103842 
+Nome Ocorrencia:  Soluco || Quantidade de Ocorrência 1 :  Porcentagem da ocorrência: 0.103842 
+Nome Ocorrencia:  Arritmia ventricular por reentrada || Quantidade de Ocorrência 1 :  Porcentagem da ocorrência: 0.103842 
+Nome Ocorrencia:  Transtornos nao especificados da funcao vestibular || Quantidade de Ocorrência 1 :  Porcentagem da ocorrência: 0.103842 
+Nome Ocorrencia:  Sindrome [estado] de abstinencia do uso de alcool || Quantidade de Ocorrência 1 :  Porcentagem da ocorrência: 0.103842 
+Nome Ocorrencia:  Comunicacao interventricular || Quantidade de Ocorrência 1 :  Porcentagem da ocorrência: 0.103842 
+Nome Ocorrencia:  Rigidez articular nao classificada em outra parte || Quantidade de Ocorrência 1 :  Porcentagem da ocorrência: 0.103842 
+Nome Ocorrencia:  Pneumonia nao especificada || Quantidade de Ocorrência 1 :  Porcentagem da ocorrência: 0.103842 
+Nome Ocorrencia:  Outras gastrites || Quantidade de Ocorrência 1 :  Porcentagem da ocorrência: 0.103842 
+Nome Ocorrencia:  Complicacao mecanica de enxerto de orgao urinario || Quantidade de Ocorrência 1 :  Porcentagem da ocorrência: 0.103842 
+Nome Ocorrencia:  hipotensão ortostática || Quantidade de Ocorrência 1 :  Porcentagem da ocorrência: 0.103842 
+Nome Ocorrencia:  Hipotensao || Quantidade de Ocorrência 1 :  Porcentagem da ocorrência: 0.103842 
+Nome Ocorrencia:  Outros sintomas e sinais relativos A funcao cognitiva e A consciencia || Quantidade de Ocorrência 1 :  Porcentagem da ocorrência: 0.103842 
+Nome Ocorrencia:  Doenca isquemica cronica do coracao || Quantidade de Ocorrência 1 :  Porcentagem da ocorrência: 0.103842 
+Nome Ocorrencia:  Infarto agudo transmural da parede anterior do miocardio || Quantidade de Ocorrência 1 :  Porcentagem da ocorrência: 0.103842 
+Nome Ocorrencia:  Transtorno de panico [ansiedade paroxistica episodica] || Quantidade de Ocorrência 1 :  Porcentagem da ocorrência: 0.103842 
+Nome Ocorrencia:  Febre nao especificada || Quantidade de Ocorrência 1 :  Porcentagem da ocorrência: 0.103842 
+********************************************************************************************************************************************************************************************
+Tempo inicio:2020-02-11 15:09:10
+k-FOLD:8
+Best silhouette0.7361 for k=750
+k-Teste:750
+O(s) grupo(s) mais frequente:
+Grupo  55 abrange 11.098553345388789% do teste
+Nome Ocorrencia:  Hipertensao essencial (primaria) || Quantidade de Ocorrência 136 :  Porcentagem da ocorrência: 13.586414 
+Nome Ocorrencia:  Insuficiencia cardiaca congestiva || Quantidade de Ocorrência 107 :  Porcentagem da ocorrência: 10.689311 
+Nome Ocorrencia:  Hipertensao secundaria, nao especificada || Quantidade de Ocorrência 74 :  Porcentagem da ocorrência: 7.392607 
+Nome Ocorrencia:  Dor toracica, nao especificada || Quantidade de Ocorrência 55 :  Porcentagem da ocorrência: 5.494505 
+Nome Ocorrencia:  Transtorno ansioso nao especificado || Quantidade de Ocorrência 41 :  Porcentagem da ocorrência: 4.095904 
+Nome Ocorrencia:  "Flutter" e fibrilacao atrial || Quantidade de Ocorrência 36 :  Porcentagem da ocorrência: 3.596404 
+Nome Ocorrencia:  Palpitacoes || Quantidade de Ocorrência 32 :  Porcentagem da ocorrência: 3.196803 
+Nome Ocorrencia:  Mialgia || Quantidade de Ocorrência 31 :  Porcentagem da ocorrência: 3.096903 
+Nome Ocorrencia:  Outros disturbios do metabolismo de lipoproteinas || Quantidade de Ocorrência 29 :  Porcentagem da ocorrência: 2.897103 
+Nome Ocorrencia:  Diabetes mellitus nao especificado || Quantidade de Ocorrência 25 :  Porcentagem da ocorrência: 2.497502 
+Nome Ocorrencia:  Infarto agudo do miocardio nao especificado || Quantidade de Ocorrência 21 :  Porcentagem da ocorrência: 2.097902 
+Nome Ocorrencia:  Dispneia || Quantidade de Ocorrência 21 :  Porcentagem da ocorrência: 2.097902 
+Nome Ocorrencia:  Broncopneumonia nao especificada || Quantidade de Ocorrência 19 :  Porcentagem da ocorrência: 1.898102 
+Nome Ocorrencia:  Cefaleia || Quantidade de Ocorrência 18 :  Porcentagem da ocorrência: 1.798202 
+Nome Ocorrencia:  Doenca de Chagas || Quantidade de Ocorrência 18 :  Porcentagem da ocorrência: 1.798202 
+Nome Ocorrencia:  Presenca de marca-passo cardiaco || Quantidade de Ocorrência 18 :  Porcentagem da ocorrência: 1.798202 
+Nome Ocorrencia:  Sincope e colapso || Quantidade de Ocorrência 17 :  Porcentagem da ocorrência: 1.698302 
+Nome Ocorrencia:  Arritmia cardiaca nao especificada || Quantidade de Ocorrência 16 :  Porcentagem da ocorrência: 1.598402 
+Nome Ocorrencia:  Diabetes mellitus nao especificado sem complicacoes || Quantidade de Ocorrência 14 :  Porcentagem da ocorrência: 1.398601 
+Nome Ocorrencia:  Mal estar, fadiga || Quantidade de Ocorrência 13 :  Porcentagem da ocorrência: 1.298701 
+Nome Ocorrencia:  Outros transtornos ansiosos || Quantidade de Ocorrência 13 :  Porcentagem da ocorrência: 1.298701 
+Nome Ocorrencia:  Acidente vascular cerebral, nao especificado como hemorragico ou isquemico || Quantidade de Ocorrência 11 :  Porcentagem da ocorrência: 1.098901 
+Nome Ocorrencia:  Dor precordial || Quantidade de Ocorrência 10 :  Porcentagem da ocorrência: 0.999001 
+Nome Ocorrencia:  Doenca isquemica cronica do coracao nao especificada || Quantidade de Ocorrência 9 :  Porcentagem da ocorrência: 0.899101 
+Nome Ocorrencia:  Outras formas de doenca isquemica cronica do coracao || Quantidade de Ocorrência 9 :  Porcentagem da ocorrência: 0.899101 
+Nome Ocorrencia:  Bronquite nao especificada como aguda ou cronica || Quantidade de Ocorrência 9 :  Porcentagem da ocorrência: 0.899101 
+Nome Ocorrencia:  Disturbio nao especificado do metabolismo de lipoproteinas || Quantidade de Ocorrência 9 :  Porcentagem da ocorrência: 0.899101 
+Nome Ocorrencia:  Angina pectoris || Quantidade de Ocorrência 9 :  Porcentagem da ocorrência: 0.899101 
+Nome Ocorrencia:  Sindrome de dependencia de sedativos e hipnoticos || Quantidade de Ocorrência 9 :  Porcentagem da ocorrência: 0.899101 
+Nome Ocorrencia:  Hipertensao pre-existente complicando a gravidez, o parto e o puerperio || Quantidade de Ocorrência 9 :  Porcentagem da ocorrência: 0.899101 
+Nome Ocorrencia:  Miosite nao especificada || Quantidade de Ocorrência 8 :  Porcentagem da ocorrência: 0.799201 
+Nome Ocorrencia:  Outras formas de doenca isquemica aguda do coracao || Quantidade de Ocorrência 8 :  Porcentagem da ocorrência: 0.799201 
+Nome Ocorrencia:  Tontura e instabilidade || Quantidade de Ocorrência 7 :  Porcentagem da ocorrência: 0.699301 
+Nome Ocorrencia:  Angina instavel || Quantidade de Ocorrência 6 :  Porcentagem da ocorrência: 0.599401 
+Nome Ocorrencia:  Angina pectoris, nao especificada || Quantidade de Ocorrência 6 :  Porcentagem da ocorrência: 0.599401 
+Nome Ocorrencia:  Exame medico geral || Quantidade de Ocorrência 5 :  Porcentagem da ocorrência: 0.499500 
+Nome Ocorrencia:  Insuficiencia mitral reumatica || Quantidade de Ocorrência 5 :  Porcentagem da ocorrência: 0.499500 
+Nome Ocorrencia:  Outras formas de despolarizacao prematura e as nao especificadas || Quantidade de Ocorrência 5 :  Porcentagem da ocorrência: 0.499500 
+Nome Ocorrencia:  Dispepsia || Quantidade de Ocorrência 5 :  Porcentagem da ocorrência: 0.499500 
+Nome Ocorrencia:  Taquicardia supraventricular || Quantidade de Ocorrência 5 :  Porcentagem da ocorrência: 0.499500 
+Nome Ocorrencia:  Outras arritmias cardiacas especificadas || Quantidade de Ocorrência 5 :  Porcentagem da ocorrência: 0.499500 
+Nome Ocorrencia:  Ansiedade generalizada || Quantidade de Ocorrência 4 :  Porcentagem da ocorrência: 0.399600 
+Nome Ocorrencia:  Transtorno afetivo bipolar, episodio atual depressivo leve ou moderado || Quantidade de Ocorrência 4 :  Porcentagem da ocorrência: 0.399600 
+Nome Ocorrencia:  Bloqueio atrioventricular de segundo grau || Quantidade de Ocorrência 4 :  Porcentagem da ocorrência: 0.399600 
+Nome Ocorrencia:  Sopros e outros ruidos cardiacos || Quantidade de Ocorrência 4 :  Porcentagem da ocorrência: 0.399600 
+Nome Ocorrencia:  Tireotoxicose nao especificada || Quantidade de Ocorrência 4 :  Porcentagem da ocorrência: 0.399600 
+Nome Ocorrencia:  Gastroduodenite, sem outra especificacao || Quantidade de Ocorrência 4 :  Porcentagem da ocorrência: 0.399600 
+Nome Ocorrencia:  Taquicardia nao especificada || Quantidade de Ocorrência 3 :  Porcentagem da ocorrência: 0.299700 
+Nome Ocorrencia:  Episodio depressivo nao especificado || Quantidade de Ocorrência 3 :  Porcentagem da ocorrência: 0.299700 
+Nome Ocorrencia:  Hipotensao nao especificada || Quantidade de Ocorrência 3 :  Porcentagem da ocorrência: 0.299700 
+Nome Ocorrencia:  Cardiomiopatias nao especificada || Quantidade de Ocorrência 2 :  Porcentagem da ocorrência: 0.199800 
+Nome Ocorrencia:  Estenose (da valva) aortica || Quantidade de Ocorrência 2 :  Porcentagem da ocorrência: 0.199800 
+Nome Ocorrencia:  Dor em membro || Quantidade de Ocorrência 2 :  Porcentagem da ocorrência: 0.199800 
+Nome Ocorrencia:  Nausea e vomitos || Quantidade de Ocorrência 2 :  Porcentagem da ocorrência: 0.199800 
+Nome Ocorrencia:  Doenca pulmonar obstrutiva cronica nao especificada || Quantidade de Ocorrência 2 :  Porcentagem da ocorrência: 0.199800 
+Nome Ocorrencia:  Insuficiencia cardiaca || Quantidade de Ocorrência 2 :  Porcentagem da ocorrência: 0.199800 
+Nome Ocorrencia:  Labirintite || Quantidade de Ocorrência 2 :  Porcentagem da ocorrência: 0.199800 
+Nome Ocorrencia:  Outra dor toracica || Quantidade de Ocorrência 2 :  Porcentagem da ocorrência: 0.199800 
+Nome Ocorrencia:  Pessoa com medo de uma queixa para a qual nao foi feito diagnostico || Quantidade de Ocorrência 2 :  Porcentagem da ocorrência: 0.199800 
+Nome Ocorrencia:  Deplecao de volume || Quantidade de Ocorrência 2 :  Porcentagem da ocorrência: 0.199800 
+Nome Ocorrencia:  Tosse || Quantidade de Ocorrência 2 :  Porcentagem da ocorrência: 0.199800 
+Nome Ocorrencia:  Hipoglicemia nao especificada || Quantidade de Ocorrência 2 :  Porcentagem da ocorrência: 0.199800 
+Nome Ocorrencia:  Gastroenterite e colite nao-infecciosas, nao especificadas || Quantidade de Ocorrência 1 :  Porcentagem da ocorrência: 0.099900 
+Nome Ocorrencia:  Traumatismo superficial de regiao nao especificada do corpo || Quantidade de Ocorrência 1 :  Porcentagem da ocorrência: 0.099900 
+Nome Ocorrencia:  Cardiomiopatia dilatada || Quantidade de Ocorrência 1 :  Porcentagem da ocorrência: 0.099900 
+Nome Ocorrencia:  Outras anormalidades e as nao especificadas da respiracao || Quantidade de Ocorrência 1 :  Porcentagem da ocorrência: 0.099900 
+Nome Ocorrencia:  Prolapso (da valva) mitral || Quantidade de Ocorrência 1 :  Porcentagem da ocorrência: 0.099900 
+Nome Ocorrencia:  Erisipela || Quantidade de Ocorrência 1 :  Porcentagem da ocorrência: 0.099900 
+Nome Ocorrencia:  Bradicardia nao especificada || Quantidade de Ocorrência 1 :  Porcentagem da ocorrência: 0.099900 
+Nome Ocorrencia:  Comunicacao ventriculo-atrial discordante || Quantidade de Ocorrência 1 :  Porcentagem da ocorrência: 0.099900 
+Nome Ocorrencia:  Dor abdominal e pelvica || Quantidade de Ocorrência 1 :  Porcentagem da ocorrência: 0.099900 
+Nome Ocorrencia:  Outra dorsalgia || Quantidade de Ocorrência 1 :  Porcentagem da ocorrência: 0.099900 
+Nome Ocorrencia:  Febre reumatica sem mencao de comprometimento do coracao || Quantidade de Ocorrência 1 :  Porcentagem da ocorrência: 0.099900 
+Nome Ocorrencia:  Diarreia e gastroenterite de origem infecciosa presumivel || Quantidade de Ocorrência 1 :  Porcentagem da ocorrência: 0.099900 
+Nome Ocorrencia:  Dor nao classificada em outra parte || Quantidade de Ocorrência 1 :  Porcentagem da ocorrência: 0.099900 
+Nome Ocorrencia:  Neurastenia || Quantidade de Ocorrência 1 :  Porcentagem da ocorrência: 0.099900 
+Nome Ocorrencia:  Varizes dos membros inferiores com ulcera || Quantidade de Ocorrência 1 :  Porcentagem da ocorrência: 0.099900 
+Nome Ocorrencia:  Sindrome de pre-excitacao || Quantidade de Ocorrência 1 :  Porcentagem da ocorrência: 0.099900 
+Nome Ocorrencia:  Ulcera gastrica || Quantidade de Ocorrência 1 :  Porcentagem da ocorrência: 0.099900 
+Nome Ocorrencia:  Osteocondropatias, nao especificada || Quantidade de Ocorrência 1 :  Porcentagem da ocorrência: 0.099900 
+Nome Ocorrencia:  Infarto agudo do miocardio || Quantidade de Ocorrência 1 :  Porcentagem da ocorrência: 0.099900 
+Nome Ocorrencia:  Comunicacao interatrial || Quantidade de Ocorrência 1 :  Porcentagem da ocorrência: 0.099900 
+Nome Ocorrencia:  Infarto agudo transmural da parede inferior do miocardio || Quantidade de Ocorrência 1 :  Porcentagem da ocorrência: 0.099900 
+Nome Ocorrencia:  Transtornos nao especificados da funcao vestibular || Quantidade de Ocorrência 1 :  Porcentagem da ocorrência: 0.099900 
+Nome Ocorrencia:  Cervicalgia || Quantidade de Ocorrência 1 :  Porcentagem da ocorrência: 0.099900 
+Nome Ocorrencia:  Doenca nao especificada da valva mitral || Quantidade de Ocorrência 1 :  Porcentagem da ocorrência: 0.099900 
+Nome Ocorrencia:  Sindrome [estado] de abstinencia do uso de alcool || Quantidade de Ocorrência 1 :  Porcentagem da ocorrência: 0.099900 
+Nome Ocorrencia:  Asma || Quantidade de Ocorrência 1 :  Porcentagem da ocorrência: 0.099900 
+Nome Ocorrencia:  Comunicacao interventricular || Quantidade de Ocorrência 1 :  Porcentagem da ocorrência: 0.099900 
+Nome Ocorrencia:  Pneumonia nao especificada || Quantidade de Ocorrência 1 :  Porcentagem da ocorrência: 0.099900 
+Nome Ocorrencia:  Febre nao especificada || Quantidade de Ocorrência 1 :  Porcentagem da ocorrência: 0.099900 
+Nome Ocorrencia:  Outras gastrites || Quantidade de Ocorrência 1 :  Porcentagem da ocorrência: 0.099900 
+Nome Ocorrencia:  Complicacao mecanica de enxerto de orgao urinario || Quantidade de Ocorrência 1 :  Porcentagem da ocorrência: 0.099900 
+Nome Ocorrencia:  hipotensão ortostática || Quantidade de Ocorrência 1 :  Porcentagem da ocorrência: 0.099900 
+Nome Ocorrencia:  Hipotensao || Quantidade de Ocorrência 1 :  Porcentagem da ocorrência: 0.099900 
+Nome Ocorrencia:  Outros sintomas e sinais relativos A funcao cognitiva e A consciencia || Quantidade de Ocorrência 1 :  Porcentagem da ocorrência: 0.099900 
+Nome Ocorrencia:  Infarto agudo transmural da parede anterior do miocardio || Quantidade de Ocorrência 1 :  Porcentagem da ocorrência: 0.099900 
+Nome Ocorrencia:  Transtorno de panico [ansiedade paroxistica episodica] || Quantidade de Ocorrência 1 :  Porcentagem da ocorrência: 0.099900 
+Nome Ocorrencia:  Arritmia ventricular por reentrada || Quantidade de Ocorrência 1 :  Porcentagem da ocorrência: 0.099900 
+Nome Ocorrencia:  Rigidez articular nao classificada em outra parte || Quantidade de Ocorrência 1 :  Porcentagem da ocorrência: 0.099900 
+Nome Ocorrencia:  Soluco || Quantidade de Ocorrência 1 :  Porcentagem da ocorrência: 0.099900 
+Nome Ocorrencia:  Outras formas especificadas de doenca pulmonar obstrutiva cronica || Quantidade de Ocorrência 1 :  Porcentagem da ocorrência: 0.099900 
+Nome Ocorrencia:  Doenca isquemica cronica do coracao || Quantidade de Ocorrência 1 :  Porcentagem da ocorrência: 0.099900 
+********************************************************************************************************************************************************************************************
+Tempo inicio:2020-02-11 15:09:16
+k-FOLD:9
+Best silhouette0.7675 for k=750
+k-Teste:750
+O(s) grupo(s) mais frequente:
+Grupo  72 abrange 11.821880650994574% do teste
+Nome Ocorrencia:  Hipertensao essencial (primaria) || Quantidade de Ocorrência 173 :  Porcentagem da ocorrência: 15.405165 
+Nome Ocorrencia:  Insuficiencia cardiaca congestiva || Quantidade de Ocorrência 125 :  Porcentagem da ocorrência: 11.130899 
+Nome Ocorrencia:  Hipertensao secundaria, nao especificada || Quantidade de Ocorrência 65 :  Porcentagem da ocorrência: 5.788068 
+Nome Ocorrencia:  Dor toracica, nao especificada || Quantidade de Ocorrência 57 :  Porcentagem da ocorrência: 5.075690 
+Nome Ocorrencia:  Transtorno ansioso nao especificado || Quantidade de Ocorrência 36 :  Porcentagem da ocorrência: 3.205699 
+Nome Ocorrencia:  Broncopneumonia nao especificada || Quantidade de Ocorrência 36 :  Porcentagem da ocorrência: 3.205699 
+Nome Ocorrencia:  "Flutter" e fibrilacao atrial || Quantidade de Ocorrência 36 :  Porcentagem da ocorrência: 3.205699 
+Nome Ocorrencia:  Palpitacoes || Quantidade de Ocorrência 36 :  Porcentagem da ocorrência: 3.205699 
+Nome Ocorrencia:  Mialgia || Quantidade de Ocorrência 33 :  Porcentagem da ocorrência: 2.938557 
+Nome Ocorrencia:  Outros disturbios do metabolismo de lipoproteinas || Quantidade de Ocorrência 29 :  Porcentagem da ocorrência: 2.582369 
+Nome Ocorrencia:  Diabetes mellitus nao especificado sem complicacoes || Quantidade de Ocorrência 26 :  Porcentagem da ocorrência: 2.315227 
+Nome Ocorrencia:  Diabetes mellitus nao especificado || Quantidade de Ocorrência 25 :  Porcentagem da ocorrência: 2.226180 
+Nome Ocorrencia:  Presenca de marca-passo cardiaco || Quantidade de Ocorrência 22 :  Porcentagem da ocorrência: 1.959038 
+Nome Ocorrencia:  Dispneia || Quantidade de Ocorrência 21 :  Porcentagem da ocorrência: 1.869991 
+Nome Ocorrencia:  Cefaleia || Quantidade de Ocorrência 20 :  Porcentagem da ocorrência: 1.780944 
+Nome Ocorrencia:  Infarto agudo do miocardio nao especificado || Quantidade de Ocorrência 20 :  Porcentagem da ocorrência: 1.780944 
+Nome Ocorrencia:  Doenca pulmonar obstrutiva cronica nao especificada || Quantidade de Ocorrência 18 :  Porcentagem da ocorrência: 1.602850 
+Nome Ocorrencia:  Doenca de Chagas || Quantidade de Ocorrência 18 :  Porcentagem da ocorrência: 1.602850 
+Nome Ocorrencia:  Sincope e colapso || Quantidade de Ocorrência 16 :  Porcentagem da ocorrência: 1.424755 
+Nome Ocorrencia:  Mal estar, fadiga || Quantidade de Ocorrência 13 :  Porcentagem da ocorrência: 1.157614 
+Nome Ocorrencia:  Outros transtornos ansiosos || Quantidade de Ocorrência 13 :  Porcentagem da ocorrência: 1.157614 
+Nome Ocorrencia:  Acidente vascular cerebral, nao especificado como hemorragico ou isquemico || Quantidade de Ocorrência 12 :  Porcentagem da ocorrência: 1.068566 
+Nome Ocorrencia:  Arritmia cardiaca nao especificada || Quantidade de Ocorrência 12 :  Porcentagem da ocorrência: 1.068566 
+Nome Ocorrencia:  Dor precordial || Quantidade de Ocorrência 11 :  Porcentagem da ocorrência: 0.979519 
+Nome Ocorrencia:  Tosse || Quantidade de Ocorrência 11 :  Porcentagem da ocorrência: 0.979519 
+Nome Ocorrencia:  Angina pectoris || Quantidade de Ocorrência 10 :  Porcentagem da ocorrência: 0.890472 
+Nome Ocorrencia:  Miosite nao especificada || Quantidade de Ocorrência 10 :  Porcentagem da ocorrência: 0.890472 
+Nome Ocorrencia:  Bronquite nao especificada como aguda ou cronica || Quantidade de Ocorrência 10 :  Porcentagem da ocorrência: 0.890472 
+Nome Ocorrencia:  Outras formas de doenca isquemica cronica do coracao || Quantidade de Ocorrência 10 :  Porcentagem da ocorrência: 0.890472 
+Nome Ocorrencia:  Angina instavel || Quantidade de Ocorrência 10 :  Porcentagem da ocorrência: 0.890472 
+Nome Ocorrencia:  Hipertensao pre-existente complicando a gravidez, o parto e o puerperio || Quantidade de Ocorrência 9 :  Porcentagem da ocorrência: 0.801425 
+Nome Ocorrencia:  Disturbio nao especificado do metabolismo de lipoproteinas || Quantidade de Ocorrência 9 :  Porcentagem da ocorrência: 0.801425 
+Nome Ocorrencia:  Doenca isquemica cronica do coracao nao especificada || Quantidade de Ocorrência 9 :  Porcentagem da ocorrência: 0.801425 
+Nome Ocorrencia:  Sindrome de dependencia de sedativos e hipnoticos || Quantidade de Ocorrência 9 :  Porcentagem da ocorrência: 0.801425 
+Nome Ocorrencia:  Outras formas de doenca isquemica aguda do coracao || Quantidade de Ocorrência 8 :  Porcentagem da ocorrência: 0.712378 
+Nome Ocorrencia:  Tontura e instabilidade || Quantidade de Ocorrência 7 :  Porcentagem da ocorrência: 0.623330 
+Nome Ocorrencia:  hipotensão ortostática || Quantidade de Ocorrência 6 :  Porcentagem da ocorrência: 0.534283 
+Nome Ocorrencia:  Outras formas de despolarizacao prematura e as nao especificadas || Quantidade de Ocorrência 6 :  Porcentagem da ocorrência: 0.534283 
+Nome Ocorrencia:  Taquicardia supraventricular || Quantidade de Ocorrência 6 :  Porcentagem da ocorrência: 0.534283 
+Nome Ocorrencia:  Dispepsia || Quantidade de Ocorrência 5 :  Porcentagem da ocorrência: 0.445236 
+Nome Ocorrencia:  Exame medico geral || Quantidade de Ocorrência 5 :  Porcentagem da ocorrência: 0.445236 
+Nome Ocorrencia:  Insuficiencia mitral reumatica || Quantidade de Ocorrência 5 :  Porcentagem da ocorrência: 0.445236 
+Nome Ocorrencia:  Outras arritmias cardiacas especificadas || Quantidade de Ocorrência 4 :  Porcentagem da ocorrência: 0.356189 
+Nome Ocorrencia:  Ansiedade generalizada || Quantidade de Ocorrência 4 :  Porcentagem da ocorrência: 0.356189 
+Nome Ocorrencia:  Transtorno afetivo bipolar, episodio atual depressivo leve ou moderado || Quantidade de Ocorrência 4 :  Porcentagem da ocorrência: 0.356189 
+Nome Ocorrencia:  Bloqueio atrioventricular de segundo grau || Quantidade de Ocorrência 4 :  Porcentagem da ocorrência: 0.356189 
+Nome Ocorrencia:  Dor localizada no abdome superior || Quantidade de Ocorrência 4 :  Porcentagem da ocorrência: 0.356189 
+Nome Ocorrencia:  Tireotoxicose nao especificada || Quantidade de Ocorrência 4 :  Porcentagem da ocorrência: 0.356189 
+Nome Ocorrencia:  Gastroduodenite, sem outra especificacao || Quantidade de Ocorrência 4 :  Porcentagem da ocorrência: 0.356189 
+Nome Ocorrencia:  Hipotensao nao especificada || Quantidade de Ocorrência 3 :  Porcentagem da ocorrência: 0.267142 
+Nome Ocorrencia:  Pessoa com medo de uma queixa para a qual nao foi feito diagnostico || Quantidade de Ocorrência 3 :  Porcentagem da ocorrência: 0.267142 
+Nome Ocorrencia:  Cardiomiopatias nao especificada || Quantidade de Ocorrência 2 :  Porcentagem da ocorrência: 0.178094 
+Nome Ocorrencia:  Dor em membro || Quantidade de Ocorrência 2 :  Porcentagem da ocorrência: 0.178094 
+Nome Ocorrencia:  Taquicardia nao especificada || Quantidade de Ocorrência 2 :  Porcentagem da ocorrência: 0.178094 
+Nome Ocorrencia:  Episodio depressivo nao especificado || Quantidade de Ocorrência 2 :  Porcentagem da ocorrência: 0.178094 
+Nome Ocorrencia:  Insuficiencia cardiaca || Quantidade de Ocorrência 2 :  Porcentagem da ocorrência: 0.178094 
+Nome Ocorrencia:  Doenca isquemica cronica do coracao || Quantidade de Ocorrência 2 :  Porcentagem da ocorrência: 0.178094 
+Nome Ocorrencia:  Labirintite || Quantidade de Ocorrência 2 :  Porcentagem da ocorrência: 0.178094 
+Nome Ocorrencia:  Febre nao especificada || Quantidade de Ocorrência 2 :  Porcentagem da ocorrência: 0.178094 
+Nome Ocorrencia:  Comunicacao interventricular || Quantidade de Ocorrência 2 :  Porcentagem da ocorrência: 0.178094 
+Nome Ocorrencia:  Doenca nao especificada da valva mitral || Quantidade de Ocorrência 2 :  Porcentagem da ocorrência: 0.178094 
+Nome Ocorrencia:  Angina pectoris, nao especificada || Quantidade de Ocorrência 2 :  Porcentagem da ocorrência: 0.178094 
+Nome Ocorrencia:  Outra dor toracica || Quantidade de Ocorrência 2 :  Porcentagem da ocorrência: 0.178094 
+Nome Ocorrencia:  Estenose (da valva) aortica || Quantidade de Ocorrência 2 :  Porcentagem da ocorrência: 0.178094 
+Nome Ocorrencia:  Hipoglicemia nao especificada || Quantidade de Ocorrência 2 :  Porcentagem da ocorrência: 0.178094 
+Nome Ocorrencia:  Deplecao de volume || Quantidade de Ocorrência 2 :  Porcentagem da ocorrência: 0.178094 
+Nome Ocorrencia:  Outras formas especificadas de doenca pulmonar obstrutiva cronica || Quantidade de Ocorrência 1 :  Porcentagem da ocorrência: 0.089047 
+Nome Ocorrencia:  Neurastenia || Quantidade de Ocorrência 1 :  Porcentagem da ocorrência: 0.089047 
+Nome Ocorrencia:  Bradicardia nao especificada || Quantidade de Ocorrência 1 :  Porcentagem da ocorrência: 0.089047 
+Nome Ocorrencia:  Comunicacao ventriculo-atrial discordante || Quantidade de Ocorrência 1 :  Porcentagem da ocorrência: 0.089047 
+Nome Ocorrencia:  Dor abdominal e pelvica || Quantidade de Ocorrência 1 :  Porcentagem da ocorrência: 0.089047 
+Nome Ocorrencia:  Traumatismo superficial de regiao nao especificada do corpo || Quantidade de Ocorrência 1 :  Porcentagem da ocorrência: 0.089047 
+Nome Ocorrencia:  Outra dorsalgia || Quantidade de Ocorrência 1 :  Porcentagem da ocorrência: 0.089047 
+Nome Ocorrencia:  Diarreia e gastroenterite de origem infecciosa presumivel || Quantidade de Ocorrência 1 :  Porcentagem da ocorrência: 0.089047 
+Nome Ocorrencia:  Dor nao classificada em outra parte || Quantidade de Ocorrência 1 :  Porcentagem da ocorrência: 0.089047 
+Nome Ocorrencia:  Sindrome de pre-excitacao || Quantidade de Ocorrência 1 :  Porcentagem da ocorrência: 0.089047 
+Nome Ocorrencia:  Varizes dos membros inferiores com ulcera || Quantidade de Ocorrência 1 :  Porcentagem da ocorrência: 0.089047 
+Nome Ocorrencia:  Outras anormalidades e as nao especificadas da respiracao || Quantidade de Ocorrência 1 :  Porcentagem da ocorrência: 0.089047 
+Nome Ocorrencia:  Ulcera gastrica || Quantidade de Ocorrência 1 :  Porcentagem da ocorrência: 0.089047 
+Nome Ocorrencia:  Parestesias cutaneas || Quantidade de Ocorrência 1 :  Porcentagem da ocorrência: 0.089047 
+Nome Ocorrencia:  Teste de tolerancia a glicose anormal || Quantidade de Ocorrência 1 :  Porcentagem da ocorrência: 0.089047 
+Nome Ocorrencia:  Complicacao mecanica de dispositivo eletronico cardiaco || Quantidade de Ocorrência 1 :  Porcentagem da ocorrência: 0.089047 
+Nome Ocorrencia:  Enxaqueca, sem especificacao || Quantidade de Ocorrência 1 :  Porcentagem da ocorrência: 0.089047 
+Nome Ocorrencia:  Doenca de refluxo gastroesofagico sem esofagite || Quantidade de Ocorrência 1 :  Porcentagem da ocorrência: 0.089047 
+Nome Ocorrencia:  Uso nocivo para a saude de fumo || Quantidade de Ocorrência 1 :  Porcentagem da ocorrência: 0.089047 
+Nome Ocorrencia:  Erisipela || Quantidade de Ocorrência 1 :  Porcentagem da ocorrência: 0.089047 
+Nome Ocorrencia:  Comunicacao interatrial || Quantidade de Ocorrência 1 :  Porcentagem da ocorrência: 0.089047 
+Nome Ocorrencia:  Cardiomiopatia dilatada || Quantidade de Ocorrência 1 :  Porcentagem da ocorrência: 0.089047 
+Nome Ocorrencia:  Transtornos nao especificados da funcao vestibular || Quantidade de Ocorrência 1 :  Porcentagem da ocorrência: 0.089047 
+Nome Ocorrencia:  Sindrome [estado] de abstinencia do uso de alcool || Quantidade de Ocorrência 1 :  Porcentagem da ocorrência: 0.089047 
+Nome Ocorrencia:  Asma || Quantidade de Ocorrência 1 :  Porcentagem da ocorrência: 0.089047 
+Nome Ocorrencia:  Pneumonia nao especificada || Quantidade de Ocorrência 1 :  Porcentagem da ocorrência: 0.089047 
+Nome Ocorrencia:  Gastroenterite e colite nao-infecciosas, nao especificadas || Quantidade de Ocorrência 1 :  Porcentagem da ocorrência: 0.089047 
+Nome Ocorrencia:  Outras gastrites || Quantidade de Ocorrência 1 :  Porcentagem da ocorrência: 0.089047 
+Nome Ocorrencia:  Complicacao mecanica de enxerto de orgao urinario || Quantidade de Ocorrência 1 :  Porcentagem da ocorrência: 0.089047 
+Nome Ocorrencia:  Hipotensao || Quantidade de Ocorrência 1 :  Porcentagem da ocorrência: 0.089047 
+Nome Ocorrencia:  Outros sintomas e sinais relativos A funcao cognitiva e A consciencia || Quantidade de Ocorrência 1 :  Porcentagem da ocorrência: 0.089047 
+Nome Ocorrencia:  Infarto agudo transmural da parede inferior do miocardio || Quantidade de Ocorrência 1 :  Porcentagem da ocorrência: 0.089047 
+Nome Ocorrencia:  Infarto agudo transmural da parede anterior do miocardio || Quantidade de Ocorrência 1 :  Porcentagem da ocorrência: 0.089047 
+Nome Ocorrencia:  Transtorno de panico [ansiedade paroxistica episodica] || Quantidade de Ocorrência 1 :  Porcentagem da ocorrência: 0.089047 
+Nome Ocorrencia:  Rigidez articular nao classificada em outra parte || Quantidade de Ocorrência 1 :  Porcentagem da ocorrência: 0.089047 
+Nome Ocorrencia:  Prolapso (da valva) mitral || Quantidade de Ocorrência 1 :  Porcentagem da ocorrência: 0.089047 
+Nome Ocorrencia:  Arritmia ventricular por reentrada || Quantidade de Ocorrência 1 :  Porcentagem da ocorrência: 0.089047 
+Nome Ocorrencia:  Cervicalgia || Quantidade de Ocorrência 1 :  Porcentagem da ocorrência: 0.089047 
+Nome Ocorrencia:  Nausea e vomitos || Quantidade de Ocorrência 1 :  Porcentagem da ocorrência: 0.089047 
+Nome Ocorrencia:  Febre reumatica sem mencao de comprometimento do coracao || Quantidade de Ocorrência 1 :  Porcentagem da ocorrência: 0.089047 
+Nome Ocorrencia:  Soluco || Quantidade de Ocorrência 1 :  Porcentagem da ocorrência: 0.089047 
+********************************************************************************************************************************************************************************************
+Tempo inicio:2020-02-11 15:09:24
+k-FOLD:10
+Best silhouette0.7472 for k=750
+k-Teste:750
+O(s) grupo(s) mais frequente:
+Grupo  93 abrange 11.844484629294756% do teste
+Nome Ocorrencia:  Hipertensao essencial (primaria) || Quantidade de Ocorrência 159 :  Porcentagem da ocorrência: 15.114068 
+Nome Ocorrencia:  Insuficiencia cardiaca congestiva || Quantidade de Ocorrência 125 :  Porcentagem da ocorrência: 11.882129 
+Nome Ocorrencia:  Dor toracica, nao especificada || Quantidade de Ocorrência 62 :  Porcentagem da ocorrência: 5.893536 
+Nome Ocorrencia:  Hipertensao secundaria, nao especificada || Quantidade de Ocorrência 56 :  Porcentagem da ocorrência: 5.323194 
+Nome Ocorrencia:  "Flutter" e fibrilacao atrial || Quantidade de Ocorrência 38 :  Porcentagem da ocorrência: 3.612167 
+Nome Ocorrencia:  Broncopneumonia nao especificada || Quantidade de Ocorrência 37 :  Porcentagem da ocorrência: 3.517110 
+Nome Ocorrencia:  Mialgia || Quantidade de Ocorrência 34 :  Porcentagem da ocorrência: 3.231939 
+Nome Ocorrencia:  Palpitacoes || Quantidade de Ocorrência 34 :  Porcentagem da ocorrência: 3.231939 
+Nome Ocorrencia:  Transtorno ansioso nao especificado || Quantidade de Ocorrência 31 :  Porcentagem da ocorrência: 2.946768 
+Nome Ocorrencia:  Diabetes mellitus nao especificado sem complicacoes || Quantidade de Ocorrência 22 :  Porcentagem da ocorrência: 2.091255 
+Nome Ocorrencia:  Outros disturbios do metabolismo de lipoproteinas || Quantidade de Ocorrência 20 :  Porcentagem da ocorrência: 1.901141 
+Nome Ocorrencia:  Dispneia || Quantidade de Ocorrência 20 :  Porcentagem da ocorrência: 1.901141 
+Nome Ocorrencia:  Presenca de marca-passo cardiaco || Quantidade de Ocorrência 18 :  Porcentagem da ocorrência: 1.711027 
+Nome Ocorrencia:  Cefaleia || Quantidade de Ocorrência 18 :  Porcentagem da ocorrência: 1.711027 
+Nome Ocorrencia:  Doenca pulmonar obstrutiva cronica nao especificada || Quantidade de Ocorrência 18 :  Porcentagem da ocorrência: 1.711027 
+Nome Ocorrencia:  Doenca de Chagas || Quantidade de Ocorrência 17 :  Porcentagem da ocorrência: 1.615970 
+Nome Ocorrencia:  Infarto agudo do miocardio nao especificado || Quantidade de Ocorrência 17 :  Porcentagem da ocorrência: 1.615970 
+Nome Ocorrencia:  Diabetes mellitus nao especificado || Quantidade de Ocorrência 16 :  Porcentagem da ocorrência: 1.520913 
+Nome Ocorrencia:  Sincope e colapso || Quantidade de Ocorrência 16 :  Porcentagem da ocorrência: 1.520913 
+Nome Ocorrencia:  Acidente vascular cerebral, nao especificado como hemorragico ou isquemico || Quantidade de Ocorrência 12 :  Porcentagem da ocorrência: 1.140684 
+Nome Ocorrencia:  Dor precordial || Quantidade de Ocorrência 12 :  Porcentagem da ocorrência: 1.140684 
+Nome Ocorrencia:  Angina instavel || Quantidade de Ocorrência 11 :  Porcentagem da ocorrência: 1.045627 
+Nome Ocorrencia:  Arritmia cardiaca nao especificada || Quantidade de Ocorrência 11 :  Porcentagem da ocorrência: 1.045627 
+Nome Ocorrencia:  Miosite nao especificada || Quantidade de Ocorrência 11 :  Porcentagem da ocorrência: 1.045627 
+Nome Ocorrencia:  Tosse || Quantidade de Ocorrência 11 :  Porcentagem da ocorrência: 1.045627 
+Nome Ocorrencia:  Outras formas de doenca isquemica cronica do coracao || Quantidade de Ocorrência 10 :  Porcentagem da ocorrência: 0.950570 
+Nome Ocorrencia:  Bronquite nao especificada como aguda ou cronica || Quantidade de Ocorrência 10 :  Porcentagem da ocorrência: 0.950570 
+Nome Ocorrencia:  Disturbio nao especificado do metabolismo de lipoproteinas || Quantidade de Ocorrência 9 :  Porcentagem da ocorrência: 0.855513 
+Nome Ocorrencia:  Tontura e instabilidade || Quantidade de Ocorrência 9 :  Porcentagem da ocorrência: 0.855513 
+Nome Ocorrencia:  Hipertensao pre-existente complicando a gravidez, o parto e o puerperio || Quantidade de Ocorrência 9 :  Porcentagem da ocorrência: 0.855513 
+Nome Ocorrencia:  Mal estar, fadiga || Quantidade de Ocorrência 9 :  Porcentagem da ocorrência: 0.855513 
+Nome Ocorrencia:  Doenca isquemica cronica do coracao nao especificada || Quantidade de Ocorrência 9 :  Porcentagem da ocorrência: 0.855513 
+Nome Ocorrencia:  Outras formas de doenca isquemica aguda do coracao || Quantidade de Ocorrência 8 :  Porcentagem da ocorrência: 0.760456 
+Nome Ocorrencia:  Dispepsia || Quantidade de Ocorrência 7 :  Porcentagem da ocorrência: 0.665399 
+Nome Ocorrencia:  Taquicardia supraventricular || Quantidade de Ocorrência 7 :  Porcentagem da ocorrência: 0.665399 
+Nome Ocorrencia:  Dor em membro || Quantidade de Ocorrência 6 :  Porcentagem da ocorrência: 0.570342 
+Nome Ocorrencia:  hipotensão ortostática || Quantidade de Ocorrência 6 :  Porcentagem da ocorrência: 0.570342 
+Nome Ocorrencia:  Outras formas de despolarizacao prematura e as nao especificadas || Quantidade de Ocorrência 5 :  Porcentagem da ocorrência: 0.475285 
+Nome Ocorrencia:  Insuficiencia mitral reumatica || Quantidade de Ocorrência 5 :  Porcentagem da ocorrência: 0.475285 
+Nome Ocorrencia:  Ansiedade generalizada || Quantidade de Ocorrência 4 :  Porcentagem da ocorrência: 0.380228 
+Nome Ocorrencia:  Outras afeccoes especificadas das arterias e das arteriolas || Quantidade de Ocorrência 4 :  Porcentagem da ocorrência: 0.380228 
+Nome Ocorrencia:  Tireotoxicose nao especificada || Quantidade de Ocorrência 4 :  Porcentagem da ocorrência: 0.380228 
+Nome Ocorrencia:  Exame medico geral || Quantidade de Ocorrência 4 :  Porcentagem da ocorrência: 0.380228 
+Nome Ocorrencia:  Dor localizada no abdome superior || Quantidade de Ocorrência 4 :  Porcentagem da ocorrência: 0.380228 
+Nome Ocorrencia:  Bloqueio atrioventricular de segundo grau || Quantidade de Ocorrência 4 :  Porcentagem da ocorrência: 0.380228 
+Nome Ocorrencia:  Outras arritmias cardiacas especificadas || Quantidade de Ocorrência 4 :  Porcentagem da ocorrência: 0.380228 
+Nome Ocorrencia:  Transtorno afetivo bipolar, episodio atual depressivo leve ou moderado || Quantidade de Ocorrência 4 :  Porcentagem da ocorrência: 0.380228 
+Nome Ocorrencia:  Hipotensao nao especificada || Quantidade de Ocorrência 3 :  Porcentagem da ocorrência: 0.285171 
+Nome Ocorrencia:  Episodio depressivo nao especificado || Quantidade de Ocorrência 3 :  Porcentagem da ocorrência: 0.285171 
+Nome Ocorrencia:  Gastroduodenite, sem outra especificacao || Quantidade de Ocorrência 3 :  Porcentagem da ocorrência: 0.285171 
+Nome Ocorrencia:  Doenca de refluxo gastroesofagico sem esofagite || Quantidade de Ocorrência 2 :  Porcentagem da ocorrência: 0.190114 
+Nome Ocorrencia:  Doenca nao especificada da valva mitral || Quantidade de Ocorrência 2 :  Porcentagem da ocorrência: 0.190114 
+Nome Ocorrencia:  Doenca isquemica cronica do coracao || Quantidade de Ocorrência 2 :  Porcentagem da ocorrência: 0.190114 
+Nome Ocorrencia:  Labirintite || Quantidade de Ocorrência 2 :  Porcentagem da ocorrência: 0.190114 
+Nome Ocorrencia:  Taquicardia nao especificada || Quantidade de Ocorrência 2 :  Porcentagem da ocorrência: 0.190114 
+Nome Ocorrencia:  Pessoa com medo de uma queixa para a qual nao foi feito diagnostico || Quantidade de Ocorrência 2 :  Porcentagem da ocorrência: 0.190114 
+Nome Ocorrencia:  Estenose (da valva) aortica || Quantidade de Ocorrência 2 :  Porcentagem da ocorrência: 0.190114 
+Nome Ocorrencia:  Outra dor toracica || Quantidade de Ocorrência 2 :  Porcentagem da ocorrência: 0.190114 
+Nome Ocorrencia:  Comunicacao interventricular || Quantidade de Ocorrência 2 :  Porcentagem da ocorrência: 0.190114 
+Nome Ocorrencia:  Insuficiencia cardiaca || Quantidade de Ocorrência 2 :  Porcentagem da ocorrência: 0.190114 
+Nome Ocorrencia:  Cardiomiopatias nao especificada || Quantidade de Ocorrência 2 :  Porcentagem da ocorrência: 0.190114 
+Nome Ocorrencia:  Hipoglicemia nao especificada || Quantidade de Ocorrência 2 :  Porcentagem da ocorrência: 0.190114 
+Nome Ocorrencia:  Deplecao de volume || Quantidade de Ocorrência 2 :  Porcentagem da ocorrência: 0.190114 
+Nome Ocorrencia:  Febre nao especificada || Quantidade de Ocorrência 2 :  Porcentagem da ocorrência: 0.190114 
+Nome Ocorrencia:  Ulcera gastrica || Quantidade de Ocorrência 1 :  Porcentagem da ocorrência: 0.095057 
+Nome Ocorrencia:  Diarreia e gastroenterite de origem infecciosa presumivel || Quantidade de Ocorrência 1 :  Porcentagem da ocorrência: 0.095057 
+Nome Ocorrencia:  Ascite || Quantidade de Ocorrência 1 :  Porcentagem da ocorrência: 0.095057 
+Nome Ocorrencia:  Cardiomegalia || Quantidade de Ocorrência 1 :  Porcentagem da ocorrência: 0.095057 
+Nome Ocorrencia:  Dor nao classificada em outra parte || Quantidade de Ocorrência 1 :  Porcentagem da ocorrência: 0.095057 
+Nome Ocorrencia:  Anestesia cutanea || Quantidade de Ocorrência 1 :  Porcentagem da ocorrência: 0.095057 
+Nome Ocorrencia:  Neurastenia || Quantidade de Ocorrência 1 :  Porcentagem da ocorrência: 0.095057 
+Nome Ocorrencia:  Varizes dos membros inferiores com ulcera || Quantidade de Ocorrência 1 :  Porcentagem da ocorrência: 0.095057 
+Nome Ocorrencia:  Sindrome de pre-excitacao || Quantidade de Ocorrência 1 :  Porcentagem da ocorrência: 0.095057 
+Nome Ocorrencia:  Uso nocivo para a saude de fumo || Quantidade de Ocorrência 1 :  Porcentagem da ocorrência: 0.095057 
+Nome Ocorrencia:  Parestesias cutaneas || Quantidade de Ocorrência 1 :  Porcentagem da ocorrência: 0.095057 
+Nome Ocorrencia:  Infarto agudo do miocardio || Quantidade de Ocorrência 1 :  Porcentagem da ocorrência: 0.095057 
+Nome Ocorrencia:  Outras doencas da valva tricuspide || Quantidade de Ocorrência 1 :  Porcentagem da ocorrência: 0.095057 
+Nome Ocorrencia:  Angina pectoris || Quantidade de Ocorrência 1 :  Porcentagem da ocorrência: 0.095057 
+Nome Ocorrencia:  Outros disturbios funcionais subsequentes a cirurgia cardiaca || Quantidade de Ocorrência 1 :  Porcentagem da ocorrência: 0.095057 
+Nome Ocorrencia:  Teste de tolerancia a glicose anormal || Quantidade de Ocorrência 1 :  Porcentagem da ocorrência: 0.095057 
+Nome Ocorrencia:  Complicacao mecanica de dispositivo eletronico cardiaco || Quantidade de Ocorrência 1 :  Porcentagem da ocorrência: 0.095057 
+Nome Ocorrencia:  Febre de origem desconhecida || Quantidade de Ocorrência 1 :  Porcentagem da ocorrência: 0.095057 
+Nome Ocorrencia:  Enxaqueca, sem especificacao || Quantidade de Ocorrência 1 :  Porcentagem da ocorrência: 0.095057 
+Nome Ocorrencia:  Infeccao do trato urinario de localizacao nao especificada || Quantidade de Ocorrência 1 :  Porcentagem da ocorrência: 0.095057 
+Nome Ocorrencia:  Outra dorsalgia || Quantidade de Ocorrência 1 :  Porcentagem da ocorrência: 0.095057 
+Nome Ocorrencia:  Outras gastrites || Quantidade de Ocorrência 1 :  Porcentagem da ocorrência: 0.095057 
+Nome Ocorrencia:  Traumatismo superficial de regiao nao especificada do corpo || Quantidade de Ocorrência 1 :  Porcentagem da ocorrência: 0.095057 
+Nome Ocorrencia:  Dor abdominal e pelvica || Quantidade de Ocorrência 1 :  Porcentagem da ocorrência: 0.095057 
+Nome Ocorrencia:  Infarto agudo transmural da parede inferior do miocardio || Quantidade de Ocorrência 1 :  Porcentagem da ocorrência: 0.095057 
+Nome Ocorrencia:  Prolapso (da valva) mitral || Quantidade de Ocorrência 1 :  Porcentagem da ocorrência: 0.095057 
+Nome Ocorrencia:  Erisipela || Quantidade de Ocorrência 1 :  Porcentagem da ocorrência: 0.095057 
+Nome Ocorrencia:  Comunicacao ventriculo-atrial discordante || Quantidade de Ocorrência 1 :  Porcentagem da ocorrência: 0.095057 
+Nome Ocorrencia:  Soluco || Quantidade de Ocorrência 1 :  Porcentagem da ocorrência: 0.095057 
+Nome Ocorrencia:  Angina pectoris, nao especificada || Quantidade de Ocorrência 1 :  Porcentagem da ocorrência: 0.095057 
+Nome Ocorrencia:  Transtornos nao especificados da funcao vestibular || Quantidade de Ocorrência 1 :  Porcentagem da ocorrência: 0.095057 
+Nome Ocorrencia:  Sindrome [estado] de abstinencia do uso de alcool || Quantidade de Ocorrência 1 :  Porcentagem da ocorrência: 0.095057 
+Nome Ocorrencia:  Asma || Quantidade de Ocorrência 1 :  Porcentagem da ocorrência: 0.095057 
+Nome Ocorrencia:  Pneumonia nao especificada || Quantidade de Ocorrência 1 :  Porcentagem da ocorrência: 0.095057 
+Nome Ocorrencia:  Complicacao mecanica de enxerto de orgao urinario || Quantidade de Ocorrência 1 :  Porcentagem da ocorrência: 0.095057 
+Nome Ocorrencia:  Hipotensao || Quantidade de Ocorrência 1 :  Porcentagem da ocorrência: 0.095057 
+Nome Ocorrencia:  Outros sintomas e sinais relativos A funcao cognitiva e A consciencia || Quantidade de Ocorrência 1 :  Porcentagem da ocorrência: 0.095057 
+Nome Ocorrencia:  Infarto agudo transmural da parede anterior do miocardio || Quantidade de Ocorrência 1 :  Porcentagem da ocorrência: 0.095057 
+Nome Ocorrencia:  Transtorno de panico [ansiedade paroxistica episodica] || Quantidade de Ocorrência 1 :  Porcentagem da ocorrência: 0.095057 
+Nome Ocorrencia:  Rigidez articular nao classificada em outra parte || Quantidade de Ocorrência 1 :  Porcentagem da ocorrência: 0.095057 
+Nome Ocorrencia:  Cervicalgia || Quantidade de Ocorrência 1 :  Porcentagem da ocorrência: 0.095057 
+Nome Ocorrencia:  Nausea e vomitos || Quantidade de Ocorrência 1 :  Porcentagem da ocorrência: 0.095057 
+Nome Ocorrencia:  Febre reumatica sem mencao de comprometimento do coracao || Quantidade de Ocorrência 1 :  Porcentagem da ocorrência: 0.095057 
+Nome Ocorrencia:  Comunicacao interatrial || Quantidade de Ocorrência 1 :  Porcentagem da ocorrência: 0.095057 
+Nome Ocorrencia:  Cardiomiopatia dilatada || Quantidade de Ocorrência 1 :  Porcentagem da ocorrência: 0.095057 
+Nome Ocorrencia:  Outras anormalidades e as nao especificadas da respiracao || Quantidade de Ocorrência 1 :  Porcentagem da ocorrência: 0.095057 
+Nome Ocorrencia:  Bradicardia nao especificada || Quantidade de Ocorrência 1 :  Porcentagem da ocorrência: 0.095057 
+Nome Ocorrencia:  Anormalidades do batimento cardiaco || Quantidade de Ocorrência 1 :  Porcentagem da ocorrência: 0.095057 
