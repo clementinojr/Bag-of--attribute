@@ -1,0 +1,12 @@
+                            -------Description Database-----------
+        SQL 1: Function 
+
+        select * from internacao_com_diagnostico('2007-05-29', '2008-05-31');
+        select * from internacao_by_periodo('2007-05-29', '2008-05-31');     
+        
+        
+        
+        KmeansAgglomerative : https://scikit-learn.org/stable/modules/generated/sklearn.cluster.AgglomerativeClustering.html
+        
+        
+        SKMeans (Kmeans + cosine distance): https://github.com/amberm291/SKMeans
