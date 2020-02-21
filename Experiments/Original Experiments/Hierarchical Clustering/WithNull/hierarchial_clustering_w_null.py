@@ -21,8 +21,6 @@ from time import gmtime, strftime
 from datetime import datetime
 
 
-# In[55]:
-
 
 #Reading file provide SQL
 def read_csv(name_df,path):
@@ -30,11 +28,6 @@ def read_csv(name_df,path):
     return name_df
 #df = pd.read_csv("data-1579021640655.csv") 
 
-
-
-
-
-#Pre-processing
 
 #deleting columns that have no interest
 def delete_column_df(df_name,*args):
