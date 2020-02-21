@@ -36,9 +36,6 @@ def delete_column_df(df_name,*args):
     return df_name 
 
 
-# In[57]:
-
-
 def save_file_csv(name_df, name_file):
     name_df.to_csv(namefile+"csv")
     print("File saved")
