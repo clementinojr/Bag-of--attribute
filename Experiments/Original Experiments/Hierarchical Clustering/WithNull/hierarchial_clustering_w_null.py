@@ -21,7 +21,6 @@ from time import gmtime, strftime
 from datetime import datetime
 
 
-
 #Reading file provide SQL
 def read_csv(name_df,path):
     name_df = pd.read_csv(path+".csv",index_col=0)
@@ -39,9 +38,6 @@ def delete_column_df(df_name,*args):
 def save_file_csv(name_df, name_file):
     name_df.to_csv(namefile+"csv")
     print("File saved")
-
-
-# In[58]:
 
 
 #function used to search for attributes in columns
