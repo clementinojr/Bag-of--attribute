@@ -20,13 +20,10 @@ from sklearn.cluster import AgglomerativeClustering
 from time import gmtime, strftime
 from datetime import datetime
 
-
 #Reading file provide SQL
 def read_csv(name_df,path):
     name_df = pd.read_csv(path+".csv",index_col=0)
     return name_df
-#df = pd.read_csv("data-1579021640655.csv") 
-
 
 #deleting columns that have no interest
 def delete_column_df(df_name,*args):
@@ -34,33 +31,27 @@ def delete_column_df(df_name,*args):
         df_name = df_name.drop(columns=[name_col])
     return df_name 
 
-
 def save_file_csv(name_df, name_file):
     name_df.to_csv(namefile+"csv")
     print("File saved")
-
 
 #function used to search for attributes in columns
 def search_att_name(columns_name_json,attribute_json,concept_name_omop):
     list_attribute_name = []
     for i, row in df.iterrows():
         obj = json.loads(row[columns_name_json])
-    #print(obj)
         if(obj[attribute_json] != None):
             for procedure_name in obj[attribute_json]:
-            #print(procedure_name['procedure_ocurrence_concept_name'])
                 list_attribute_name.append(procedure_name[concept_name_omop])   
         else:    
             continue
     
     return list_attribute_name
 
-
 #exclude repeated attributes from the list
 def exclude_repeated_att(list_att):
     update_list = list(dict.fromkeys(list_att))
     return update_list
-
 
 def CountFrequency(my_list,count,v): 
     nome_ocorrencia = []
@@ -87,8 +78,6 @@ def CountFrequency(my_list,count,v):
     for o in df_ocorrencias_ordenadas.itertuples():
         f.write("Nome Ocorrencia:  %s || Quantidade de Ocorrência %d :  Porcentagem da ocorrência: %f "%(o.nome_ocorrencia, o.qnt_ocorrencia,o.freq_ocorrencia) +"\r\n") 
 
-
-
 def compare_k_AggClustering(k_list, X):
     # to find the best k number of clusters
     #X = X.select_dtypes(['number']).dropna()
@@ -96,7 +85,7 @@ def compare_k_AggClustering(k_list, X):
     silhouette_list = []
 
     for p in k_list:
-        print("O K teste da vez é o K:",p)
+        print("The current K-test is :",p)
         print("Time Start: "+ str(datetime.now().strftime('%Y-%m-%d %H:%M:%S')))
         clusterer = AgglomerativeClustering(n_clusters=p, linkage="average",affinity='cosine')
         clusterer.fit(X)
@@ -116,7 +105,7 @@ def compare_k_AggClustering(k_list, X):
     
     return k
 
-
+#---- Optimize id search ------#
 def binary_tree(df, inicio, fim, x):
     if inicio > fim:
         return -1  
@@ -128,8 +117,7 @@ def binary_tree(df, inicio, fim, x):
     else:
         return binary_tree(df,meio+1, fim,x)
 
-
-    
+#---Function to search for occurencce name
 def add_name_occ(df_com_labels, df_com):
     arrayValores=[]
     arrayNomes=[]
@@ -159,7 +147,6 @@ def add_name_occ(df_com_labels, df_com):
     return df_final    
 
 #-----------------------------------------------------BEGIN--------------------------------------------------#
-
 df= read_csv('df','data')
 df = df.head(45720)#-----------------
 df_original = df
@@ -167,9 +154,7 @@ df_original.sort_values('visit_id', inplace=True, ascending=True ,kind='mergesor
 df_a = df
 array_id2 =df_a['visit_id'].values
 
-
-
-#-----------------------Pre-processing - Cada procedimento será um atributo na tabela  --------# 
+#-----------------------Pre-processing - Each procedure will be an attribute in the characteristic vector  --------# 
 arr = []
 arr_t=[]
 count=0
@@ -178,7 +163,7 @@ for i, row in df.iterrows():
     string_concept = ''
     arr_t.append(obj['visit_concept_name'])
     string_concept+=obj['visit_concept_name']+'&'
-    #id = str(obj['visit_occurrence_id'])
+    
     if(obj['procedimentos'] != None):
         for procedure_name in obj['procedimentos']:
             nome_do_procedimento = str(procedure_name['procedure_ocurrence_concept_name'])
@@ -188,43 +173,32 @@ for i, row in df.iterrows():
         count+=1
     arr.append(string_concept)
 
-#----------------------------------Pegar id + nome das ocorrencias(AUX no Mapeamento Final)-------------#
+#----------------------------------Getting "id" + occurrence name and creating auxiliar Dataframe-------------#
 count=0
-linhas =0
-sera =0
-laco_for=0
-#--------LEMBRAR de concatenar --------#string_conc_oco= ""
-#df_id_name_ocorrence = pd.DataFrame(['ID_visit','Nome_Procedimento'],[0,0])
 df_id_name_ocorrence = pd.DataFrame()
 lista_concep_name_ocorrencia=[]
 id_visit=[]
 cod_ocorrencia =[]
 for i, row in df.iterrows():
-    linhas+=1
-    
     obj = json.loads(row['internacao_json'])
    
     if(obj['ocorrencias'] != None):
-        laco_for +=1
         for procedure_name in obj['ocorrencias']:
             nome_do_procedimento = str(procedure_name['condition_ocurrence_concept_name'])
             lista_concep_name_ocorrencia.append(nome_do_procedimento)
             codigo_oco= str(procedure_name['condition_concept_id'])
             cod_ocorrencia.append(codigo_oco)
-            id_visit.append(row['visit_id'])         
-        
+            id_visit.append(row['visit_id'])                
     else:
         lista_concep_name_ocorrencia.append("NULO")
         cod_ocorrencia.append("00000000000")
         id_visit.append(row['visit_id'] )
-        
-        count+=1
-#----------------------------------Criando para o MAPEAMENTO Final----------#
+
 list_of_tuples = list(zip(id_visit, cod_ocorrencia,lista_concep_name_ocorrencia))
 df_id_nome_concept = pd.DataFrame(list_of_tuples, columns = ['ID_visita','Cod_Ocorrencia' ,'Nome_Ocorrencia']) 
 
 
-#-------------------Pre-processing- Manter apenas Letra e numero------------# 
+#-------------------Pre-processing- Regular Expression - number and letter only------------# 
 input = arr_t
 arr_t = [x.lower() for x in input] 
 
@@ -236,37 +210,26 @@ arr_t = exclude_repeated_att(arr_t)
 arr = [re.sub(' +', ' ', elem) for elem in arr]
 arr = [re.sub("[^A-Za-z\d\&]", "_", elem) for elem in arr]
 
-
-
-#---------------------- Pre-processing---- para lidar apenas como uma unica palavra, trocando sepador para o metodo IDFID___
+#---------------------- Pre-processing---- To work only as a single word, changing separator to the TF-IDF___ method -------------#
 arr = list(map(lambda s: s.replace('&' , ' '), arr))
 
 
-#---- Criando e chamando método TF-IDF, tranformando texto em contagen------
+#---- Calling TF-IDF method, turning text into count------
 vectorizer = TfidfVectorizer()
 X = vectorizer.fit_transform(arr)
 
-
-#---- Normalizando e criando um novo dataframe ---- Com VALORES  TF-IDF
+#---- Normalizing and creating a new DataFrame with TF-IDF values
 tfidf = TfidfVectorizer()
 x = tfidf.fit_transform(arr)
 df_tfidf = pd.DataFrame(x.toarray(), columns=tfidf.get_feature_names())
 print(df_tfidf)
 
 
-#Colocando o id no Dataframe 
-df_complete = df_tfidf.head(45720)#----------------------------------------------------------------------MUDAR
-
-#print(df_complete.shape)
-
-####-----------------------IMPORTANTE add ID APOS TDFID--------------------------###
+####-----------------------Add "id" in dataframe, after realizing Tf–idf-------------------------###
+df_complete = df_tfidf.head(45720)
 df_complete.insert(loc=0, column='ID', value=array_id2)
-# In[81]:
 
-
-#Dividindo o DataFrame Em 10 e colocando em um lista de dataframe--# #-------------------------MUDA
-    
-inc =0
+#Dividing the Data Frame Into 10 from K-foldAdd#
 dfs =[]
 for i in range(4572, 50292, 4572):
     df = "df"+str(i) 
@@ -277,7 +240,7 @@ for i in range(4572, 50292, 4572):
     i+=4572
     dfs.append(df)
 
-#----- Metodo Completo --- K --- FOLDS---#
+#----- Complete Method K --- FOLDS---#
 permanente = dfs
 outra = dfs
 aux_dfs = permanente
@@ -308,11 +271,10 @@ for i in range(0,10):
     
     test_np = np.array(test)
     train_np = np.array(train)
-    #tudo = np.array(df_result_t)
     
     f= open("TESTE.txt","a+")
     f.write("________________________________________________________________"  +"\r\n") 
-    f.write("Tempo inicio:"+ str(datetime.now().strftime('%Y-%m-%d %H:%M:%S'))+"\r\n") 
+    f.write("Start time:"+ str(datetime.now().strftime('%Y-%m-%d %H:%M:%S'))+"\r\n") 
     f.write("k-FOLD:" +str(i+1)+"\r\n") 
     f.close()
     
@@ -320,7 +282,7 @@ for i in range(0,10):
     List_k=list(range(75,756, 75))
     
     
-    print("Realizando Shilueta "+ str(i+1)+"\r\n")    
+    print("Realizing Silhouette "+ str(i+1)+"\r\n")    
     numero_k_test = compare_k_AggClustering(List_k,train_np[ :,1:])
     f= open("TESTE.txt","a+")
     f.write("k-Teste:" +str(numero_k_test)+"\r\n") 
@@ -328,14 +290,11 @@ for i in range(0,10):
     
     
     print("Loading Clustering....")
-#    print("Tempo inicio: "+ str(datetime.now().strftime('%Y-%m-%d %H:%M:%S')))
-    
-    print("Tempo inicio: "+ str(datetime.now().strftime('%Y-%m-%d %H:%M:%S')))
-    clusterer = AgglomerativeClustering(n_clusters=numero_k_test, linkage="average",affinity='cosine')#------------------------------MUDAR
+    print("Start time: "+ str(datetime.now().strftime('%Y-%m-%d %H:%M:%S')))
+    clusterer = AgglomerativeClustering(n_clusters=numero_k_test, linkage="average",affinity='cosine')
     clusterer.fit(test_np[:,1:])
 
     #--------------------------- Hierarchial_clustering"-------##
-    
     labels=[]
     labels=clusterer.labels_
     id_ =test_np[:,0]
@@ -343,7 +302,7 @@ for i in range(0,10):
     list_of_tuples = list(zip(id_,labels))
     new_df = pd.DataFrame(list_of_tuples, columns = ['ID','Labels']) 
     
-     #-------------------------------_Adicionando todos LAbels no Dataframe completo_-----------------#
+     #-------------------------------Add all Labels into Complete Dataframe-----------------#
     complete_labels = test
     complete_labels.insert(loc=0, column='Labels', value=labels)
     complete_labels.sort_values('Labels', inplace=True, ascending=False)
@@ -361,15 +320,14 @@ for i in range(0,10):
     df_silueta.to_csv(r'/home/oscar/ModeloCompleto/KmeansAgglo/ComNulo/Shilhoutte_KFold_'+str(contador)+".csv")
     df_silueta.drop(df_silueta.index, inplace=True)
     
-    #Percorrendo o Data Frame que possui o Id da Ocurrencia e os Labels que foram previstos
+    #Performing the Data Frame that has the Occurrence Id and the Labels that were predicted
     for v in new_df['Labels'].mode():
-        print("FAZENDO A MODAcd ")
         grupo_fre = v
         qnt_f = new_df['Labels'].value_counts().max()
-        porc_f = (qnt_f/36576)*100 #--------------------------------------------------MUDAR
+        porc_f = (qnt_f/36576)*100 
         f= open("TESTE.txt","a+")
-        f.write("O(s) grupo(s) mais frequente:\r\n")
-        f.write("Grupo  " +str(grupo_fre)+" abrange "+str(porc_f)+"%"+ " do teste" +"\r\n") 
+        f.write("The groups more frequerequentnte:\r\n")
+        f.write("The Group  " +str(grupo_fre)+" include "+str(porc_f)+"%"+ " from test" +"\r\n") 
                 
     
     for v in new_df['Labels'].mode():
@@ -381,7 +339,7 @@ for i in range(0,10):
                         list_d.append(n.Nome_Ocorrencia)
         CountFrequency(list_d,count,v)    
     
-    print("Tempo FIM: "+ str(datetime.now().strftime('%Y-%m-%d %H:%M:%S')))
+    print("Final Time : "+ str(datetime.now().strftime('%Y-%m-%d %H:%M:%S')))
     f.close()
     
     
