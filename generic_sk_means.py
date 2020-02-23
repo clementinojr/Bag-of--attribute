@@ -20,7 +20,6 @@ from time import gmtime, strftime
 from datetime import datetime
 from skmeans import SKMeans
 
-# In[55]:
 
 
 #Reading file provide SQL
@@ -31,9 +30,6 @@ def read_csv(name_df,path):
 def save_file_csv(name_df, name_file):
     name_df.to_csv(namefile+"csv")
     print("File saved")
-
-
-# In[58]:
 
 
 #function used to search for attributes in columns
@@ -57,7 +53,6 @@ def search_att_name(columns_name_json,attribute_json,concept_name_omop):
 def exclude_repeated_att(list_att):
     update_list = list(dict.fromkeys(list_att))
     return update_list
-
 
 
 

@@ -4,9 +4,6 @@ import json
 import re
 import pandas as pd
 import numpy as np
-import plotly.graph_objects as go
-import plotly.graph_objs as go
-from plotly.offline import download_plotlyjs, init_notebook_mode, plot, iplot
 from sklearn.metrics import pairwise_distances
 from sklearn.metrics import silhouette_samples, silhouette_score
 from sklearn.datasets import make_blobs
@@ -178,6 +175,13 @@ for i, row in df.iterrows():
     else:
         count+=1
     arr.append(string_concept)
+
+
+
+print(arr)
+print(arr_t)
+exit(1)
+
 
 #----------------------------------Getting "id" + occurrence name and creating auxiliar Dataframe-------------#
 count=0
