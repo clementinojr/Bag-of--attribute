@@ -222,7 +222,7 @@ arr = list(map(lambda s: s.replace('&' , ' '), arr))
 vectorizer = TfidfVectorizer()
 X = vectorizer.fit_transform(arr)
 
-#---- Normalizing and creating a new DataFrame with TF-IDF valuestfidf = TfidfVectorizer()
+#---- Calling TF-IDF method, turning text into count------
 x = tfidf.fit_transform(arr)
 df_tfidf = pd.DataFrame(x.toarray(), columns=tfidf.get_feature_names())
 print(df_tfidf)
@@ -314,7 +314,6 @@ for i in range(0,10):
     complete_labels = test
     complete_labels.insert(loc=0, column='Labels', value=labels)
     complete_labels.sort_values('Labels', inplace=True, ascending=False)
-    #print(complete_labels)
     df_in_file = add_name_occ(complete_labels,df_original)
     df_in_file.to_csv(r'/home/oscar/ModeloCompleto/KmeansAgglo/ComNulo/DataframeCompleto_Labels/DF_K_FOLD_T :'+str(contador)+".csv",index=False)
     
@@ -332,7 +331,7 @@ for i in range(0,10):
     for v in new_df['Labels'].mode():
         grupo_fre = v
         qnt_f = new_df['Labels'].value_counts().max()
-        porc_f = (qnt_f/4424)*100 #--------------------------------------------------MUDAR
+        porc_f = (qnt_f/4424)*100 
         f= open("TESTE.txt","a+")
         f.write("The groups more frequerequentnte:\r\n")
         f.write("The Group  " +str(grupo_fre)+" include "+str(porc_f)+"%"+ " from test" +"\r\n") 
