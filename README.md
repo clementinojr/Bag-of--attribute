@@ -13,6 +13,19 @@
 
 **2.1 Organization Directories and files **
 
+ ![Main](./workflow_BoA.png)
+
+**1)Cohort selector:**
+**1)Result of query:**
+**3)Builder:**
+  *3.a:*
+  3.b:
+  3.c:
+  3.d:  
+**4)Representation Result:**
+
+
+
 ```
 .Bag-of-attribute
     ├── Experiments
