@@ -30,7 +30,7 @@
 **4)Representation Result:**
 
 
-
+### 3. Organization Directories and files ###
 ```
 .Bag-of-attribute
 ├── ./Experiments
@@ -58,7 +58,7 @@
 │               ├── ./Experiments/OriginalExperiments/SKMeans/WithOutNull/Results_K_Group
 │               ├── ./Experiments/OriginalExperiments/SKMeans/WithOutNull/Results_Shilhoutte_K
 │               ├── ./Experiments/OriginalExperiments/SKMeans/WithOutNull/skmeans.py
-│               └── ./Experiments/OriginalExperiments/SKMeans/WithOutNull/###sk_means_wOut_null.py###
+│               └── ./Experiments/OriginalExperiments/SKMeans/WithOutNull/sk_means_wOut_null.py
 ├── ./GenericMethod
 │   ├── ./GenericMethod/GenericMethods.py
 │   └── ./GenericMethod/skmeans.py
@@ -70,9 +70,6 @@
 └── ./workflow_BoA.png
 
 18 directories, 17 files
-
-18 directories, 17 files
-
 
 ```
 
