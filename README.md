@@ -1,4 +1,4 @@
-# Bag-of-Attribute#
+#Bag-of-Attribute
 
 **Attention**: Bag-of-Attribute **not** a commercial method. It is designed for educational and demonstration purposes **only**.
 
@@ -9,16 +9,14 @@
 * PostgreSQL.
 
 
-### 2. Using Bag-of-Attribute ###
-
-**2.1 Organization Directories and files **
+### 2. Explain with code Bag-of-Attribute ###
 
  ![Main](./workflow_BoA.png)
 
-**(1) Cohort selector:** module was implemented as a function in the {*Structured Query Language*} (SQL) language to select all data referring to hospital admissions started within a time interval, which is a previously configured parameter. The two function utilized in this work can be find in Folder ***"Select Cohort"***: [cohort_by_period_with_null.sql](https://github.com/JuniorClementino/Bag-of--attribute/blob/master/SelectCohort/cohort_by_period_with_null.sql) and [cohort_by_period_without_null.sql](https://github.com/JuniorClementino/Bag-of--attribute/blob/master/SelectCohort/cohort_by_period_without_null.sql).
+**(1) Cohort selector:** module was implemented as a function in the {*Structured Query Language*} (SQL) language to select all data referring to hospital admissions started within a time interval, which is a previously configured parameter. The two function utilized in this work can be find in Folder ***"Select Cohort"****: [cohort_by_period_with_null.sql](https://github.com/JuniorClementino/Bag-of--attribute/blob/master/SelectCohort/cohort_by_period_with_null.sql) and [cohort_by_period_without_null.sql](https://github.com/JuniorClementino/Bag-of--attribute/blob/master/SelectCohort/cohort_by_period_without_null.sql).
 
 
-**(2)Result of query:**
+**(2) Result of query:**
 
 
 **(3) Builder:** In this step, the functions of the algorithm used in each step of the proposal will show. The functions can be found in: [GenericMethods.py](https://github.com/JuniorClementino/Bag-of--attribute/blob/master/GenericMethods.py).
@@ -35,117 +33,46 @@
 
 ```
 .Bag-of-attribute
-    ├── Experiments
-│   ├── Original Experiments
-│   │   ├── Hierarchical Clustering
-│   │   │   ├── WithNull
-│   │   │   │   ├── hierarchial_clustering_w_null.py
-│   │   │   │   ├── RESULTADO_K_FOLD_10   Grupo_ 244.csv
-│   │   │   │   ├── RESULTADO_K_FOLD_1   Grupo_ 1.csv
-│   │   │   │   ├── RESULTADO_K_FOLD_2   Grupo_ 542.csv
-│   │   │   │   ├── RESULTADO_K_FOLD_3   Grupo_ 534.csv
-│   │   │   │   ├── RESULTADO_K_FOLD_4   Grupo_ 568.csv
-│   │   │   │   ├── RESULTADO_K_FOLD_5   Grupo_ 633.csv
-│   │   │   │   ├── RESULTADO_K_FOLD_6   Grupo_ 262.csv
-│   │   │   │   ├── RESULTADO_K_FOLD_7   Grupo_ 454.csv
-│   │   │   │   ├── RESULTADO_K_FOLD_8   Grupo_ 206.csv
-│   │   │   │   ├── RESULTADO_K_FOLD_9   Grupo_ 669.csv
-│   │   │   │   ├── Shilhoutte_KFold_10.csv
-│   │   │   │   ├── Shilhoutte_KFold_1.csv
-│   │   │   │   ├── Shilhoutte_KFold_2.csv
-│   │   │   │   ├── Shilhoutte_KFold_3.csv
-│   │   │   │   ├── Shilhoutte_KFold_4.csv
-│   │   │   │   ├── Shilhoutte_KFold_5.csv
-│   │   │   │   ├── Shilhoutte_KFold_6.csv
-│   │   │   │   ├── Shilhoutte_KFold_7.csv
-│   │   │   │   ├── Shilhoutte_KFold_8.csv
-│   │   │   │   ├── Shilhoutte_KFold_9.csv
-│   │   │   │   └── TESTE.txt
-│   │   │   └── WithOutNull
-│   │   │       ├── hierarchial_clustering_wOut_null.py
-│   │   │       ├── RESULTADO_K_FOLD_10   Grupo_ 5.csv
-│   │   │       ├── RESULTADO_K_FOLD_1   Grupo_ 164.csv
-│   │   │       ├── RESULTADO_K_FOLD_2   Grupo_ 326.csv
-│   │   │       ├── RESULTADO_K_FOLD_3   Grupo_ 14.csv
-│   │   │       ├── RESULTADO_K_FOLD_4   Grupo_ 22.csv
-│   │   │       ├── RESULTADO_K_FOLD_5   Grupo_ 47.csv
-│   │   │       ├── RESULTADO_K_FOLD_6   Grupo_ 5.csv
-│   │   │       ├── RESULTADO_K_FOLD_7   Grupo_ 23.csv
-│   │   │       ├── RESULTADO_K_FOLD_8   Grupo_ 185.csv
-│   │   │       ├── RESULTADO_K_FOLD_9   Grupo_ 54.csv
-│   │   │       ├── Shilhoutte_KFold_10.csv
-│   │   │       ├── Shilhoutte_KFold_1.csv
-│   │   │       ├── Shilhoutte_KFold_2.csv
-│   │   │       ├── Shilhoutte_KFold_3.csv
-│   │   │       ├── Shilhoutte_KFold_4.csv
-│   │   │       ├── Shilhoutte_KFold_5.csv
-│   │   │       ├── Shilhoutte_KFold_6.csv
-│   │   │       ├── Shilhoutte_KFold_7.csv
-│   │   │       ├── Shilhoutte_KFold_8.csv
-│   │   │       ├── Shilhoutte_KFold_9.csv
-│   │   │       └── TESTE.txt
-│   │   └── SK Means
-│   │       ├── Withnull
-│   │       │   ├── __pycache__
-│   │       │   │   └── skmeans.cpython-36.pyc
-│   │       │   ├── RESULTADO_K_FOLD_10   Grupo_ 32.csv
-│   │       │   ├── RESULTADO_K_FOLD_1   Grupo_ 36.csv
-│   │       │   ├── RESULTADO_K_FOLD_2   Grupo_ 57.csv
-│   │       │   ├── RESULTADO_K_FOLD_3   Grupo_ 91.csv
-│   │       │   ├── RESULTADO_K_FOLD_4   Grupo_ 112.csv
-│   │       │   ├── RESULTADO_K_FOLD_5   Grupo_ 50.csv
-│   │       │   ├── RESULTADO_K_FOLD_6   Grupo_ 62.csv
-│   │       │   ├── RESULTADO_K_FOLD_7   Grupo_ 73.csv
-│   │       │   ├── RESULTADO_K_FOLD_8   Grupo_ 188.csv
-│   │       │   ├── RESULTADO_K_FOLD_9   Grupo_ 79.csv
-│   │       │   ├── Shilhoutte_KFold_10.csv
-│   │       │   ├── Shilhoutte_KFold_1.csv
-│   │       │   ├── Shilhoutte_KFold_2.csv
-│   │       │   ├── Shilhoutte_KFold_3.csv
-│   │       │   ├── Shilhoutte_KFold_4.csv
-│   │       │   ├── Shilhoutte_KFold_5.csv
-│   │       │   ├── Shilhoutte_KFold_6.csv
-│   │       │   ├── Shilhoutte_KFold_7.csv
-│   │       │   ├── Shilhoutte_KFold_8.csv
-│   │       │   ├── Shilhoutte_KFold_9.csv
-│   │       │   ├── skmeans.py
-│   │       │   ├── sk_means_w_null.py
-│   │       │   └── TESTE.txt
-│   │       └── WithOutNull
-│   │           ├── RESULTADO_K_FOLD_10   Grupo_ 93.csv
-│   │           ├── RESULTADO_K_FOLD_1   Grupo_ 131.csv
-│   │           ├── RESULTADO_K_FOLD_2   Grupo_ 189.csv
-│   │           ├── RESULTADO_K_FOLD_3   Grupo_ 121.csv
-│   │           ├── RESULTADO_K_FOLD_4   Grupo_ 78.csv
-│   │           ├── RESULTADO_K_FOLD_5   Grupo_ 72.csv
-│   │           ├── RESULTADO_K_FOLD_6   Grupo_ 72.csv
-│   │           ├── RESULTADO_K_FOLD_7   Grupo_ 80.csv
-│   │           ├── RESULTADO_K_FOLD_8   Grupo_ 55.csv
-│   │           ├── RESULTADO_K_FOLD_9   Grupo_ 72.csv
-│   │           ├── Shilhoutte_KFold_10.csv
-│   │           ├── Shilhoutte_KFold_1.csv
-│   │           ├── Shilhoutte_KFold_2.csv
-│   │           ├── Shilhoutte_KFold_3.csv
-│   │           ├── Shilhoutte_KFold_4.csv
-│   │           ├── Shilhoutte_KFold_5.csv
-│   │           ├── Shilhoutte_KFold_6.csv
-│   │           ├── Shilhoutte_KFold_7.csv
-│   │           ├── Shilhoutte_KFold_8.csv
-│   │           ├── Shilhoutte_KFold_9.csv
-│   │           ├── skmeans.py
-│   │           ├── sk_means_wOut_null.py
-│   │           └── TESTE.txt
-│   └── SelectCohort
-│       ├── cohort_by_period_with_null.sql
-│       └── cohort_by_period_without_null.sql
-├── Generic Method
-│   ├── GenericMethods.py
-│   └── skmeans.py
-├── GenericMethods.py
-├── Info_SQL_and_Methods.txt
-└── README.md
+├── ./Experiments
+│   └── ./Experiments/OriginalExperiments
+│       ├── ./Experiments/OriginalExperiments/Hierarchical Clustering
+│       │   ├── ./Experiments/OriginalExperiments/Hierarchical Clustering/WithNull
+│       │   │   ├── ./Experiments/OriginalExperiments/Hierarchical Clustering/WithNull/hierarchial_clustering_w_null.py
+│       │   │   ├── ./Experiments/OriginalExperiments/Hierarchical Clustering/WithNull/Result_name_occurrences.txt
+│       │   │   ├── ./Experiments/OriginalExperiments/Hierarchical Clustering/WithNull/Results_K_Group
+│       │   │   └── ./Experiments/OriginalExperiments/Hierarchical Clustering/WithNull/Results_Shilhoutte_K
+│       │   └── ./Experiments/OriginalExperiments/Hierarchical Clustering/WithOutNull
+│       │       ├── ./Experiments/OriginalExperiments/Hierarchical Clustering/WithOutNull/hierarchial_clustering_wOut_null.py
+│       │       ├── ./Experiments/OriginalExperiments/Hierarchical Clustering/WithOutNull/Result_name_occurrences.txt
+│       │       ├── ./Experiments/OriginalExperiments/Hierarchical Clustering/WithOutNull/Results_K_Group
+│       │       └── ./Experiments/OriginalExperiments/Hierarchical Clustering/WithOutNull/Results_Shilhoutte_K
+│       └── ./Experiments/OriginalExperiments/SKMeans
+│           ├── ./Experiments/OriginalExperiments/SKMeans/Withnull
+│           │   ├── ./Experiments/OriginalExperiments/SKMeans/Withnull/Result_name_occurrences.txt
+│           │   ├── ./Experiments/OriginalExperiments/SKMeans/Withnull/Results_K_Group
+│           │   ├── ./Experiments/OriginalExperiments/SKMeans/Withnull/Results_Shilhoutte_K
+│           │   ├── ./Experiments/OriginalExperiments/SKMeans/Withnull/skmeans.py
+│           │   └── ./Experiments/OriginalExperiments/SKMeans/Withnull/sk_means_w_null.py
+│           └── ./Experiments/OriginalExperiments/SKMeans/WithOutNull
+│               ├── ./Experiments/OriginalExperiments/SKMeans/WithOutNull/Result_name_occurrences.txt
+│               ├── ./Experiments/OriginalExperiments/SKMeans/WithOutNull/Results_K_Group
+│               ├── ./Experiments/OriginalExperiments/SKMeans/WithOutNull/Results_Shilhoutte_K
+│               ├── ./Experiments/OriginalExperiments/SKMeans/WithOutNull/skmeans.py
+│               └── ./Experiments/OriginalExperiments/SKMeans/WithOutNull/###sk_means_wOut_null.py###
+├── ./GenericMethod
+│   ├── ./GenericMethod/GenericMethods.py
+│   └── ./GenericMethod/skmeans.py
+├── ./Info_SQL_and_Methods.txt
+├── ./README.md
+├── ./SelectCohort
+│   ├── ./SelectCohort/cohort_by_period_with_null.sql
+│   └── ./SelectCohort/cohort_by_period_without_null.sql
+└── ./workflow_BoA.png
 
-11 directories, 98 files
+18 directories, 17 files
+
+18 directories, 17 files
+
 
 ```
 
