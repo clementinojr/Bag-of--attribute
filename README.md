@@ -4,9 +4,9 @@
 
 ### 1. Brief introduction ###
 The repository is organized as follows:
-  * [Original Experiments:](https://github.com/JuniorClementino/Bag-of--attribute/tree/master/Experiments/OriginalExperiments)
+  * [Original Experiments:](https://github.com/JuniorClementino/Bag-of--attribute/tree/master/Experiments/OriginalExperiments) contains the base files used to implement and obtain the results. The folders, files, and codes are available in a procedural way to facilitate the understanding of the results.
   * [Generic Method:](https://github.com/JuniorClementino/Bag-of--attribute/tree/master/GenericMethod)
-  * [Select Cohort:](https://github.com/JuniorClementino/Bag-of--attribute/tree/master/SelectCohort)
+  * [Select Cohort:](https://github.com/JuniorClementino/Bag-of--attribute/tree/master/SelectCohort) contains the functions used to select the cohorts and the data retrieved after searching for each one.
 
 
 ### 2. Minimum requirements ###
@@ -39,7 +39,7 @@ The repository is organized as follows:
 
 **(3) Builder:** In this step, the functions of the algorithm used in each step of the proposal will show. The functions can be found in: [GenericMethods.py](https://github.com/JuniorClementino/Bag-of--attribute/blob/master/GenericMethod/GenericMethods.py).
 
------------------------------
+
   ***(3.a):* Receiving JSON file from "Select cohort" and reading the data in CSV format and entering the desired attributes.**
   
   * **read_principal_file:**
@@ -74,7 +74,7 @@ def read_principal_file(filename):
   ```
 ------------------------------------------------------------
  
-  ***(3.b): After selecting the attributes, it is necessary to transform to standardize their values. For this, apply the regular expression function. Then, a list is formed in the form of a dictionary to count the frequency of attributes.**
+  ***(3.b):* After selecting the attributes, it is necessary to transform to standardize their values. For this, apply the regular expression function. Then, a list is formed in the form of a dictionary to count the frequency of attributes.**
   * **put_id_nameoccurence:**
 ```python
   #--------------------------------------Getting "id" + occurrence name and creating auxiliar Dataframe-----------------------#
@@ -120,7 +120,7 @@ def put_id_nameoccurence(df_initial):
     return x
   ```
 ----
-  (3.c)
+  ***(3.c):* In this function, in addition to calculating the TF IDF, the values of the characteristic vectors are normalized.**
   * **calculate_tfidf:**
   ```python
   #---------------------------------------- Calling TF-IDF method, turning text into count---------------------------------------#
@@ -132,7 +132,7 @@ def put_id_nameoccurence(df_initial):
   ```
 ---
  
-  (3.d): 
+  ***(3.d):* Transform TF-IDF values to a dataframe: which can be used by different methods.**
   * **add_id_after_tfidf:**
   ```python
     ##-----------------------------Add "id" in dataframe, after realizing Tf–idf---------------------------------------------------#
@@ -140,15 +140,13 @@ def put_id_nameoccurence(df_initial):
       array_id2 =df_initial['visit_id'].values
       df_complete = dataframe_tfid.head(5530)
       df_complete.insert(loc=0, column='ID', value=array_id2)
-    r eturn df_complete
+    return df_complete
   ```
   ---
 
 
-**4)Representation Result:** 
-  * **Result from Dataframe**:
-
-
+**4)Representation Result: The final result can be loaded into the memory of the execution program or saved in a CSV file.**
+ 
 ### 4. Organization Directories and files ###
 ```
 .Bag-of-attribute
@@ -194,8 +192,6 @@ def put_id_nameoccurence(df_initial):
 ### Acknowledgement ###
 The authors would like to thank Brazilian Coordination of Superior Level Staff Improvement (CAPES), grant PROEX-11357281/M;  the Sao Paulo Research Foundation (FAPESP), grants  2016/17078-0, 2018/06228-7, 2019/04660-1, 2018/06074-0; and the National Council for Scientific and Technological Development (CNPq).
 
-### Contact US ###
-
 
 
 ### References ####
@@ -238,3 +234,8 @@ The authors would like to thank Brazilian Coordination of Superior Level Staff I
 [16] Yang Jun, Jiang Yu-Gang, Hauptmann Alexander G.,Ngo Chong-Wah.   Evaluating  Bag-of-visual-words  Representations  in  Scene  Classification    //  Proceedings  ofthe International Workshop on Workshop on Multimedia Information Retrieval. New York, NY, USA: ACM, 2007.197–206.  (MIR ’07).
 
 [17] Zhao Jing, Papapetrou Panagiotis, Asker Lars, BostromHenrik.Learning  from  heterogeneous  temporal  datain  electronic  health  records    //  Journal  of  Biomedical Informatics. 2017. 65. 105 – 119
+
+
+### Contact ###
+
+This work is part of my program master's degree. You can contact me writing to [juniorclementino@usp.br](https://jrclementino.netlify.com/).
