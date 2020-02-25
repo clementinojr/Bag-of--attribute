@@ -8,29 +8,142 @@
 * Python 3.
 * PostgreSQL.
 
+### 2. Required Library ###
+  * json
+  * re
+  * pandas 
+  * numpy 
+  * sklearn.metrics *
+  * sklearn.feature_extraction.text import CountVectorizer, TfidfVectorizer
+  * sklearn.cluster import AgglomerativeClustering
+  * time import gmtime, strftime
+  * datetime import datetime
+  * skmeans import SKMeans (in file)
 
-### 2. Explain with code Bag-of-Attribute ###
+
+### 3. Explain with code Bag-of-Attribute ###
 
  ![Main](./workflow_BoA.png)
 
-**(1) Cohort selector:** module was implemented as a function in the {*Structured Query Language*} (SQL) language to select all data referring to hospital admissions started within a time interval, which is a previously configured parameter. The two function utilized in this work can be find in Folder ***"Select Cohort"****: [cohort_by_period_with_null.sql](https://github.com/JuniorClementino/Bag-of--attribute/blob/master/SelectCohort/cohort_by_period_with_null.sql) and [cohort_by_period_without_null.sql](https://github.com/JuniorClementino/Bag-of--attribute/blob/master/SelectCohort/cohort_by_period_without_null.sql).
+**(1) Cohort selector:** module was implemented as a function in the {*Structured Query Language*} (SQL) language to select all data referring to hospital admissions started within a time interval, which is a previously configured parameter. The two function utilized in this work can be find in Folder **"Select Cohort"**: [cohort_by_period_with_null.sql](https://github.com/JuniorClementino/Bag-of--attribute/blob/master/SelectCohort/cohort_by_period_with_null.sql) and [cohort_by_period_without_null.sql](https://github.com/JuniorClementino/Bag-of--attribute/blob/master/SelectCohort/cohort_by_period_without_null.sql).
 
 
-**(2) Result of query:**
+**(2) Result of query:** The data returned from the **"Select Cohort"** is made available in the files: [DataBaseWithNull.csv](https://github.com/JuniorClementino/Bag-of--attribute/blob/master/SelectCohort/DataBaseWithNull.csv) and [DataBaseWithOutNull.csv](https://github.com/JuniorClementino/Bag-of--attribute/blob/master/SelectCohort/DataBaseWithOutNull.csv) The first refers to **cohort results** that contain occurrences with null values and the second occurrences that do not have null values.
 
 
 **(3) Builder:** In this step, the functions of the algorithm used in each step of the proposal will show. The functions can be found in: [GenericMethods.py](https://github.com/JuniorClementino/Bag-of--attribute/blob/master/GenericMethod/GenericMethods.py).
 
-
+-----------------------------
   *(3.a):*
+  
+  * **read_principal_file:**
 
+```python
+def read_principal_file(filename):
+    df_initial= read_csv('df','filename')
+    df_initial = df_initial.head(number_rows)
+    return df_initial
+```
+
+  *  **search_att_name:**
+  
+  ```python
+  def gettin_name_att_characteris(df_initial)
+    arr = []
+    count=0
+    for i, row in df_initial.iterrows():
+        obj = json.loads(row['internacao_json'])
+        string_concept = ''
+    
+        string_concept+=obj['visit_concept_name']+'&'
+        if(obj['procedimentos'] != None):
+            for procedure_name in obj['procedimentos']:
+                nome_do_procedimento = str(procedure_name['procedure_ocurrence_concept_name'])
+                string_concept += nome_do_procedimento + "&"
+           
+        else:
+            count+=1
+        arr.append(string_concept)
+    return arr
+  ```
+------------------------------------------------------------
+ 
   (3.b):
+  * **put_id_nameoccurence:**
+  ```python
+  #--------------------------------------Getting "id" + occurrence name and creating auxiliar Dataframe-----------------------#
+def put_id_nameoccurence(df_initial):
+    count=0
+    df_id_name_ocorrence = pd.DataFrame()
+    lista_concep_name_ocorrencia=[]
+    id_visit=[]
+    cod_ocorrencia =[]
+    for i, row in df_initial.iterrows():  
+        obj = json.loads(row['internacao_json'])
+   
+        if(obj['ocorrencias'] != None):
+            for procedure_name in obj['ocorrencias']:
+                nome_do_procedimento = str(procedure_name['condition_ocurrence_concept_name'])
+                lista_concep_name_ocorrencia.append(nome_do_procedimento)
+                codigo_oco= str(procedure_name['condition_concept_id'])
+                cod_ocorrencia.append(codigo_oco)
+                id_visit.append(row['visit_id'])         
+        
+        else:
+            lista_concep_name_ocorrencia.append("NULO")
+            cod_ocorrencia.append("00000000000")
+            id_visit.append(row['visit_id'] )
+       
+    list_of_tuples = list(zip(id_visit, cod_ocorrencia,lista_concep_name_ocorrencia))
+    df_id_nome_concept = pd.DataFrame(list_of_tuples, columns = ['ID_visita','Cod_Ocorrencia' ,'Nome_Ocorrencia']) 
+
+    return df_id_nome_concept
+ ```
+
+  * **regular_expression:**
+  ```python
+  #------------------------------------Pre-processing- Regular Expression - number and letter only-----------------------------# 
+  def regular_expression(arr):
+    input1 = arr
+    arr = [x.lower() for x in input1] 
+    arr = [re.sub(' +', ' ', elem) for elem in arr]
+    arr = [re.sub("[^A-Za-z\d\&]", "_", elem) for elem in arr]                                   
+    #----------- Pre-processing - To work only as a single word, changing separator to the TF-IDF___ method --------------------#
+    arr = list(map(lambda s: s.replace('&' , ' '), arr))
+    x = arr
+    return x
+  ```
+----
   (3.c):
-  (3.d):  
-**4)Representation Result:**
+  * **calculate_tfidf:**
+  ```python
+  #---------------------------------------- Calling TF-IDF method, turning text into count---------------------------------------#
+  def calculate_tfidf(x):
+    tfidf = TfidfVectorizer()
+    x = tfidf.fit_transform(arr)
+    df_tfidf = pd.DataFrame(x.toarray(), columns=tfidf.get_feature_names())
+    return df_tfidf
+  ```
+---
+ 
+  (3.d): 
+  * **add_id_after_tfidf:**
+  ```python
+    ##-----------------------------Add "id" in dataframe, after realizing Tf–idf---------------------------------------------------#
+    def add_id_after_tfidf(dataframe_tfid, df_initial):
+      array_id2 =df_initial['visit_id'].values
+      df_complete = dataframe_tfid.head(5530)
+      df_complete.insert(loc=0, column='ID', value=array_id2)
+    r eturn df_complete
+  ```
+  ---
 
 
-### 3. Organization Directories and files ###
+**4)Representation Result:** 
+  * **Result from Dataframe**:
+
+
+### 4. Organization Directories and files ###
 ```
 .Bag-of-attribute
 ├── ./Experiments
