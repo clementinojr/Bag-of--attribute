@@ -1,4 +1,4 @@
-#Bag-of-Attribute#
+# Bag-of-Attribute #
 
 **Attention**: Bag-of-Attribute **not** a commercial method. It is designed for educational and demonstration purposes **only**.
 
@@ -19,7 +19,7 @@
 **(2) Result of query:**
 
 
-**(3) Builder:** In this step, the functions of the algorithm used in each step of the proposal will show. The functions can be found in: [GenericMethods.py](https://github.com/JuniorClementino/Bag-of--attribute/blob/master/GenericMethods.py).
+**(3) Builder:** In this step, the functions of the algorithm used in each step of the proposal will show. The functions can be found in: [GenericMethods.py](https://github.com/JuniorClementino/Bag-of--attribute/blob/master/GenericMethod/GenericMethods.py).
 
 
   *(3.a):*
