@@ -2,13 +2,19 @@
 
 **Attention**: Bag-of-Attribute **not** a commercial method. It is designed for educational and demonstration purposes **only**.
 
+### 1. Brief introduction ###
+The repository is organized as follows:
+  * [Original Experiments:](https://github.com/JuniorClementino/Bag-of--attribute/tree/master/Experiments/OriginalExperiments)
+  * [Generic Method:](https://github.com/JuniorClementino/Bag-of--attribute/tree/master/GenericMethod)
+  * [Select Cohort:](https://github.com/JuniorClementino/Bag-of--attribute/tree/master/SelectCohort)
 
-### 1. Minimum requirements ###
+
+### 2. Minimum requirements ###
 
 * Python 3.
 * PostgreSQL.
 
-### 2. Required Library ###
+### 3. Required Library ###
   * json
   * re
   * pandas 
@@ -21,7 +27,7 @@
   * skmeans import SKMeans (in file)
 
 
-### 3. Explain with code Bag-of-Attribute ###
+### 4. Explain with code Bag-of-Attribute ###
 
  ![Main](./workflow_BoA.png)
 
@@ -34,7 +40,7 @@
 **(3) Builder:** In this step, the functions of the algorithm used in each step of the proposal will show. The functions can be found in: [GenericMethods.py](https://github.com/JuniorClementino/Bag-of--attribute/blob/master/GenericMethod/GenericMethods.py).
 
 -----------------------------
-  *(3.a):*
+  ***(3.a):* Receiving JSON file from "Select cohort" and reading the data in CSV format and entering the desired attributes.**
   
   * **read_principal_file:**
 
@@ -68,9 +74,9 @@ def read_principal_file(filename):
   ```
 ------------------------------------------------------------
  
-  (3.b):
+  ***(3.b): After selecting the attributes, it is necessary to transform to standardize their values. For this, apply the regular expression function. Then, a list is formed in the form of a dictionary to count the frequency of attributes.**
   * **put_id_nameoccurence:**
-  ```python
+```python
   #--------------------------------------Getting "id" + occurrence name and creating auxiliar Dataframe-----------------------#
 def put_id_nameoccurence(df_initial):
     count=0
@@ -98,7 +104,7 @@ def put_id_nameoccurence(df_initial):
     df_id_nome_concept = pd.DataFrame(list_of_tuples, columns = ['ID_visita','Cod_Ocorrencia' ,'Nome_Ocorrencia']) 
 
     return df_id_nome_concept
- ```
+```
 
   * **regular_expression:**
   ```python
@@ -114,7 +120,7 @@ def put_id_nameoccurence(df_initial):
     return x
   ```
 ----
-  (3.c):
+  (3.c)
   * **calculate_tfidf:**
   ```python
   #---------------------------------------- Calling TF-IDF method, turning text into count---------------------------------------#
@@ -185,6 +191,12 @@ def put_id_nameoccurence(df_initial):
 18 directories, 17 files
 
 ```
+### Acknowledgement ###
+The authors would like to thank Brazilian Coordination of Superior Level Staff Improvement (CAPES), grant PROEX-11357281/M;  the Sao Paulo Research Foundation (FAPESP), grants  2016/17078-0, 2018/06228-7, 2019/04660-1, 2018/06074-0; and the National Council for Scientific and Technological Development (CNPq).
+
+### Contact US ###
+
+
 
 ### References ####
 
