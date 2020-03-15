@@ -5,7 +5,7 @@
 ### 1. Brief introduction ###
 The repository is organized as follows:
   * [Original Experiments:](https://github.com/JuniorClementino/Bag-of--attribute/tree/master/Experiments/OriginalExperiments) contains the base files used to implement and obtain the results. The folders, files, and codes are available in a procedural way to facilitate the understanding of the results.
-  * [Generic Method:](https://github.com/JuniorClementino/Bag-of--attribute/tree/master/GenericMethod)
+  * [Generic Method:](https://github.com/JuniorClementino/Bag-of--attribute/tree/master/GenericMethod) contains codes in a generic way to facilitate the understanding and applicability of the method.
   * [Select Cohort:](https://github.com/JuniorClementino/Bag-of--attribute/tree/master/SelectCohort) contains the functions used to select the cohorts and the data retrieved after searching for each one.
 
 
