@@ -34,7 +34,7 @@ The repository is organized as follows:
 **(1) Cohort selector:** module was implemented as a function in the {*Structured Query Language*} (SQL) language to select all data referring to hospital admissions started within a time interval, which is a previously configured parameter. The two function utilized in this work can be find in Folder **"Select Cohort"**: [cohort_by_period_with_null.sql](https://github.com/JuniorClementino/Bag-of--attribute/blob/master/SelectCohort/cohort_by_period_with_null.sql) and [cohort_by_period_without_null.sql](https://github.com/JuniorClementino/Bag-of--attribute/blob/master/SelectCohort/cohort_by_period_without_null.sql).
 
 
-**(2) Result of query:** The data returned from the **"Select Cohort"** is made available in the files: [DataBaseWithNull.csv](https://github.com/JuniorClementino/Bag-of--attribute/blob/master/SelectCohort/DataBaseWithNull.csv) and [DataBaseWithOutNull.csv](https://github.com/JuniorClementino/Bag-of--attribute/blob/master/SelectCohort/DataBaseWithOutNull.csv) The first refers to **cohort results** that contain occurrences with null values and the second occurrences that do not have null values.
+
 
 
 **(3) Builder:** In this step, the functions of the algorithm used in each step of the proposal will show. The functions can be found in: [GenericMethods.py](https://github.com/JuniorClementino/Bag-of--attribute/blob/master/GenericMethod/GenericMethods.py).
